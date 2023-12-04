@@ -1,0 +1,3277 @@
+[
+    {
+        "id": "90a63ed7-93a2-4945-8436-6516cb0336ee",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-29T12:36:54.826Z",
+        "timestamp": 1695991014826,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "229ddb52038c4e51897bec5b471f30ef",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-29T12:36:54.547Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "2d262987-e476-4cdc-bbb6-1c3e0e9adce6",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-29T12:36:35.947Z",
+        "timestamp": 1695990995947,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "45db5748-732c-45a3-a64e-d6a30a61e5a0",
+                    "documentId": "229ddb52038c4e51897bec5b471f30ef",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-29T12:36:35.615Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "45db5748-732c-45a3-a64e-d6a30a61e5a0",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-09-19T14:15:25.939Z",
+        "timestamp": 1695132925945,
+        "text": "{\"blocks\":[{\"key\":\"d52o5\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1695132922116,
+                "metaDataId": "6d7714e8-e2c6-4faf-b2e8-e8609c3b5314",
+                "uniqueName": "229ddb52038c4e51897bec5b471f30ef",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [
+            {
+                "id": 2357,
+                "label": "123456789012345678",
+                "tenantId": "5018",
+                "createdAt": "2022-12-12T09:17:23.793Z"
+            }
+        ],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "d4c31f66-ed95-48ac-a1d2-5e9f7ef948f2",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-15T11:45:03.937Z",
+        "timestamp": 1694778303937,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "4521d34c9ffd4054a09f89cd44c81b63",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-15T11:45:03.515Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "56160b1e-b72e-4ddd-b5d0-e044b3497da7",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-15T11:38:48.852Z",
+        "timestamp": 1694777928853,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "b05e3d84-c0ef-4c53-a5fc-2d2675715360",
+                    "documentId": "4521d34c9ffd4054a09f89cd44c81b63",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-15T11:38:47.403Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "b05e3d84-c0ef-4c53-a5fc-2d2675715360",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-09-15T11:38:40.528Z",
+        "timestamp": 1694777920539,
+        "text": "{\"blocks\":[{\"key\":\"43egu\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1694777917318,
+                "metaDataId": "aff0b5e3-946a-48d3-828c-261c4e419eb1",
+                "uniqueName": "4521d34c9ffd4054a09f89cd44c81b63",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "6104cd7a-d0ed-4742-a5d5-0fa021a923f0",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-14T08:20:50.344Z",
+        "timestamp": 1694679650344,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "2bc196c5-5b24-47ba-a4a4-7fab25384347",
+                    "documentId": "1398d3c719fb4509985ae1ba7d5a966a",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-14T08:20:50.146Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "5ab96a22-5191-4bbb-b290-6277b7d327e4",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-12T11:41:13.423Z",
+        "timestamp": 1694518873423,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "c9c7e061-7b71-45f7-90f9-bd2475c1955a",
+                    "documentId": "d1fda653062b461798131122937573c9",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-12T11:41:12.806Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "43946e0c-201d-4c8a-9197-9a274e821dc4",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T13:49:23.574Z",
+        "timestamp": 1694440163574,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "586ce2cf399c4a0f9c7cb331cf57f239",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-11T13:49:21.961Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "2a5484ac-2b2b-4666-88f9-afb91daed4b1",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T13:49:13.394Z",
+        "timestamp": 1694440153394,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "5a31f866-80e6-4bc7-95ec-80c93ba3cb98",
+                    "documentId": "586ce2cf399c4a0f9c7cb331cf57f239",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-11T13:49:12.820Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "1fb1cf2e-9d87-4975-a571-01f5c91afc71",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T13:39:11.292Z",
+        "timestamp": 1694439551292,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "410e57cee644455e82ab286f9352f29d",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-11T13:39:10.678Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "696a86e7-dcbb-4387-85a9-01c08023af0c",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T09:23:26.260Z",
+        "timestamp": 1694424206260,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "f548ba3a-7ff9-4e6c-8913-aed8ff2d6fe2",
+                    "documentId": "167e3a0e2b9845fc9bb72c64ca6c4496",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-11T09:23:25.547Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "b4f6a781-ed74-4dc0-93a2-eec36225e64b",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T09:22:53.606Z",
+        "timestamp": 1694424173606,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "d0cd1326b9cb45aca3a820cbbb66fd94",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentRejected",
+                "timestamp": "2023-09-11T09:22:51.807Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "96354e4d-2c99-4421-8d86-77b9a22fde8e",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T09:21:06.634Z",
+        "timestamp": 1694424066634,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "0095543c-1c3f-443b-a66a-0c93965655b0",
+                    "documentId": "d0cd1326b9cb45aca3a820cbbb66fd94",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-11T09:21:06.069Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "a9db56cc-b4e4-4100-9639-112a7ab88373",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-11T08:21:38.041Z",
+        "timestamp": 1694420498041,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "f358b433-346c-4a58-a85c-babab485a190",
+                    "documentId": "410e57cee644455e82ab286f9352f29d",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-11T08:21:36.759Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "afeb904b-f9c8-4d92-bf55-751669b9d776",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T11:50:48.835Z",
+        "timestamp": 1694087448835,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "87f6e5575b2e46c2baf035ef2642a933",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T11:50:47.435Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "e1442842-7427-412a-a6a8-465d159afd08",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T11:50:39.524Z",
+        "timestamp": 1694087439524,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "07f7394a-3d4d-40b8-9bf9-f9492e3f4102",
+                    "documentId": "87f6e5575b2e46c2baf035ef2642a933",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T11:50:39.089Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "9ae8f424-9b59-4659-9aa8-ef9a7f8ea95f",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T11:38:39.231Z",
+        "timestamp": 1694086719231,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "cfc47ae965614e2a8503e2713aea3244",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T11:38:37.427Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "595b2159-795b-4e6c-9004-679e3fe0608f",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T11:31:06.304Z",
+        "timestamp": 1694086266304,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "4bf4e1b7c310464f804c18427d27a5e8",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T11:31:04.667Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "8b296d8f-5848-4461-aed8-fcdb22bfbdc8",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T11:04:47.929Z",
+        "timestamp": 1694084687929,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "1ed4895f-3508-4756-9f2e-d3c60c8ee67d",
+                    "documentId": "4bf4e1b7c310464f804c18427d27a5e8",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T11:04:46.322Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "1ed4895f-3508-4756-9f2e-d3c60c8ee67d",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-09-07T11:04:38.438Z",
+        "timestamp": 1694084678448,
+        "text": "{\"blocks\":[{\"key\":\"qdm0\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1694084673388,
+                "metaDataId": "b6594aae-624a-4c3e-b6e3-f6a0f58b93f0",
+                "uniqueName": "4bf4e1b7c310464f804c18427d27a5e8",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "0651e2b0-2e2a-4be7-8dd0-8414baafeb56",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:45:58.043Z",
+        "timestamp": 1694079958043,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "1_Y07KF-_laqG2cJ1Squ0Bag.png",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "43446d53fd2a45c18a5b41ee22b52e12",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T09:45:56.446Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "356029be-4240-416d-a3d6-3ef127ed5e93",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:45:43.443Z",
+        "timestamp": 1694079943443,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "1_Y07KF-_laqG2cJ1Squ0Bag.png",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "897078b5-f874-4547-aa6e-c490208fea02",
+                    "documentId": "43446d53fd2a45c18a5b41ee22b52e12",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T09:45:41.969Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "ea64a306-0c57-4d41-a62d-54ed3e1dc671",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:43:15.911Z",
+        "timestamp": 1694079795911,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "966c73326f0c4e53b463aef230e49277",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentRejected",
+                "timestamp": "2023-09-07T09:43:14.295Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "316d6e39-2d20-4a67-a37f-9881193c999e",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:43:00.290Z",
+        "timestamp": 1694079780290,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "11acf6a4-a0f7-4881-9921-abf6fab931ab",
+                    "documentId": "966c73326f0c4e53b463aef230e49277",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T09:42:59.698Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "37fdf5b0-040c-4229-a3f7-2ecdae375f06",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:41:19.186Z",
+        "timestamp": 1694079679186,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": [
+                        "test v2",
+                        "test approver 1"
+                    ],
+                    "documentId": "306d892f40204138ad1e81c738028a52",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T09:41:17.638Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "64f751c5-c5f6-44f3-9cc1-4beebe478410",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:39:55.993Z",
+        "timestamp": 1694079595994,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "47110e11-a801-4cb2-9a9f-ca1de6850621",
+                    "documentId": "306d892f40204138ad1e81c738028a52",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T09:39:55.385Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "e16497cb-d622-481d-9ffe-72f33cb38906",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:35:57.375Z",
+        "timestamp": 1694079357375,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "c6d6c93417af4aa5b82515e19ddab325",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T09:35:56.992Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "2256170b-305f-4569-b70a-de6e002e94fe",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:35:43.254Z",
+        "timestamp": 1694079343254,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "samplePDF.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "7b3acda2-200b-436f-aa75-348cb2045203",
+                    "documentId": "c6d6c93417af4aa5b82515e19ddab325",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T09:35:41.698Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "b6983a23-114e-498c-850c-2f5150590713",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T09:33:52.210Z",
+        "timestamp": 1694079232210,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "3386c9df899d48fa9f2456f8867c1ceb",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T09:33:50.710Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "7d25aec7-35ca-4305-9001-fedde0217325",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:49:36.749Z",
+        "timestamp": 1694076576749,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "3386c9df899d48fa9f2456f8867c1ceb",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T08:49:36.330Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "af6d26f9-3c80-489a-a8bb-9c201f8a3919",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:49:16.019Z",
+        "timestamp": 1694076556019,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "9d36a398-5c53-472a-b45a-02528382d095",
+                    "documentId": "3386c9df899d48fa9f2456f8867c1ceb",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T08:49:15.834Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "219e4c78-c6f6-4344-ab0c-b083205a736f",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:37:17.497Z",
+        "timestamp": 1694075837497,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "5746f5c12bfd4439b77ee443467c4237",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T08:37:17.218Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "0fa3f0e9-c970-4f12-b854-3e21c82e894f",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:36:53.509Z",
+        "timestamp": 1694075813509,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "29220aca-cc5a-4a19-8e41-d6202811f858",
+                    "documentId": "5746f5c12bfd4439b77ee443467c4237",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-07T08:36:53.067Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "7767beaa-886d-4a26-8496-3d2922889b14",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:35:35.895Z",
+        "timestamp": 1694075735895,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T08:35:34.890Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "3de8c979-7ed1-4aa8-af23-b21f7cf9e101",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:35:35.671Z",
+        "timestamp": 1694075735671,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T08:35:34.866Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "26cd722e-1c27-4a35-93bb-40d15e884855",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-07T08:35:35.578Z",
+        "timestamp": 1694075735578,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-09-07T08:35:34.848Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "9236c554-0a45-4645-a080-23dac0a7ea66",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-09-04T09:18:04.216Z",
+        "timestamp": 1693819084216,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "pdf.pdf",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "b6ee4642-5b4e-4ba7-ad2c-8024e0e73f4a",
+                    "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-09-04T09:18:02.796Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "b6ee4642-5b4e-4ba7-ad2c-8024e0e73f4a",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-09-01T06:52:08.323Z",
+        "timestamp": 1693551128330,
+        "text": "{\"blocks\":[{\"key\":\"f3vue\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1693551124640,
+                "metaDataId": "8a6c03f3-4900-4162-b544-da4f39122e5c",
+                "uniqueName": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "29220aca-cc5a-4a19-8e41-d6202811f858",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-24T11:13:22.550Z",
+        "timestamp": 1692875602557,
+        "text": "{\"blocks\":[{\"key\":\"f3vue\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692875597480,
+                "metaDataId": "d213a2a3-e8af-4de5-9ef9-6c7fc00829a5",
+                "uniqueName": "5746f5c12bfd4439b77ee443467c4237",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "9d36a398-5c53-472a-b45a-02528382d095",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-23T14:20:29.641Z",
+        "timestamp": 1692800429651,
+        "text": "{\"blocks\":[{\"key\":\"fd2q9\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692800413542,
+                "metaDataId": "9509a49e-09c9-4543-bb04-5debd4bd630d",
+                "uniqueName": "3386c9df899d48fa9f2456f8867c1ceb",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "7b3acda2-200b-436f-aa75-348cb2045203",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-22T08:02:35.830Z",
+        "timestamp": 1692691355841,
+        "text": "{\"blocks\":[{\"key\":\"fd2q9\",\"text\":\"4\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692691351981,
+                "metaDataId": "e8e22a8c-015f-45c9-a8c5-494e8461338b",
+                "uniqueName": "c6d6c93417af4aa5b82515e19ddab325",
+                "originalName": "samplePDF.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "47110e11-a801-4cb2-9a9f-ca1de6850621",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-22T08:00:32.718Z",
+        "timestamp": 1692691232725,
+        "text": "{\"blocks\":[{\"key\":\"au3l\",\"text\":\"t123214\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692691227209,
+                "metaDataId": "abfaf01e-9e04-422f-ad06-2db8026933ed",
+                "uniqueName": "306d892f40204138ad1e81c738028a52",
+                "originalName": "samplePDF.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "11acf6a4-a0f7-4881-9921-abf6fab931ab",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-22T07:57:04.828Z",
+        "timestamp": 1692691024834,
+        "text": "{\"blocks\":[{\"key\":\"au3l\",\"text\":\"test 123\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692691012528,
+                "metaDataId": "29498759-2d32-4fd4-9bee-292fe986cd9d",
+                "uniqueName": "966c73326f0c4e53b463aef230e49277",
+                "originalName": "samplePDF.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "897078b5-f874-4547-aa6e-c490208fea02",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-08-21T13:34:12.152Z",
+        "timestamp": 1692624852160,
+        "text": "{\"blocks\":[{\"key\":\"1p9ne\",\"text\":\"image test \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 51856,
+                "type": "image/png",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1692624846246,
+                "metaDataId": "d2ae2660-b46a-4e7f-83d2-105640c1a081",
+                "uniqueName": "43446d53fd2a45c18a5b41ee22b52e12",
+                "originalName": "1_Y07KF-_laqG2cJ1Squ0Bag.png",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "693f4e85-d31b-4b74-992f-1aaae9c104ab",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-08-18T09:14:48.303Z",
+        "timestamp": 1692350088303,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "messageId": "1cc59aa1-8056-4744-9511-d57343de0195",
+                    "documentId": "cfc47ae965614e2a8503e2713aea3244",
+                    "vesselName": "file test",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApprovalRequested",
+                "timestamp": "2023-08-18T09:14:46.234Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "a1a3be5c-a12a-43eb-9e3b-b047e5f82392",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-08-14T12:06:10.367Z",
+        "timestamp": 1692014770367,
+        "vesselName": "file test",
+        "type": "feed",
+        "feedMessages": [
+            {
+                "userId": "auth0|60a248a11a55450069baec66",
+                "eventData": {
+                    "name": "test.doc",
+                    "user": {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "fullName": "",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "comment": null,
+                    "documentId": "1700a0d70b3e40bb8400f8d64078155a",
+                    "approvedById": 5018,
+                    "requestedById": 5018,
+                    "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                },
+                "eventType": "DocumentApproved",
+                "timestamp": "2023-08-14T12:06:08.804Z",
+                "voyageIds": [
+                    "bb19d442-32a3-45bf-9744-71d4ae024639"
+                ]
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "4191be3b-9106-4f34-8912-01bbc80f7aa8",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-21T12:01:31.132Z",
+        "timestamp": 1689940891132,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-21T12:01:30.541Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "7e73617429d94017bb59f0b4fb9125a2",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "03ab4c41-8f6d-4909-adb2-d810645526d8",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-21T10:09:07.248Z",
+        "timestamp": 1689934147248,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "pdf.pdf"
+                },
+                "createdAt": "2023-07-21T10:09:05.851Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "0bee83392dff42139a95eb50bf005712",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "7123292d-56b6-45b7-88ad-b5ea7aaca0ad",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-21T08:53:47.376Z",
+        "timestamp": 1689929627376,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "pdf.pdf"
+                },
+                "createdAt": "2023-07-21T08:53:46.804Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "dd0d752b7c21419db6c0b0552cfe6cc1",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "becb02e0-f2c6-484f-b693-9866d8031152",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-20T08:15:48.296Z",
+        "timestamp": 1689840948296,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-20T08:15:47.703Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "078d6466358149d19d5b52b5b95aa5ef",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "fe363c10-745b-4393-9c4c-78ae4a18962e",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-19T10:58:10.908Z",
+        "timestamp": 1689764290908,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": "test old comment",
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-19T10:58:09.565Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "cad3c4c107d14fe3b343f84e4ddaa8d1",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "f358b433-346c-4a58-a85c-babab485a190",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T10:57:42.367Z",
+        "timestamp": 1689764262376,
+        "text": "{\"blocks\":[{\"key\":\"1p9ne\",\"text\":\"test123\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689764258988,
+                "metaDataId": "186fd3c3-55b1-4c1c-bddc-d5a7fe1da91e",
+                "uniqueName": "410e57cee644455e82ab286f9352f29d",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "dbb6ddef-6b1d-45c5-9e12-9766db4e349d",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-19T10:00:31.181Z",
+        "timestamp": 1689760831181,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-19T10:00:30.123Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "c7974ea5c4ed466b9b3cff0fd2470192",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "1d1d20ae-e666-44a4-9e6c-6720e8524f90",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-19T09:59:39.524Z",
+        "timestamp": 1689760779524,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-19T09:59:38.375Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "d9cfa10ee004414bba85262566811e71",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "948664fc-bf03-44f7-b22d-8ce2422f8860",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:59:19.579Z",
+        "timestamp": 1689760759585,
+        "text": "{\"blocks\":[{\"key\":\"8hvng\",\"text\":\"test finak\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689760753735,
+                "metaDataId": "964b83c7-2aa4-4f99-a7c1-43941a3a3a41",
+                "uniqueName": "d9cfa10ee004414bba85262566811e71",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "5a31f866-80e6-4bc7-95ec-80c93ba3cb98",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:54:41.673Z",
+        "timestamp": 1689760481681,
+        "text": "{\"blocks\":[{\"key\":\"8hvng\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689760476805,
+                "metaDataId": "86cc9994-9d5b-4258-bd9b-65418d5976e6",
+                "uniqueName": "586ce2cf399c4a0f9c7cb331cf57f239",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "7b312307-95fc-4089-aa55-7a2872a90bf2",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-19T09:54:00.861Z",
+        "timestamp": 1689760440861,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-19T09:53:59.270Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "4100001fa3e5491f993594edd45ecb02",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "e0164dc7-a7ab-471e-a36e-c12d599d21cd",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:53:45.220Z",
+        "timestamp": 1689760425229,
+        "text": "{\"blocks\":[{\"key\":\"9733v\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689760422061,
+                "metaDataId": "f58a50bd-10b9-4aad-8080-5f71146d26b0",
+                "uniqueName": "4100001fa3e5491f993594edd45ecb02",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "c8e77420-7b80-4c26-8f7d-6e5c7e70bee6",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:48:05.915Z",
+        "timestamp": 1689760085923,
+        "text": "{\"blocks\":[{\"key\":\"9733v\",\"text\":\"test\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689760081913,
+                "metaDataId": "6cce4f06-a7b3-4398-8d90-5fad2f3c7851",
+                "uniqueName": "cad3c4c107d14fe3b343f84e4ddaa8d1",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "2299c547-2ff3-42bb-93b5-5e5c64ab0c73",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:47:24.392Z",
+        "timestamp": 1689760044402,
+        "text": "{\"blocks\":[{\"key\":\"1iqj8\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689760041917,
+                "metaDataId": "81e3c66a-4706-4e14-955c-065f31902766",
+                "uniqueName": "078d6466358149d19d5b52b5b95aa5ef",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "73114055-6982-4281-818b-75791195a608",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:45:14.844Z",
+        "timestamp": 1689759914850,
+        "text": "{\"blocks\":[{\"key\":\"1iqj8\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689759911242,
+                "metaDataId": "ff952881-6ef0-4ca5-8e95-acb1548c3ebc",
+                "uniqueName": "ef377707a9504c01b145a07b2c4645e4",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "2bc196c5-5b24-47ba-a4a4-7fab25384347",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:44:19.621Z",
+        "timestamp": 1689759859631,
+        "text": "{\"blocks\":[{\"key\":\"6oh\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689759855760,
+                "metaDataId": "c5ad2b2d-a45d-4ca4-bca2-3829396a1f56",
+                "uniqueName": "1398d3c719fb4509985ae1ba7d5a966a",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "bcf1a8d3-fe3b-42bb-bd3d-9b1016c1e2f1",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:43:23.288Z",
+        "timestamp": 1689759803297,
+        "text": "{\"blocks\":[{\"key\":\"6oh\",\"text\":\"test2134\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689759797399,
+                "metaDataId": "3ecdbc9b-9caa-4b1a-a54b-1644b2cbd8d6",
+                "uniqueName": "1700a0d70b3e40bb8400f8d64078155a",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "c9c7e061-7b71-45f7-90f9-bd2475c1955a",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:38:07.158Z",
+        "timestamp": 1689759487167,
+        "text": "{\"blocks\":[{\"key\":\"ebcdq\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689759483457,
+                "metaDataId": "9ef40c94-40ef-4252-9302-88f9d69375c8",
+                "uniqueName": "d1fda653062b461798131122937573c9",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "c762811e-6cf3-434d-851e-4d8ffa2ed11d",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:36:59.285Z",
+        "timestamp": 1689759419296,
+        "text": "{\"blocks\":[{\"key\":\"ebcdq\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689759414764,
+                "metaDataId": "859e9ba8-be11-4152-a95d-e045b967be5e",
+                "uniqueName": "93f134a5042e4fd391c7fb922083834b",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "9ecaf6d4-4eaf-4ebb-89d1-511d8e127b96",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:12:10.224Z",
+        "timestamp": 1689757930229,
+        "text": "{\"blocks\":[{\"key\":\"c443s\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757925987,
+                "metaDataId": "76b2ab88-bb0c-480b-b970-de88164a91b8",
+                "uniqueName": "c7974ea5c4ed466b9b3cff0fd2470192",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "39a35738-26dd-4180-82a9-ab9b7c10781d",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:11:39.176Z",
+        "timestamp": 1689757899187,
+        "text": "{\"blocks\":[{\"key\":\"dqgmr\",\"text\":\"521512\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757895188,
+                "metaDataId": "59280ae0-4c5a-4cad-8328-0072d3e82712",
+                "uniqueName": "2df59c4630fd46d58cc5b5e35814e41f",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "e19d58f4-ae8e-4d43-a6f8-e2c015e15a32",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:08:02.157Z",
+        "timestamp": 1689757682166,
+        "text": "{\"blocks\":[{\"key\":\"dqgmr\",\"text\":\"teast\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757677056,
+                "metaDataId": "ad586bec-96e2-48b2-b20e-28bff3784001",
+                "uniqueName": "6b540f1b359945ef9c14c532386a313d",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "f03097fb-1117-4895-b3cf-48a1a428c1e1",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:07:17.500Z",
+        "timestamp": 1689757637509,
+        "text": "{\"blocks\":[{\"key\":\"d33o4\",\"text\":\"4215125\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757632575,
+                "metaDataId": "85f8c152-cf88-40ed-bba9-3fe0e8b66d23",
+                "uniqueName": "720b60655c104744a85cf3ccb405e6ae",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "35e35c9e-9070-475f-b5ce-ed9573e51133",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T09:00:51.721Z",
+        "timestamp": 1689757251729,
+        "text": "{\"blocks\":[{\"key\":\"d33o4\",\"text\":\"tast\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757247647,
+                "metaDataId": "902362de-2ef0-422c-9f93-6500fac23348",
+                "uniqueName": "c03c81d3b2e840b28eaeca5e8b79d3fd",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "167eec57-7b13-4bbf-a60e-e7cc4247861d",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:57:54.238Z",
+        "timestamp": 1689757074248,
+        "text": "{\"blocks\":[{\"key\":\"510jg\",\"text\":\"512516\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757068500,
+                "metaDataId": "5f208928-2a95-4c73-b863-2a66596ade21",
+                "uniqueName": "c26e32e8b7014043ada29f8f179e9a56",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "60160cb7-113e-429a-aed3-097ff3a4fb4e",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:56:44.419Z",
+        "timestamp": 1689757004426,
+        "text": "{\"blocks\":[{\"key\":\"510jg\",\"text\":\"4125125\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689757000669,
+                "metaDataId": "d674cd80-390a-488d-95ae-4301732c9ad1",
+                "uniqueName": "c9dc24b231834d8887240f98d8acbca2",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "0095543c-1c3f-443b-a66a-0c93965655b0",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:56:05.949Z",
+        "timestamp": 1689756965959,
+        "text": "{\"blocks\":[{\"key\":\"or0s\",\"text\":\"5125126\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756962378,
+                "metaDataId": "aff0edda-5b1d-42b3-aa76-037133fea1d3",
+                "uniqueName": "d0cd1326b9cb45aca3a820cbbb66fd94",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "f548ba3a-7ff9-4e6c-8913-aed8ff2d6fe2",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:53:02.395Z",
+        "timestamp": 1689756782402,
+        "text": "{\"blocks\":[{\"key\":\"5rmv5\",\"text\":\"42156\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756776547,
+                "metaDataId": "560f5670-5832-4d83-9a7b-e95ec2d8af55",
+                "uniqueName": "167e3a0e2b9845fc9bb72c64ca6c4496",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "f0dec77b-7a3e-47d3-9ddd-6847f779ec6f",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:52:23.494Z",
+        "timestamp": 1689756743504,
+        "text": "{\"blocks\":[{\"key\":\"5rmv5\",\"text\":\"4125\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756737593,
+                "metaDataId": "fb04ef0d-9675-4296-bf5b-8ac58e4ed21d",
+                "uniqueName": "9fd3031a87c54ed38eb5870405ecb6b0",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "07f7394a-3d4d-40b8-9bf9-f9492e3f4102",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:50:03.939Z",
+        "timestamp": 1689756603948,
+        "text": "{\"blocks\":[{\"key\":\"fbutu\",\"text\":\"test1245\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756595200,
+                "metaDataId": "d2b31898-5ab4-4890-a5d7-f68b9882eb84",
+                "uniqueName": "87f6e5575b2e46c2baf035ef2642a933",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "43d38fb3-749f-4de3-8d1a-e451623c92df",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:45:30.494Z",
+        "timestamp": 1689756330501,
+        "text": "{\"blocks\":[{\"key\":\"fbutu\",\"text\":\"test4125\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756326181,
+                "metaDataId": "21eac046-4cef-4796-9d68-a55f23b86b9f",
+                "uniqueName": "30d33f1714c64124a52571012230b024",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "1cc59aa1-8056-4744-9511-d57343de0195",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:43:35.633Z",
+        "timestamp": 1689756215639,
+        "text": "{\"blocks\":[{\"key\":\"dgmch\",\"text\":\"test34\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689756209042,
+                "metaDataId": "8173c01d-cb5c-4a10-a39a-4166673ffe92",
+                "uniqueName": "cfc47ae965614e2a8503e2713aea3244",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "06095b18-b5e8-44f2-a462-cec9dbfe7315",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:30:53.301Z",
+        "timestamp": 1689755453313,
+        "text": "{\"blocks\":[{\"key\":\"dgmch\",\"text\":\"test1\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689755441121,
+                "metaDataId": "ce2781ff-20c9-4289-9844-fc76391f3f5d",
+                "uniqueName": "0bee83392dff42139a95eb50bf005712",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "d4a39806-323c-4ef2-94c6-66eb1319f629",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T08:30:04.946Z",
+        "timestamp": 1689755404958,
+        "text": "{\"blocks\":[{\"key\":\"6p2cf\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689755402665,
+                "metaDataId": "d492c7d6-e747-46b8-b689-628c5243db0b",
+                "uniqueName": "7e73617429d94017bb59f0b4fb9125a2",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "19bacb5d-071a-4569-8135-acd297b418b3",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-19T07:43:35.155Z",
+        "timestamp": 1689752615163,
+        "text": "{\"blocks\":[{\"key\":\"6p2cf\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1689752611529,
+                "metaDataId": "018a4f34-d02a-40fc-9ff1-17373416341d",
+                "uniqueName": "dd0d752b7c21419db6c0b0552cfe6cc1",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": null,
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "1e81b9cf-c928-4ed8-a2de-1280285ee826",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-18T14:19:06.396Z",
+        "timestamp": 1689689946396,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "samplePDF.pdf"
+                },
+                "createdAt": "2023-07-18T14:19:06.070Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "3c24c09ba6674df7b8289f5115712138",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "706a828a-bfc5-4fdc-9e1f-bafa175402ad",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-18T13:22:59.908Z",
+        "timestamp": 1689686579908,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": null,
+                    "senderId": 5018,
+                    "originalFileName": "samplePDF.pdf"
+                },
+                "createdAt": "2023-07-18T13:22:58.783Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "d5aefcf2795c4c608268329bd5473bee",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "5caaf078-6971-4e7d-92ad-f0c4f3a14535",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-17T15:13:37.673Z",
+        "timestamp": 1689606817673,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": "",
+                    "senderId": 5018,
+                    "originalFileName": "pdf.pdf"
+                },
+                "createdAt": "2023-07-17T15:13:36.547Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "c4e5a9d5904b4559adf2f9926993f4b2",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "e48e0d2b-577d-4e7c-a1d7-c87c552a1157",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-17T13:01:07.294Z",
+        "timestamp": 1689598867294,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": "",
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-17T13:01:06.879Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "2808d6fbd299414ba8456ed216ab7001",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "42160b38-7b1b-4044-add1-b7e04844a0d1",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-07-11T09:58:20.633Z",
+        "timestamp": 1689069500633,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": "Old comment here",
+                    "senderId": 5018,
+                    "originalFileName": "test.doc"
+                },
+                "createdAt": "2023-07-11T09:58:15.998Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "bab52a6acf9a41a795517b13eba70765",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "04edce30-f4d5-4fa6-95e0-b533b67cd72e",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-06T14:23:13.939Z",
+        "timestamp": 1688653393948,
+        "text": "{\"blocks\":[{\"key\":\"csrhn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1688653386774,
+                "metaDataId": "64e9474b-1226-45ea-a715-7d5b9ceecaf5",
+                "uniqueName": "d5aefcf2795c4c608268329bd5473bee",
+                "originalName": "samplePDF.pdf",
+                "deliveryStatus": "delivered"
+            },
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1688653390913,
+                "metaDataId": "5732ac48-bd64-4086-b91d-7351a75410d5",
+                "uniqueName": "c4e5a9d5904b4559adf2f9926993f4b2",
+                "originalName": "pdf.pdf",
+                "deliveryStatus": "delivered"
+            },
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1688653382581,
+                "metaDataId": "b6368af4-9836-4719-b635-ec1ebf14b5fd",
+                "uniqueName": "2808d6fbd299414ba8456ed216ab7001",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": "",
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "bda05bf5-128e-4b7c-b366-dd7c4363cb4a",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5018",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-06T14:22:40.653Z",
+        "timestamp": 1688653360660,
+        "text": "{\"blocks\":[{\"key\":\"csrhn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 19456,
+                "type": "application/msword",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1688653356528,
+                "metaDataId": "70213d40-eb3e-4e88-80c0-71adf0d04123",
+                "uniqueName": "bab52a6acf9a41a795517b13eba70765",
+                "originalName": "test.doc",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": "",
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "bb1bdc9d-8a12-474f-9e99-9453a00d995d",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|60a248a11a55450069baec66",
+            "isNPP": false,
+            "tenantId": "5019",
+            "userName": "Joni Mitchellbm"
+        },
+        "createdAt": "2023-07-05T08:55:25.241Z",
+        "timestamp": 1688547325600,
+        "text": "{\"blocks\":[{\"key\":\"du1lk\",\"text\":\"test123\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 3028,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1688547317302,
+                "metaDataId": "0c143c06-af66-4767-82b4-2ce573120fa1",
+                "uniqueName": "3c24c09ba6674df7b8289f5115712138",
+                "originalName": "samplePDF.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": "",
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "0243cc19-2df4-489e-a3c8-3269ee29bc59",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-05-29T08:42:44.036Z",
+        "timestamp": 1685349764036,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "APPROVED",
+                    "comment": "",
+                    "senderId": 5020,
+                    "originalFileName": "draft Certificate of origin.pdf"
+                },
+                "createdAt": "2023-05-29T08:42:43.734Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "22a368be814247c6b2e102aef7e2a2e1",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "89c8046c-3c88-4fed-adab-0f9968b1eed5",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|62458e1684c2880069e3a389",
+            "isNPP": false,
+            "tenantId": "5020",
+            "userName": "Septimiu Chira"
+        },
+        "createdAt": "2023-05-29T08:41:24.202Z",
+        "timestamp": 1685349684302,
+        "text": "{\"blocks\":[{\"key\":\"3m794\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 27507,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1685349683468,
+                "metaDataId": "08833f0a-1f3e-4edb-9aa7-575effe9dd9f",
+                "uniqueName": "22a368be814247c6b2e102aef7e2a2e1",
+                "originalName": "draft Certificate of origin.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": "",
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "c5441020-e449-4fd0-93f6-e0d134a5743f",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-05-29T08:39:29.282Z",
+        "timestamp": 1685349569282,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "status": "REJECTED",
+                    "comment": "",
+                    "senderId": 5020,
+                    "originalFileName": "draft Certificate of origin.pdf"
+                },
+                "createdAt": "2023-05-29T08:39:28.082Z",
+                "legalEntity": "5018",
+                "messageType": "doc_review_completed",
+                "referenceId": "81f6125ff70a4fc080246ff2eeb6c046",
+                "referenceEntity": "DOCUMENT"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "4fb2daee-2900-4677-a2da-6cfc7d46bd78",
+        "tenantId": "5018",
+        "createdBy": {
+            "id": "auth0|62458e1684c2880069e3a389",
+            "isNPP": false,
+            "tenantId": "5020",
+            "userName": "Septimiu Chira"
+        },
+        "createdAt": "2023-05-29T08:39:16.897Z",
+        "timestamp": 1685349556950,
+        "text": "{\"blocks\":[{\"key\":\"3m794\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "attachments": [
+            {
+                "size": 27507,
+                "type": "application/pdf",
+                "error": {},
+                "status": "SUCCESS",
+                "entityId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+                "container": "5b753d1260075229a85d47e6f41a00f3",
+                "timestamp": 1685349551139,
+                "metaDataId": "2580fcc3-ca52-4d93-935d-3dd2e9956e7a",
+                "uniqueName": "81f6125ff70a4fc080246ff2eeb6c046",
+                "originalName": "draft Certificate of origin.pdf",
+                "deliveryStatus": "delivered"
+            }
+        ],
+        "embeddedImages": [],
+        "vesselName": "file test",
+        "tags": [],
+        "nonPlatformParticipants": [],
+        "subject": "",
+        "type": "manually",
+        "thread": null,
+        "inReplyMessageId": null
+    },
+    {
+        "id": "4664a99e-dea4-4dcb-9fc3-cb574ffa5351",
+        "tenantId": "5018",
+        "createdBy": {},
+        "createdAt": "2023-05-19T09:00:22.838Z",
+        "timestamp": 1684486822838,
+        "vesselName": "file test",
+        "type": "system-message",
+        "systemMessages": [
+            {
+                "metadata": {
+                    "subject": "did",
+                    "senderId": 5018
+                },
+                "createdAt": "2023-05-19T09:00:19.840Z",
+                "legalEntity": "5018",
+                "messageType": "created",
+                "referenceId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+                "referenceEntity": "DI"
+            }
+        ],
+        "thread": null,
+        "inReplyMessageId": null
+    }
+]

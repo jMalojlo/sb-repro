@@ -1,0 +1,2555 @@
+[
+    {
+        "documentId": "0bee83392dff42139a95eb50bf005712",
+        "fileId": "0bee83392dff42139a95eb50bf005712",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-21T10:08:54.392Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-21T10:09:05.851Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "410e57cee644455e82ab286f9352f29d",
+        "fileId": "410e57cee644455e82ab286f9352f29d",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-11T08:21:36.747Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-11T13:39:10.666Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "04b6b3a6-a9a0-41a4-996b-f269a488c5a8",
+                "content": "12356",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T13:39:10.665Z"
+            },
+            {
+                "commentId": "a3929577-f98e-43aa-81f2-fdbaf3809c2a",
+                "content": "teast123",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T13:39:10.665Z"
+            },
+            {
+                "commentId": "7fc15571-7378-4d91-9370-0235f0f653d1",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T10:29:44.099Z"
+            }
+        ]
+    },
+    {
+        "documentId": "7e73617429d94017bb59f0b4fb9125a2",
+        "fileId": "7e73617429d94017bb59f0b4fb9125a2",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-21T12:01:21.160Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-21T12:01:30.541Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "dd0d752b7c21419db6c0b0552cfe6cc1",
+        "fileId": "dd0d752b7c21419db6c0b0552cfe6cc1",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-21T08:53:40.243Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-21T08:53:46.804Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "586ce2cf399c4a0f9c7cb331cf57f239",
+        "fileId": "586ce2cf399c4a0f9c7cb331cf57f239",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-11T13:49:12.803Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-11T13:49:21.950Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "6243e2ad-e8ca-4417-a4dd-d84eeed425bd",
+                "content": "21315",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T13:49:21.950Z"
+            },
+            {
+                "commentId": "4e366468-8bf7-4109-a8af-82d11ac44f9e",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T13:49:21.950Z"
+            }
+        ]
+    },
+    {
+        "documentId": "d1fda653062b461798131122937573c9",
+        "fileId": "d1fda653062b461798131122937573c9",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-12T11:41:12.795Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": null,
+                "familyName": null
+            },
+            "repliedAt": null,
+            "status": "PENDING",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "93f134a5042e4fd391c7fb922083834b",
+        "fileId": "93f134a5042e4fd391c7fb922083834b",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "1700a0d70b3e40bb8400f8d64078155a",
+        "fileId": "1700a0d70b3e40bb8400f8d64078155a",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-26T08:06:51.752Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-08-14T12:06:08.793Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "720b60655c104744a85cf3ccb405e6ae",
+        "fileId": "720b60655c104744a85cf3ccb405e6ae",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "c26e32e8b7014043ada29f8f179e9a56",
+        "fileId": "c26e32e8b7014043ada29f8f179e9a56",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "c9dc24b231834d8887240f98d8acbca2",
+        "fileId": "c9dc24b231834d8887240f98d8acbca2",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "9fd3031a87c54ed38eb5870405ecb6b0",
+        "fileId": "9fd3031a87c54ed38eb5870405ecb6b0",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "c03c81d3b2e840b28eaeca5e8b79d3fd",
+        "fileId": "c03c81d3b2e840b28eaeca5e8b79d3fd",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "c7974ea5c4ed466b9b3cff0fd2470192",
+        "fileId": "c7974ea5c4ed466b9b3cff0fd2470192",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T10:00:27.231Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-19T10:00:30.123Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "81f6125ff70a4fc080246ff2eeb6c046",
+        "fileId": "81f6125ff70a4fc080246ff2eeb6c046",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "draft Certificate of origin.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 27507,
+            "mimeType": "application/pdf",
+            "originalFileName": "draft Certificate of origin.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5020,
+                "givenName": "Septimiu",
+                "familyName": "Chira"
+            },
+            "requestedAt": "2023-05-29T08:39:23.421Z",
+            "approver": {
+                "legalEntityId": 5020,
+                "givenName": "Septimiu",
+                "familyName": "Chira"
+            },
+            "repliedAt": "2023-05-29T08:39:28.082Z",
+            "status": "REJECTED",
+            "comment": ""
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "",
+                "commentedBy": {
+                    "legalEntityId": 5020,
+                    "userId": null,
+                    "givenName": "Septimiu",
+                    "familyName": "Chira"
+                },
+                "createdAt": "2023-05-29T08:39:28.082Z"
+            }
+        ]
+    },
+    {
+        "documentId": "1398d3c719fb4509985ae1ba7d5a966a",
+        "fileId": "1398d3c719fb4509985ae1ba7d5a966a",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-14T08:20:50.136Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": null,
+                "familyName": null
+            },
+            "repliedAt": null,
+            "status": "PENDING",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "3182d6da-d248-4d6a-adaa-b06e6ae6a682",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T10:27:54.838Z"
+            },
+            {
+                "commentId": "84cb4411-fd1b-4303-a01f-b2942a9a4f1d",
+                "content": "test1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T11:35:57.048Z"
+            }
+        ]
+    },
+    {
+        "documentId": "167e3a0e2b9845fc9bb72c64ca6c4496",
+        "fileId": "167e3a0e2b9845fc9bb72c64ca6c4496",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-11T09:23:25.538Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": null,
+                "familyName": null
+            },
+            "repliedAt": null,
+            "status": "PENDING",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "6b540f1b359945ef9c14c532386a313d",
+        "fileId": "6b540f1b359945ef9c14c532386a313d",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "2df59c4630fd46d58cc5b5e35814e41f",
+        "fileId": "2df59c4630fd46d58cc5b5e35814e41f",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "d0cd1326b9cb45aca3a820cbbb66fd94",
+        "fileId": "d0cd1326b9cb45aca3a820cbbb66fd94",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-11T09:21:06.054Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-11T09:22:51.785Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "c89a0f60-bf91-40a9-8774-c85f80fbb243",
+                "content": "test1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T09:21:53.559Z"
+            },
+            {
+                "commentId": "2b6a4344-8b19-43ee-98d5-95e109d3978d",
+                "content": "test123",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-11T09:22:51.785Z"
+            }
+        ]
+    },
+    {
+        "documentId": "87f6e5575b2e46c2baf035ef2642a933",
+        "fileId": "87f6e5575b2e46c2baf035ef2642a933",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T11:50:39.074Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T11:50:47.427Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "a46826b6-b6c8-4f49-a15b-57743c527ff8",
+                "content": "t1235",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:50:47.427Z"
+            },
+            {
+                "commentId": "1afaa9e9-44db-4491-afe6-19057cfccf13",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:50:47.427Z"
+            }
+        ]
+    },
+    {
+        "documentId": "30d33f1714c64124a52571012230b024",
+        "fileId": "30d33f1714c64124a52571012230b024",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "cfc47ae965614e2a8503e2713aea3244",
+        "fileId": "cfc47ae965614e2a8503e2713aea3244",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-08-18T09:14:46.189Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T11:38:37.408Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "491362b8-cbc8-42c9-aa74-e4adff7d0198",
+                "content": "teast 1255",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:38:37.408Z"
+            },
+            {
+                "commentId": "25481bdb-81ec-4d87-84d7-17c8eea07c30",
+                "content": "teast12 v2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:38:37.408Z"
+            },
+            {
+                "commentId": "7dfb1bfe-1c4a-4806-a798-6e90ae54f6ad",
+                "content": "test 125",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:38:37.408Z"
+            },
+            {
+                "commentId": "29f9031b-ecc7-447c-bca3-7f0047d4d5e2",
+                "content": "teast",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:42:27.397Z"
+            }
+        ]
+    },
+    {
+        "documentId": "d9cfa10ee004414bba85262566811e71",
+        "fileId": "d9cfa10ee004414bba85262566811e71",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "DRAFT",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T09:59:33.162Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-19T09:59:38.375Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "ef377707a9504c01b145a07b2c4645e4",
+        "fileId": "ef377707a9504c01b145a07b2c4645e4",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T09:50:00.698Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-08-07T20:14:34.930Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "078d6466358149d19d5b52b5b95aa5ef",
+        "fileId": "078d6466358149d19d5b52b5b95aa5ef",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T09:49:18.311Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-20T08:15:47.703Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "cad3c4c107d14fe3b343f84e4ddaa8d1",
+        "fileId": "cad3c4c107d14fe3b343f84e4ddaa8d1",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T09:48:28.013Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-19T10:58:09.565Z",
+            "status": "APPROVED",
+            "comment": "test old comment"
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "test old comment",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-19T10:58:09.565Z"
+            }
+        ]
+    },
+    {
+        "documentId": "3c24c09ba6674df7b8289f5115712138",
+        "fileId": "3c24c09ba6674df7b8289f5115712138",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "samplePDF.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "samplePDF.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-18T14:18:58.883Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-18T14:19:06.070Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "d5aefcf2795c4c608268329bd5473bee",
+        "fileId": "d5aefcf2795c4c608268329bd5473bee",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "samplePDF.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "samplePDF.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-17T15:13:06.665Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-18T13:22:58.783Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "c4e5a9d5904b4559adf2f9926993f4b2",
+        "fileId": "c4e5a9d5904b4559adf2f9926993f4b2",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-17T10:22:49.630Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-17T15:13:36.547Z",
+            "status": "APPROVED",
+            "comment": ""
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-17T15:13:36.547Z"
+            },
+            {
+                "commentId": "eba5ee8a-3834-4875-87f0-80b90dd285f3",
+                "content": "test comment 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-10T16:23:23.292Z"
+            },
+            {
+                "commentId": "5ec65fc5-4af0-4e5e-8bd9-31ae5757ad58",
+                "content": "test comment 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-10T16:23:23.292Z"
+            },
+            {
+                "commentId": "d37459c3-7de2-4f34-a702-df2e8179f935",
+                "content": "test comment 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-10T16:24:14.488Z"
+            },
+            {
+                "commentId": "7e989812-f45b-4d74-82a6-5fdd3457fe24",
+                "content": "test comment 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-10T16:24:14.488Z"
+            },
+            {
+                "commentId": "80abb34d-8220-48ba-8f81-9ee6b3096db1",
+                "content": "test comment 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-13T07:38:36.704Z"
+            },
+            {
+                "commentId": "2c070c46-08d5-4427-b76e-e125ac50db91",
+                "content": "test comment 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-13T07:38:36.704Z"
+            },
+            {
+                "commentId": "8e43d044-ea91-4a13-bc4e-4b9fe516e3eb",
+                "content": "test comment 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-13T07:38:38.938Z"
+            },
+            {
+                "commentId": "d5ed04e8-15e4-4f9e-b3b8-fbd4a3c6b59a",
+                "content": "test comment 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-13T07:38:38.938Z"
+            }
+        ]
+    },
+    {
+        "documentId": "bab52a6acf9a41a795517b13eba70765",
+        "fileId": "bab52a6acf9a41a795517b13eba70765",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-11T09:58:00.730Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-11T09:58:15.998Z",
+            "status": "APPROVED",
+            "comment": "Old comment here"
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "Old comment here",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-11T09:58:15.998Z"
+            }
+        ]
+    },
+    {
+        "documentId": "2808d6fbd299414ba8456ed216ab7001",
+        "fileId": "2808d6fbd299414ba8456ed216ab7001",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-06T14:52:45.187Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-17T13:01:06.879Z",
+            "status": "REJECTED",
+            "comment": ""
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-07-17T13:01:06.879Z"
+            }
+        ]
+    },
+    {
+        "documentId": "22a368be814247c6b2e102aef7e2a2e1",
+        "fileId": "22a368be814247c6b2e102aef7e2a2e1",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "draft Certificate of origin.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 27507,
+            "mimeType": "application/pdf",
+            "originalFileName": "draft Certificate of origin.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5020,
+                "givenName": "Septimiu",
+                "familyName": "Chira"
+            },
+            "requestedAt": "2023-05-29T08:41:43.892Z",
+            "approver": {
+                "legalEntityId": 5020,
+                "givenName": "Septimiu",
+                "familyName": "Chira"
+            },
+            "repliedAt": "2023-05-29T08:42:43.734Z",
+            "status": "APPROVED",
+            "comment": ""
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "",
+                "commentedBy": {
+                    "legalEntityId": 5020,
+                    "userId": null,
+                    "givenName": "Septimiu",
+                    "familyName": "Chira"
+                },
+                "createdAt": "2023-05-29T08:42:43.734Z"
+            }
+        ]
+    },
+    {
+        "documentId": "43446d53fd2a45c18a5b41ee22b52e12",
+        "fileId": "43446d53fd2a45c18a5b41ee22b52e12",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "1_Y07KF-_laqG2cJ1Squ0Bag.png",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 51856,
+            "mimeType": "image/png",
+            "originalFileName": "1_Y07KF-_laqG2cJ1Squ0Bag.png"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T09:45:41.961Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T09:45:56.438Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "8456b93f-bf7e-4b39-a397-af4f3f5b0f7c",
+                "content": "teast 125",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T09:45:56.438Z"
+            },
+            {
+                "commentId": "87b83745-9836-4be8-aa30-c5090c7cb268",
+                "content": "tesrt 123",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T09:45:56.438Z"
+            }
+        ]
+    },
+    {
+        "documentId": "966c73326f0c4e53b463aef230e49277",
+        "fileId": "966c73326f0c4e53b463aef230e49277",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "samplePDF.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "samplePDF.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T09:42:59.692Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T09:43:14.286Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "77f01f4c-10c4-402b-8a76-d65d7c920c50",
+                "content": "v2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T09:43:14.286Z"
+            },
+            {
+                "commentId": "b7f9fbf4-13e1-4eac-84ea-cff22ccb831f",
+                "content": "test rejectef ",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T09:43:14.286Z"
+            }
+        ]
+    },
+    {
+        "documentId": "306d892f40204138ad1e81c738028a52",
+        "fileId": "306d892f40204138ad1e81c738028a52",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "samplePDF.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "samplePDF.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T09:39:55.378Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T09:41:17.628Z",
+            "status": "APPROVED",
+            "comment": "{\"test v2\",\"test approver 1\"}"
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "content": "{\"test v2\",\"test approver 1\"}",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T09:41:17.628Z"
+            }
+        ]
+    },
+    {
+        "documentId": "c6d6c93417af4aa5b82515e19ddab325",
+        "fileId": "c6d6c93417af4aa5b82515e19ddab325",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "samplePDF.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "samplePDF.pdf"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T09:35:41.689Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T09:35:56.984Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "3386c9df899d48fa9f2456f8867c1ceb",
+        "fileId": "3386c9df899d48fa9f2456f8867c1ceb",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T08:49:15.827Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T09:33:50.696Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "e6564032-ef54-4461-8512-9ce8fe5cfb2d",
+                "content": "test 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T08:49:36.391Z"
+            },
+            {
+                "commentId": "98810189-577f-48e1-adf6-7c4214fc3670",
+                "content": "test with approve",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T08:49:36.391Z"
+            }
+        ]
+    },
+    {
+        "documentId": "5746f5c12bfd4439b77ee443467c4237",
+        "fileId": "5746f5c12bfd4439b77ee443467c4237",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T08:36:53.056Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T08:37:17.209Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    },
+    {
+        "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+        "fileId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-04T09:18:02.784Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T08:35:34.850Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "c8752573-73cc-4733-87ec-6e218805d43c",
+                "content": "test 123",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-01T07:11:28.084Z"
+            },
+            {
+                "commentId": "cf59bd79-5ea0-47a4-a510-16d4b1760da5",
+                "content": "teast214125",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-01T07:13:40.201Z"
+            },
+            {
+                "commentId": "abaf617b-efb7-40c1-ba19-257e97843abe",
+                "content": "test3",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-01T07:40:06.450Z"
+            },
+            {
+                "commentId": "9f5e03ba-e008-439a-9381-2cedc85d66ab",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-04T09:00:14.933Z"
+            },
+            {
+                "commentId": "dbda41f3-4b89-4605-8658-f224e15c8316",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-04T10:07:08.398Z"
+            },
+            {
+                "commentId": "30847018-3503-4f0b-b8d1-b13c6f90bcdc",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-04T10:07:09.209Z"
+            },
+            {
+                "commentId": "23695d3d-d876-4e9a-802a-b3950f022e45",
+                "content": "53",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-04T10:09:32.498Z"
+            },
+            {
+                "commentId": "8dfd1b12-7f1e-4542-8e4d-2b0642e8a7fe",
+                "content": "test comments send only",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-05T09:40:22.623Z"
+            },
+            {
+                "commentId": "33ad02d7-c5ff-484a-ba4c-a0c8ef683bc0",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T08:08:57.412Z"
+            }
+        ]
+    },
+    {
+        "documentId": "4bf4e1b7c310464f804c18427d27a5e8",
+        "fileId": "4bf4e1b7c310464f804c18427d27a5e8",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-07T11:04:46.313Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-07T11:31:04.657Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "a19e94a7-bbc1-4311-943f-ff470e8837d1",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-07T11:31:04.657Z"
+            },
+            {
+                "commentId": "98a5df54-fb43-4480-a065-594ae6a14c00",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-14T08:28:17.211Z"
+            },
+            {
+                "commentId": "6383c184-8399-49e3-bf11-f57fff70d2dc",
+                "content": "test",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T10:37:47.206Z"
+            }
+        ]
+    },
+    {
+        "documentId": "4521d34c9ffd4054a09f89cd44c81b63",
+        "fileId": "4521d34c9ffd4054a09f89cd44c81b63",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "pdf.pdf",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 3028,
+            "mimeType": "application/pdf",
+            "originalFileName": "pdf.pdf"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-15T11:38:47.390Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-15T11:45:03.489Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "f828a845-162d-4791-b33b-e174d85f612a",
+                "content": "1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T11:39:15.578Z"
+            },
+            {
+                "commentId": "b04cc261-5bcb-4179-a0c4-8ddec2a2e996",
+                "content": "test2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T11:44:53.540Z"
+            },
+            {
+                "commentId": "5a204bbf-89e7-4a1c-9a38-f2005fc595c3",
+                "content": "test3",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-15T11:45:03.489Z"
+            }
+        ]
+    },
+    {
+        "documentId": "229ddb52038c4e51897bec5b471f30ef",
+        "fileId": "229ddb52038c4e51897bec5b471f30ef",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": null,
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-09-29T12:36:35.605Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-09-29T12:36:54.537Z",
+            "status": "APPROVED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": [
+            {
+                "commentId": "6e2919c8-0a48-4a6d-9e38-650fe0e2d3de",
+                "content": "test 3",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-29T11:19:07.874Z"
+            },
+            {
+                "commentId": "7e4e4bc8-45c9-4ae1-bd25-184ec44a513c",
+                "content": "test 2",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-29T11:19:07.874Z"
+            },
+            {
+                "commentId": "5864e11c-a261-4a26-bd1a-846c8699064c",
+                "content": "test 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-29T11:19:07.874Z"
+            },
+            {
+                "commentId": "7814c0e4-2511-4927-b4b0-939407d69daf",
+                "content": "test 3\ntest 2\ntest 1",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-29T11:46:53.739Z"
+            },
+            {
+                "commentId": "5002cbb2-aec0-49fd-831a-975a4e984d14",
+                "content": "test approve",
+                "commentedBy": {
+                    "legalEntityId": 5018,
+                    "userId": "auth0|60a248a11a55450069baec66",
+                    "givenName": "Joni",
+                    "familyName": "Mitchellbm"
+                },
+                "createdAt": "2023-09-29T12:36:54.536Z"
+            }
+        ]
+    },
+    {
+        "documentId": "4100001fa3e5491f993594edd45ecb02",
+        "fileId": "4100001fa3e5491f993594edd45ecb02",
+        "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+        "fileName": "test.doc",
+        "context": {
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+            "voyageId": "bb19d442-32a3-45bf-9744-71d4ae024639",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+        },
+        "fileMetadata": {
+            "fileSize": 19456,
+            "mimeType": "application/msword",
+            "originalFileName": "test.doc"
+        },
+        "status": "ORIGINAL",
+        "types": null,
+        "relatedDiIds": [
+            "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        ],
+        "participants": [
+            5018,
+            5020,
+            5019,
+            5010
+        ],
+        "approval": {
+            "requestedBy": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "requestedAt": "2023-07-19T09:53:54.124Z",
+            "approver": {
+                "legalEntityId": 5018,
+                "givenName": "Joni",
+                "familyName": "Mitchellbm"
+            },
+            "repliedAt": "2023-07-19T09:53:59.270Z",
+            "status": "REJECTED",
+            "comment": null
+        },
+        "vesselName": "file test",
+        "isArchived": null,
+        "voyageProductIds": null,
+        "comments": []
+    }
+]

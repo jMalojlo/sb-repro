@@ -1,0 +1,4523 @@
+[
+    {
+        "businessId": "6866fa16-02ef-4711-a168-2ea83557660d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "incident oldDI",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-08-11T10:51:06.704Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-08-11T10:51:06.704Z",
+        "recipients": [
+            {
+                "diId": 83378,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 83378,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test good",
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "quantity": "",
+                "quantityFormat": {},
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "test loading",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portName": ""
+                },
+                "dischargePort": "test dischard",
+                "dischargePortInfo": {
+                    "countryId": 99,
+                    "countryName": "Armenia",
+                    "countryA2Code": "AM",
+                    "portName": ""
+                },
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "f51ee66d-539a-47ac-a300-0017f1888c88",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test di 24121212525",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-08-11T09:24:34.788Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-08-11T09:24:34.788Z",
+        "recipients": [
+            {
+                "diId": 83366,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 83366,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "test Corn",
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test algeria",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 193,
+                    "portName": "sdfsdfsd"
+                },
+                "dischargePort": "test ",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 552,
+                    "portName": "fdzfzfe"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "0227c0f2-18a5-429f-93d0-0ecaa1786334",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test indcident 222 test",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "o8ob",
+                    "text": "dddd",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "dddd",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-08-11T06:45:35.321Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-08-11T09:15:41.097Z",
+        "recipients": [
+            {
+                "diId": 83363,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 83363,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [
+            {
+                "document": "ddd",
+                "originals": "",
+                "copies": "",
+                "consolidate": false,
+                "instructions": ""
+            }
+        ],
+        "splits": [
+            {
+                "notify": "sss",
+                "consignee": "",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "test beer",
+                "goodsInfo": {
+                    "commodityId": 52,
+                    "name": "Beer",
+                    "hsCode": "123456"
+                },
+                "loadingPort": "test algeria",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 519,
+                    "portName": "Bejaia"
+                },
+                "dischargePort": "test 1",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 552,
+                    "portName": "fdzfzfe"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "Test1",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-07-21T08:48:50.000Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-07-21T08:48:50.000Z",
+        "recipients": [
+            {
+                "diId": 80292,
+                "legalEntityId": 5019
+            },
+            {
+                "diId": 80292,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 80292,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "0de4497d-62a5-432a-a05e-0af00dd635be",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": " test. Corn Argentina",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "o8ob",
+                    "text": "surveyor certificates should be consolidated for the full cargo",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "surveyor certificates should be consolidated for the full cargo",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-07-07T12:01:42.333Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-07-07T12:15:46.634Z",
+        "recipients": [
+            {
+                "diId": 77431,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 77431,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [
+            {
+                "document": "BL",
+                "originals": "1",
+                "copies": "3",
+                "consolidate": false,
+                "instructions": "Marked\nClean on board\nFreight prepaid\nCharter party bills of lading acceptable\nB/l to show all the holds in which the goods are loaded\nB/l to be blank endorsed"
+            },
+            {
+                "document": "quality cert",
+                "originals": "1",
+                "copies": "3",
+                "consolidate": true,
+                "instructions": "PROTEIN (AS IS BASIS):                34.50PCT BASIS, 34.00PCT MINIMUM\nOIL (AS IS BASIS):                          18.50PCT BASIS, 18.00PCT MINIMUM\nMOISTURE:                                     14.00PCT MAXIMUM\nFOREIGN MATERIAL :                    1.00PCT BASIS, 2.00PCT MAXIMUM\nSPLITS:                                             25.00PCT MAXIMUM\nTOTAL DAMAGED KERNELS :        8.00PCT BASIS, 8.50PCT MAXIMUM\nHEAT DAMAGED KERNELS :          5.00PCT MAXIMUM\nThe soybeans supplied by the sellers are substantially free from castor seeds and castor seed husks"
+            },
+            {
+                "document": "fumi",
+                "originals": "1",
+                "copies": "3",
+                "consolidate": false,
+                "instructions": "Fumigation Company name : ADVISED BY ORIGIN\nProduct   : Aluminium Phosphide\nMethod/Dosage  :  Sachets/sleeves (dust retainers) – 1 gr of Phosphine per M3 for sound cargo and as per exporting country requirement in case of infested cargo\nFumigants should be packed in safe and professional fumigation bagCertificate to mention product, method and that fumigation has been performed in sachets/sleeves (dust retainers) manner using aluminium phosphide\n “Fumigation Company” to be inserted in the signature boxDo not show the notify party details.\nThe certificate must show the following statement:\n date of treatment: dd/mmm/yyyy\n nature of treatment: fumigation\n we hereby confirm that it will leave no residues of treatment which could be harmful for human and animal consumption and certify that the fumigant on this shipment is inside sachets and does not have direct contact with soybeans."
+            }
+        ],
+        "splits": [
+            {
+                "notify": "To order",
+                "consignee": "covantis sa",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "+/-10%",
+                "splitInstructions": "Add import permit ref",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "soyabeans",
+                "goodsInfo": {
+                    "commodityId": 16,
+                    "name": "Barley",
+                    "hsCode": "1003"
+                },
+                "loadingPort": "Santos, Brazil",
+                "loadingPortInfo": {
+                    "countryId": 59,
+                    "countryName": "Brazil",
+                    "countryA2Code": "BR",
+                    "portId": 19,
+                    "portName": "Santos",
+                    "portCode": "BRSSZ"
+                },
+                "dischargePort": "CHINA PORTS",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 193,
+                    "portName": "sdfsdfsd"
+                }
+            },
+            {
+                "notify": "To order",
+                "consignee": "covantis sa",
+                "quantity": "123,456.000",
+                "unit": "mt",
+                "tolerance": "+/-10%",
+                "splitInstructions": "Add import permit ref",
+                "quantityValue": 123456,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "soyabeans",
+                "goodsInfo": {
+                    "commodityId": 16,
+                    "name": "Barley",
+                    "hsCode": "1003"
+                },
+                "loadingPort": "Santos, Brazil",
+                "loadingPortInfo": {
+                    "countryId": 59,
+                    "countryName": "Brazil",
+                    "countryA2Code": "BR",
+                    "portId": 19,
+                    "portName": "Santos",
+                    "portCode": "BRSSZ"
+                },
+                "dischargePort": "CHINA PORTS",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 552,
+                    "portName": "fdzfzfe"
+                }
+            },
+            {
+                "notify": "To order",
+                "consignee": "covantis sa",
+                "quantity": "12,345.000",
+                "unit": "mt",
+                "tolerance": "+/-10%",
+                "splitInstructions": "Add import permit ref",
+                "quantityValue": 12345,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "soyabeans",
+                "goodsInfo": {
+                    "commodityId": 10001,
+                    "name": "_Wheat",
+                    "hsCode": ""
+                },
+                "loadingPort": "Santos, Brazil",
+                "loadingPortInfo": {
+                    "countryId": 59,
+                    "countryName": "Brazil",
+                    "countryA2Code": "BR",
+                    "portId": 19,
+                    "portName": "Santos",
+                    "portCode": "BRSSZ"
+                },
+                "dischargePort": "CHINA PORTS",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 552,
+                    "portName": "fdzfzfe"
+                }
+            },
+            {
+                "notify": "To order",
+                "consignee": "covantis sa",
+                "quantity": "1,232,145.000",
+                "unit": "mt",
+                "tolerance": "+/-10%",
+                "splitInstructions": "Add import permit ref",
+                "quantityValue": 1232145,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "soyabeans",
+                "goodsInfo": {
+                    "commodityId": 13,
+                    "name": "Feed Barley",
+                    "hsCode": "1003.10"
+                },
+                "loadingPort": "Santos, Brazil",
+                "loadingPortInfo": {
+                    "countryId": 59,
+                    "countryName": "Brazil",
+                    "countryA2Code": "BR",
+                    "portId": 19,
+                    "portName": "Santos",
+                    "portCode": "BRSSZ"
+                },
+                "dischargePort": "CHINA PORTS",
+                "dischargePortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test empty di 234",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-27T18:40:41.487Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-28T13:39:24.995Z",
+        "recipients": [
+            {
+                "diId": 75716,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "testMilo",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test loading",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq"
+                },
+                "dischargePort": "Armenia",
+                "dischargePortInfo": {
+                    "countryId": 99,
+                    "countryName": "Armenia",
+                    "countryA2Code": "AM",
+                    "portName": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "e52c432f-3666-4645-87de-0db699232f36",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-27T16:35:24.334Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-27T16:35:24.334Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "quantity": "",
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "Algeria",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portName": ""
+                },
+                "dischargePort": "Armenia",
+                "dischargePortInfo": {
+                    "countryId": 99,
+                    "countryName": "Armenia",
+                    "countryA2Code": "AM",
+                    "portName": ""
+                },
+                "splitInstructions": "",
+                "quantityValue": 0
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "9d1b526d-0957-48ed-88e4-8872be254f83",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testing125",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-23T10:36:57.313Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-23T10:37:17.392Z",
+        "recipients": [
+            {
+                "diId": 74655,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 74655,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Good1",
+                "quantity": "1234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "hsCode": "1003"
+                },
+                "loadingPort": "Algeria",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "portName": ""
+                },
+                "dischargePort": "Armenia",
+                "dischargePortInfo": {
+                    "countryId": 99,
+                    "countryName": "Armenia",
+                    "portName": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "e7646db7-5756-476a-85c3-04bb0159ed74",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test pre 123 load/goods/discharge",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-23T10:05:00.545Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-23T10:05:00.545Z",
+        "recipients": [
+            {
+                "diId": 74647,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 74647,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Good1",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 37,
+                    "name": "_TST_toInactive",
+                    "hsCode": ""
+                },
+                "loadingPort": "Loading1",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq"
+                },
+                "dischargePort": "Discharge1",
+                "dischargePortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 551,
+                    "portName": "ddzd"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "77fef4a5-50e9-482a-a302-52d66d23bcc5",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test fix loading/discharge",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "fh5da",
+                    "text": "",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-21T11:32:06.526Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-21T11:32:06.526Z",
+        "recipients": [
+            {
+                "diId": 74330,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test3",
+                "quantity": "",
+                "tolerance": "",
+                "loadingPort": "test1",
+                "dischargePort": "test2",
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "7998ea6f-4f83-4aa1-8deb-07f6eedec445",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "empty DI",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-21T10:45:57.251Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-21T10:45:57.251Z",
+        "recipients": [
+            {
+                "diId": 74321,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 74321,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "d8480f83-f722-496e-9c02-7eb674cdd60a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "2135",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-19T19:13:57.169Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-19T19:13:57.169Z",
+        "recipients": [
+            {
+                "diId": 73705,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdsqsd, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 548,
+                    "portName": "qdsqsd"
+                },
+                "dischargePort": "test2",
+                "dischargePortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 242,
+                    "portName": "2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdsqsd, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 548,
+                    "portName": "qdsqsd"
+                },
+                "dischargePort": "test2",
+                "dischargePortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 242,
+                    "portName": "2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdsqsd, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 548,
+                    "portName": "qdsqsd"
+                },
+                "dischargePort": "test2",
+                "dischargePortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 242,
+                    "portName": "2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdsqsd, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 548,
+                    "portName": "qdsqsd"
+                },
+                "dischargePort": "test2",
+                "dischargePortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 242,
+                    "portName": "2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdsqsd, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 548,
+                    "portName": "qdsqsd"
+                },
+                "dischargePort": "test2",
+                "dischargePortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 242,
+                    "portName": "2"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "e4135f60-877f-4d77-821c-21e125e0fca9",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test loading 5",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-19T07:44:28.572Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-19T07:44:28.572Z",
+        "recipients": [
+            {
+                "diId": 73569,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 73569,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq",
+                    "description": "test"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq",
+                    "description": "test"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq",
+                    "description": "test"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "test",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq",
+                    "description": "test"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsInfo": {
+                    "commodityId": 2,
+                    "name": "Corn",
+                    "hsCode": "1005"
+                },
+                "loadingPort": "qdqsdq, Albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 547,
+                    "portName": "qdqsdq",
+                    "description": "qdqsdq, Albania"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "394d1813-a9de-48fe-8fd5-d802db03f364",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test loading 2",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-15T14:10:24.957Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-16T07:20:25.978Z",
+        "recipients": [
+            {
+                "diId": 73239,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "portName": ""
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 106,
+                    "portName": "sdfdsfdsf"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 128,
+                    "countryName": "Antigua and Barbuda",
+                    "countryA2Code": "AG",
+                    "portId": 374,
+                    "portName": "test2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 128,
+                    "countryName": "Antigua and Barbuda",
+                    "countryA2Code": "AG",
+                    "portId": 374,
+                    "portName": "test2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPort": "test",
+                "loadingPortInfo": {
+                    "countryId": 83,
+                    "countryName": "Angola",
+                    "countryA2Code": "AO",
+                    "portId": 106,
+                    "portName": "sdfdsfdsf"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "5b8fe67f-ef2a-4f09-b565-b4100933b3e1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test loading",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-15T12:16:14.401Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-15T14:01:34.936Z",
+        "recipients": [
+            {
+                "diId": 73089,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 73089,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "1.234,546",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "european",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 128,
+                    "countryName": "Antigua and Barbuda",
+                    "countryA2Code": "AG",
+                    "portId": 370,
+                    "portName": "um ipsam! Enim? Primis molestias fugit, eligendi volupt"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "0,000",
+                "unit": "mt",
+                "tolerance": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "european",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "hsCode": "1005"
+                },
+                "goodsFormDescription": "Corn",
+                "loadingPortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 193,
+                    "portName": "sdfsdfsd"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "541529b4-5a77-4018-9862-55353a9a583d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "new di fff",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-06T18:27:54.740Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-06T19:57:30.933Z",
+        "recipients": [
+            {
+                "diId": 70667,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70667,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-06T19:49:32.400Z",
+                "removedAt": "2023-06-06T19:57:30.934Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 70667,
+                "email": "ffff@ddd.com",
+                "userName": null,
+                "addedAt": "2023-06-06T18:27:55.848Z",
+                "removedAt": "2023-06-06T19:49:32.400Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "1’234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "swiss",
+                    "thousandsSeparatorCharacter": "’",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "557ff3ad-0219-477c-9dbb-7842b93bb4f4",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "end test email",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-06T07:33:54.422Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-06T11:02:12.285Z",
+        "recipients": [
+            {
+                "diId": 70656,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 70656,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70656,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-06T07:33:55.986Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 70656,
+                "email": "mirza.music@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-06T07:33:55.986Z",
+                "removedAt": "2023-06-06T11:02:12.287Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "a3c9dc20-baea-49a1-835c-5399214daf98",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test em npp",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-06T07:17:32.169Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-06T07:23:24.558Z",
+        "recipients": [
+            {
+                "diId": 70601,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 70601,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70601,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-06T07:17:34.026Z",
+                "removedAt": "2023-06-06T07:23:24.560Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "24a59b9a-927e-4b76-b216-8e37e2b4f415",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test4125125",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T20:22:53.468Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-05T20:22:53.468Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_Milo",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "name": "_Milo",
+                    "commodityId": 10002,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "8152fcf6-78fd-4894-8897-e58927f6bff1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "novo23",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T12:30:20.471Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T19:21:56.471Z",
+        "recipients": [
+            {
+                "diId": 70369,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70369,
+                "email": "sssss@ddddd.ccdsf",
+                "userName": null,
+                "addedAt": "2023-06-05T12:30:21.782Z",
+                "removedAt": null,
+                "deliveryStatus": null,
+                "error": null
+            },
+            {
+                "diId": 70369,
+                "email": "hamo@hamic.com",
+                "userName": null,
+                "addedAt": "2023-06-05T14:54:10.982Z",
+                "removedAt": null,
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "43612406-f47c-4d0c-bc5d-8d671a420f3a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "novo",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T12:06:21.162Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T12:50:30.766Z",
+        "recipients": [
+            {
+                "diId": 70363,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70363,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-05T12:06:22.761Z",
+                "removedAt": "2023-06-05T12:29:00.154Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "a9c3f3ea-2dca-4864-8414-b8a49c1935b0",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "sel",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T11:17:39.835Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T12:29:48.705Z",
+        "recipients": [
+            {
+                "diId": 70360,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 70360,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70360,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-05T12:22:13.469Z",
+                "removedAt": null,
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "7209c5ca-0c3d-4d1c-8408-85912491ae52",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "sss",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T10:32:41.575Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T10:36:50.749Z",
+        "recipients": [
+            {
+                "diId": 70357,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 70357,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70357,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-05T10:36:20.833Z",
+                "removedAt": "2023-06-05T10:36:50.750Z",
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "8ae61ab3-5eda-4b32-8eb1-a60366df4a62",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "awdawssss",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "8f26f",
+                    "text": "sss",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "sss",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-05T09:03:16.559Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T09:46:03.208Z",
+        "recipients": [
+            {
+                "diId": 70330,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 70330,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 70330,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-05T09:03:18.359Z",
+                "removedAt": "2023-06-05T09:41:21.737Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "bd5150e3-7f1e-4cac-b281-82654fa75a0c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "diWithNewSplits1",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-04T13:38:45.772Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-06-04T13:38:45.772Z",
+        "recipients": [
+            {
+                "diId": 70212,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 70212,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "Corn",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "name": "Corn",
+                    "commodityId": 2,
+                    "hsCode": "1005"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test2",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "name": "_Milo",
+                    "commodityId": 10002,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "e5291c95-ba6b-4267-8a5e-58aea212c050",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "aaaa",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-02T07:20:38.750Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-05T09:00:29.945Z",
+        "recipients": [
+            {
+                "diId": 69881,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 69881,
+                "email": "mirza.music@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-02T07:20:39.964Z",
+                "removedAt": "2023-06-02T07:35:35.519Z",
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "34bb3e0b-d0b3-4075-b53b-949d6d21611c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "aa",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "2cvq3",
+                    "text": "qadas",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "qadas",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-02T06:54:00.946Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-02T07:19:05.564Z",
+        "recipients": [
+            {
+                "diId": 69821,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 69821,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-02T06:54:02.576Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 69821,
+                "email": "mirza.music@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-02T07:16:15.183Z",
+                "removedAt": null,
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "0dd12b90-6f8a-4368-980d-e56ea551efc1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "newDiWithGoodsFixed",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-01T10:54:44.723Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-01T10:54:44.723Z",
+        "recipients": [
+            {
+                "diId": 69296,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 69296,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 69296,
+                "email": "adrian.bradjan.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-06-01T10:54:46.575Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "test",
+                "goodsDescription": "_TST_leaveActive",
+                "quantity": "1000",
+                "tolerance": "99",
+                "loadingPort": "port 1",
+                "dischargePort": "port 2",
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "a8dfd67b-cd36-437d-b051-1a8075a2bd29",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "newDiWithGoodsFixed",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-06-01T10:44:55.958Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-06-01T10:44:55.958Z",
+        "recipients": [
+            {
+                "diId": 69295,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 69295,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "test",
+                "goodsDescription": "_TST_leaveActive",
+                "quantity": "",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "8093b7bf-2814-4d24-8f9a-fd3c6db81134",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "1234567",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-30T11:28:34.364Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-30T11:28:34.364Z",
+        "recipients": [
+            {
+                "diId": 68793,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68793,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_Wheat",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "name": "_Wheat",
+                    "commodityId": 10001,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "242e7316-0009-4190-b8e5-b73ea83c3c24",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testDraftGoodsForm",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-30T11:23:35.791Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-30T11:23:35.791Z",
+        "recipients": [
+            {
+                "diId": 68792,
+                "legalEntityId": 5019
+            },
+            {
+                "diId": 68792,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_Milo",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "name": "_Milo",
+                    "commodityId": 10002,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "5fa2b25f-0c9e-4a3c-8a07-b491ed54e408",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test pp",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "5b6h0",
+                    "text": "ok",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "ok",
+        "status": "FINAL",
+        "createdByUserId": null,
+        "createdByUserGivenName": "Septimiu",
+        "createdByUserFamilyName": "Chira",
+        "createdByLegalEntityId": 5020,
+        "createdAt": "2023-05-30T09:20:37.757Z",
+        "receivedAt": "2023-05-30T09:20:39.323Z",
+        "updatedByUserId": null,
+        "updatedByUserGivenName": "Septimiu",
+        "updatedByUserFamilyName": "Chira",
+        "updatedAt": "2023-05-30T09:20:37.757Z",
+        "recipients": [
+            {
+                "diId": 68785,
+                "legalEntityId": 5018
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [
+            {
+                "diId": 68785,
+                "documentId": "ce4e92a0-22cf-4d06-a0ca-0377de36d522",
+                "originalFileName": "draft Certificate of origin.pdf",
+                "mimeType": "application/pdf",
+                "fileSize": 27507,
+                "status": "AVAILABLE",
+                "errorCode": null
+            }
+        ],
+        "originalDiId": null,
+        "sharingStatus": "RECEIVED",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "2b9fc7f6-a41a-47df-aa6a-5a25cadfe80d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "newDiWithGoodsFixed",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-30T07:56:57.538Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-30T07:56:57.538Z",
+        "recipients": [
+            {
+                "diId": 68778,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68778,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "test",
+                "goodsDescription": "_TST_leaveActive",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_TST_leaveActive",
+                    "value": 39,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "38cbbbcc-de1f-4009-8c2d-301ffb5034cb",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testNewTemplate",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-30T07:21:28.571Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-30T07:21:28.571Z",
+        "recipients": [
+            {
+                "diId": 68771,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 68771,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_TST_leaveActive",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_TST_leaveActive",
+                    "value": 39,
+                    "hsCode": ""
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "716acdc3-3acc-4f42-857f-0275db8b4b9a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testNewGoodsFormForTemplate",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-30T07:18:13.604Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-30T07:18:13.604Z",
+        "recipients": [
+            {
+                "diId": 68770,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68770,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "test1",
+                "goodsDescription": "_TST_leaveActive",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "label": "Corn",
+                    "commodityId": 2,
+                    "hsCode": "1005"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "d8140d00-987d-4b97-927e-a14959f0641a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test pp",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "5b6h0",
+                    "text": "ok",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "ok",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T14:12:00.591Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-29T14:12:00.591Z",
+        "recipients": [
+            {
+                "diId": 68757,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68757,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "7cf761d3-ff4d-4cd9-b82f-eb2ac42e5ae5",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "tettt",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T14:06:39.610Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-29T14:06:39.610Z",
+        "recipients": [
+            {
+                "diId": 68755,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 68755,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-29T14:06:40.422Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "7d4b0a28-bf16-4be5-81b8-205a65c3d0ff",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "aaasaaaaaaaa",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T14:05:47.507Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-29T14:05:47.507Z",
+        "recipients": [
+            {
+                "diId": 68752,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68752,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 68752,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-29T14:05:48.562Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "34770af0-bd05-4f22-98e3-e7aa48d127f8",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "sss",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T14:05:08.512Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-29T14:05:08.512Z",
+        "recipients": [
+            {
+                "diId": 68749,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 68749,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "89d24e57-aede-41ba-8bf7-98e95b303ced",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T13:46:08.266Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-29T13:46:08.266Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_TST_toAnactive",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_TST_toAnactive",
+                    "value": 38,
+                    "hsCode": "TEST2"
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_Milo",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_Milo",
+                    "value": 10002,
+                    "hsCode": ""
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "_Milo",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_Milo",
+                    "value": 10002,
+                    "hsCode": ""
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test2",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_TST_leaveActive",
+                    "value": 39,
+                    "hsCode": ""
+                },
+                "goodsFormDescription": "test2"
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "cfc57ad8-e7f8-4bb8-b8d2-c497a3e5505c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testGoodsFOrm",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T13:10:39.160Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-29T13:36:16.160Z",
+        "recipients": [
+            {
+                "diId": 68744,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 68744,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "test",
+                "goodsDescription": "_Corn",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_Corn",
+                    "value": 36,
+                    "hsCode": ""
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test2",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                },
+                "goodsInfo": {
+                    "label": "_TST_toAnactive",
+                    "value": 38,
+                    "hsCode": "TEST2"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "f9e0e39f-1609-456c-b5cf-c0323dfced87",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T12:22:01.499Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-29T12:22:01.499Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                },
+                "goodsInfo": {
+                    "label": "Beet Pulp Pellets",
+                    "value": 30,
+                    "hsCode": "2303.20.00"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "eb28509c-b30f-4989-afbc-ccad71c85d69",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "YM",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "3u58g",
+                    "text": "",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248cced0f09006a158132",
+        "createdByUserGivenName": "Andy",
+        "createdByUserFamilyName": "Taylorbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-29T11:02:51.203Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-29T13:38:46.425Z",
+        "recipients": [],
+        "nppRecipients": [
+            {
+                "diId": 68747,
+                "email": "asasasa@asassss.as",
+                "userName": null,
+                "addedAt": "2023-05-29T11:59:32.073Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 68747,
+                "email": "yurii.mudryi@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-29T11:02:52.604Z",
+                "removedAt": "2023-05-29T11:59:32.073Z",
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 0
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "20889486-bded-429b-9d08-ccc95ceae0d9",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "NPP draft/temp",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": null,
+        "createdByUserGivenName": "Septimiu",
+        "createdByUserFamilyName": "Chira",
+        "createdByLegalEntityId": 5020,
+        "createdAt": "2023-05-29T07:57:03.402Z",
+        "receivedAt": "2023-05-29T07:57:04.106Z",
+        "updatedByUserId": null,
+        "updatedByUserGivenName": "Septimiu",
+        "updatedByUserFamilyName": "Chira",
+        "updatedAt": "2023-05-29T07:57:03.402Z",
+        "recipients": [
+            {
+                "diId": 68641,
+                "legalEntityId": 5019
+            },
+            {
+                "diId": 68641,
+                "legalEntityId": 5018
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "RECEIVED",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "a5db193e-f19c-4e77-a5dd-19d55650fbae",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-26T11:51:07.451Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-26T11:51:07.451Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "1234.546",
+                "unit": "bu",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "none",
+                    "thousandsSeparatorCharacter": "",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "1234.546",
+                "unit": "bu",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "none",
+                    "thousandsSeparatorCharacter": "",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "1ee97c4e-8542-438b-960c-83f17dad24dd",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-26T11:19:22.988Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-26T11:19:22.988Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "test2",
+                "quantity": "2,354.677",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 2354.677,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "9fa641d0-41a9-4c8c-82e6-f0531bc2dcc6",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "awd nn email",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-23T14:08:21.195Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-23T14:08:21.195Z",
+        "recipients": [],
+        "nppRecipients": [
+            {
+                "diId": 67467,
+                "email": "ssss@sss.ccccccc",
+                "userName": null,
+                "addedAt": "2023-05-23T14:08:22.374Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "6a7f9713-3753-444a-88ba-af4abe8ab070",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "new di with npp",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-23T13:53:15.483Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-23T14:07:40.171Z",
+        "recipients": [
+            {
+                "diId": 67465,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 67465,
+                "email": "oceane.marconnet-neel@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-23T13:53:16.108Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [
+            {
+                "document": "bl",
+                "originals": "",
+                "copies": "",
+                "consolidate": false,
+                "instructions": ""
+            },
+            {
+                "document": "quality",
+                "originals": "",
+                "copies": "",
+                "consolidate": false,
+                "instructions": ""
+            }
+        ],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "c1347b1c-72df-4aa3-900b-b7f0c74f207b",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-23T13:49:58.743Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-23T13:49:58.743Z",
+        "recipients": [],
+        "nppRecipients": [
+            {
+                "diId": 67460,
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-23T13:50:00.666Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "ffc6865f-d972-4169-bb77-cf4eb964952c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "new di email",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-22T13:35:09.029Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-22T13:35:09.029Z",
+        "recipients": [
+            {
+                "diId": 67370,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "159c0d75-a847-425d-932b-e7f82817db6a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "email",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "4apku",
+                    "text": "emailtest",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "emailtest",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-22T13:15:18.092Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-22T13:15:18.092Z",
+        "recipients": [
+            {
+                "diId": 67368,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "2f4e1231-1c78-4a85-8a7c-28296caba08f",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "sdf",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "cth5s",
+                    "text": "test",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "test",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-22T12:59:24.965Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-22T12:59:24.965Z",
+        "recipients": [
+            {
+                "diId": 67364,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 67364,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "1027fb57-11bc-4ee1-9368-6cf181963000",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "awd",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-22T12:32:41.464Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-05-22T12:32:41.464Z",
+        "recipients": [
+            {
+                "diId": 67360,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 67360,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "did",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248cced0f09006a158132",
+        "createdByUserGivenName": "Andy",
+        "createdByUserFamilyName": "Taylorbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-19T09:00:19.840Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248cced0f09006a158132",
+        "updatedByUserGivenName": "Andy",
+        "updatedByUserFamilyName": "Taylorbm",
+        "updatedAt": "2023-05-19T09:00:19.840Z",
+        "recipients": [
+            {
+                "diId": 67136,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 67136,
+                "legalEntityId": 5019
+            },
+            {
+                "diId": 67136,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 67136,
+                "email": "yurii.mudryi@gmail.com",
+                "userName": null,
+                "addedAt": "2023-05-19T09:00:21.866Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 67136,
+                "email": "yurii.mudryi@covantis.io",
+                "userName": null,
+                "addedAt": "2023-05-19T09:00:21.866Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "559fefb7-3825-42b6-a9be-a628ffb5a73e",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-18T09:07:56.005Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-18T09:07:56.005Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "12,312.567",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 12312.567,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "78dc773e-2a94-462d-9470-e62c033c7d92",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "edoxDraftOnly",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-17T15:19:46.674Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-17T15:19:46.674Z",
+        "recipients": [
+            {
+                "diId": 66836,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 66836,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "test1",
+                "consignee": "",
+                "goodsDescription": "test",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "631bc351-f7f4-4404-84e7-b484c85d1b7d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "draft",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-16T19:25:23.880Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-16T19:25:23.880Z",
+        "recipients": [
+            {
+                "diId": 66456,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "574d770d-306b-4ea7-8a0c-0855b9ef61f5",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-16T18:28:35.344Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-16T18:28:35.344Z",
+        "recipients": [],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            },
+            {
+                "notify": "",
+                "consignee": "",
+                "goodsDescription": "",
+                "quantity": "0.000",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 0,
+                "quantityFormat": {
+                    "formatName": "american",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "581344f3-9a9c-4997-9462-d5ec0c87b2e2",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testOldDi for Kate",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-16T08:14:37.976Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-08-11T12:09:04.788Z",
+        "recipients": [
+            {
+                "diId": 83400,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 83400,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 83400,
+                "email": "random@email.com",
+                "userName": null,
+                "addedAt": "2023-05-18T08:53:54.541Z",
+                "removedAt": "2023-08-11T06:59:29.525Z",
+                "deliveryStatus": null,
+                "error": null
+            },
+            {
+                "diId": 83400,
+                "email": "mihailo.tomic.ext@covantis.io",
+                "userName": null,
+                "addedAt": "2023-08-11T14:40:09.284Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "test1",
+                "consignee": "",
+                "quantity": "1234.546",
+                "tolerance": "",
+                "splitInstructions": "",
+                "goodsDescription": "test edit npp MIhailo",
+                "goodsInfo": {
+                    "commodityId": 10001,
+                    "name": "_Wheat",
+                    "hsCode": ""
+                },
+                "loadingPort": "test npp2",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL"
+                },
+                "dischargePort": "test algeria",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 552,
+                    "portName": "fdzfzfe"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "ed9a6c62-4cbd-4a77-ba45-abdeb2821c0d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "testEdoxDi",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "df4rb",
+                    "text": "",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-15T12:19:10.019Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-23T13:10:32.573Z",
+        "recipients": [
+            {
+                "diId": 67453,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 67453,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "test1",
+                "consignee": "",
+                "goodsDescription": "SugarDesc",
+                "quantity": "1’434.546",
+                "unit": "lb",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 1434.546,
+                "quantityFormat": {
+                    "formatName": "swiss",
+                    "thousandsSeparatorCharacter": "’",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            },
+            {
+                "notify": "test2",
+                "consignee": "",
+                "goodsDescription": "CornDesc",
+                "quantity": "2’426.512",
+                "unit": "lb",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": "",
+                "quantityValue": 2426.512,
+                "quantityFormat": {
+                    "formatName": "swiss",
+                    "thousandsSeparatorCharacter": "’",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 1
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "e49965ca-710d-47f4-bbcf-725224ef46f2",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "eDox integration",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "10a8k",
+                    "text": "test info",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "test info",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-05-09T07:07:54.595Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248cced0f09006a158132",
+        "updatedByUserGivenName": "Andy",
+        "updatedByUserFamilyName": "Taylorbm",
+        "updatedAt": "2023-05-26T11:02:30.764Z",
+        "recipients": [
+            {
+                "diId": 68429,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 68429,
+                "legalEntityId": 5010
+            }
+        ],
+        "nppRecipients": [
+            {
+                "diId": 68429,
+                "email": "test@di.com",
+                "userName": null,
+                "addedAt": "2023-05-26T10:54:39.923Z",
+                "removedAt": "2023-05-26T11:02:30.766Z",
+                "deliveryStatus": null,
+                "error": null
+            },
+            {
+                "diId": 68429,
+                "email": "random@email.com",
+                "userName": null,
+                "addedAt": "2023-05-26T10:50:11.198Z",
+                "removedAt": null,
+                "deliveryStatus": null,
+                "error": null
+            },
+            {
+                "diId": 68429,
+                "email": "email@random.com",
+                "userName": null,
+                "addedAt": "2023-05-19T09:06:52.537Z",
+                "removedAt": null,
+                "deliveryStatus": "PENDING",
+                "error": null
+            },
+            {
+                "diId": 68429,
+                "email": "di@di.com",
+                "userName": null,
+                "addedAt": "2023-05-26T10:54:39.923Z",
+                "removedAt": "2023-05-26T11:02:30.766Z",
+                "deliveryStatus": null,
+                "error": null
+            }
+        ],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [
+            {
+                "document": "test",
+                "originals": "",
+                "copies": "",
+                "consolidate": true,
+                "instructions": "test"
+            }
+        ],
+        "splits": [
+            {
+                "notify": "test",
+                "consignee": "test",
+                "goodsDescription": "test",
+                "quantity": "100",
+                "tolerance": "100",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "faca87d0-2895-46a5-a326-a7f79c0bcf51",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "test di  edit",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "3rcf1",
+                    "text": "test info",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "test info",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a11a55450069baec66",
+        "createdByUserGivenName": "Joni",
+        "createdByUserFamilyName": "Mitchellbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-04-25T10:12:38.157Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-05-10T10:34:15.747Z",
+        "recipients": [
+            {
+                "diId": 65971,
+                "legalEntityId": 5020
+            },
+            {
+                "diId": 65971,
+                "legalEntityId": 5010
+            },
+            {
+                "diId": 65971,
+                "legalEntityId": 5019
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "test",
+                "consignee": "test",
+                "goodsDescription": "test",
+                "quantity": "215215",
+                "unit": "mt",
+                "tolerance": "",
+                "loadingPort": "",
+                "dischargePort": "",
+                "splitInstructions": ""
+            }
+        ],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "bbcb89ca-20c8-441b-8610-a041fdd94517",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "draft",
+        "messageJson": {
+            "blocks": [
+                {
+                    "key": "1aq9c",
+                    "text": "",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                }
+            ],
+            "entityMap": {}
+        },
+        "messageText": "",
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-04-14T11:50:09.115Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a1e2c6770068003169",
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Jonesbm",
+        "updatedAt": "2023-04-14T11:50:09.115Z",
+        "recipients": [
+            {
+                "diId": 63940,
+                "legalEntityId": 5019
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [
+            {
+                "diId": 63940,
+                "documentId": "1dceb3d3-3dca-49c8-b771-04620400b272",
+                "originalFileName": "a-con-one.pdf",
+                "mimeType": "application/pdf",
+                "fileSize": 35431,
+                "status": "AVAILABLE",
+                "errorCode": null
+            }
+        ],
+        "originalDiId": null,
+        "sharingStatus": "DRAFT",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "08551cdf-64f5-48a8-a312-bd1fa5692b39",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "Just splits incident",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": "auth0|60a248a1e2c6770068003169",
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Jonesbm",
+        "createdByLegalEntityId": 5018,
+        "createdAt": "2023-04-14T10:36:58.981Z",
+        "receivedAt": null,
+        "updatedByUserId": "auth0|60a248a11a55450069baec66",
+        "updatedByUserGivenName": "Joni",
+        "updatedByUserFamilyName": "Mitchellbm",
+        "updatedAt": "2023-08-11T07:57:26.826Z",
+        "recipients": [
+            {
+                "diId": 64337,
+                "legalEntityId": 5019
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [],
+        "originalDiId": null,
+        "sharingStatus": "SENT",
+        "documentInstructionsJson": [],
+        "splits": [
+            {
+                "notify": "sssss",
+                "consignee": "",
+                "quantity": "1,234.546",
+                "unit": "mt",
+                "tolerance": "",
+                "splitInstructions": "",
+                "quantityValue": 1234.546,
+                "quantityFormat": {
+                    "formatName": "American",
+                    "thousandsSeparatorCharacter": ",",
+                    "decimalSeparatorCharacter": ".",
+                    "numberOfDecimalCharacters": 3
+                },
+                "goodsDescription": "test barley",
+                "goodsInfo": {
+                    "commodityId": 16,
+                    "name": "Barley",
+                    "hsCode": "1003"
+                },
+                "loadingPort": "test albania",
+                "loadingPortInfo": {
+                    "countryId": 199,
+                    "countryName": "Albania",
+                    "countryA2Code": "AL",
+                    "portId": 948,
+                    "portName": "Tirana"
+                },
+                "dischargePort": "test algeria",
+                "dischargePortInfo": {
+                    "countryId": 78,
+                    "countryName": "Algeria",
+                    "countryA2Code": "DZ",
+                    "portId": 519,
+                    "portName": "Bejaia"
+                }
+            }
+        ],
+        "context": null,
+        "canExportToEDox": true
+    },
+    {
+        "businessId": "37fadeaf-2e30-4c33-a787-329442f5103c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "b di",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": null,
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Clarkbm",
+        "createdByLegalEntityId": 5019,
+        "createdAt": "2023-04-14T10:32:13.403Z",
+        "receivedAt": "2023-04-14T10:32:13.858Z",
+        "updatedByUserId": null,
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Clarkbm",
+        "updatedAt": "2023-04-14T10:32:13.403Z",
+        "recipients": [
+            {
+                "diId": 63934,
+                "legalEntityId": 5018
+            },
+            {
+                "diId": 63934,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [
+            {
+                "diId": 63934,
+                "documentId": "9c57ab69-5ba7-4973-bc17-dc79ccc0e9e2",
+                "originalFileName": "file-apus-one.pdf",
+                "mimeType": "application/pdf",
+                "fileSize": 35431,
+                "status": "AVAILABLE",
+                "errorCode": null
+            }
+        ],
+        "originalDiId": null,
+        "sharingStatus": "RECEIVED",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    },
+    {
+        "businessId": "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "tenantId": 5018,
+        "subject": "a di",
+        "messageJson": null,
+        "messageText": null,
+        "status": "FINAL",
+        "createdByUserId": null,
+        "createdByUserGivenName": "Ana",
+        "createdByUserFamilyName": "Clarkbm",
+        "createdByLegalEntityId": 5019,
+        "createdAt": "2023-04-14T10:31:44.342Z",
+        "receivedAt": "2023-04-14T10:31:45.468Z",
+        "updatedByUserId": null,
+        "updatedByUserGivenName": "Ana",
+        "updatedByUserFamilyName": "Clarkbm",
+        "updatedAt": "2023-04-14T10:31:44.342Z",
+        "recipients": [
+            {
+                "diId": 63931,
+                "legalEntityId": 5018
+            },
+            {
+                "diId": 63931,
+                "legalEntityId": 5020
+            }
+        ],
+        "nppRecipients": [],
+        "attachments": [
+            {
+                "diId": 63931,
+                "documentId": "2b146e0b-442a-4722-a52a-3ba2ee6bd995",
+                "originalFileName": "file-from-di.pdf",
+                "mimeType": "application/pdf",
+                "fileSize": 1042157,
+                "status": "AVAILABLE",
+                "errorCode": null
+            },
+            {
+                "diId": 63931,
+                "documentId": "d09f45a9-d501-4445-a30b-2e7b167f8205",
+                "originalFileName": "fileFromDi.pdf",
+                "mimeType": "application/pdf",
+                "fileSize": 1042157,
+                "status": "AVAILABLE",
+                "errorCode": null
+            }
+        ],
+        "originalDiId": null,
+        "sharingStatus": "RECEIVED",
+        "documentInstructionsJson": [],
+        "splits": [],
+        "context": null,
+        "canExportToEDox": false
+    }
+]

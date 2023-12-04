@@ -1,0 +1,13 @@
+{
+    "tenantId": 5018,
+    "userId": "auth0|60a248a11a55450069baec66",
+    "username": "Joni Mitchellbm",
+    "email": "joni.mitchell.betaman@alpha.com",
+    "notificationSettings": {
+        "defaultEmailNotification": true,
+        "bypassEmailNotification": true,
+        "chatEmailNotification": true,
+        "cnEmailNotification": true,
+        "documentEmailNotification": true
+    }
+}

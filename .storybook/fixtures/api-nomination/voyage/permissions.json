@@ -1,0 +1,16 @@
+{
+    "contextualRoles": {
+        "voyages": {
+            "0164f7b9-53a8-4466-b683-524089630b88": [
+                "participant"
+            ]
+        }
+    },
+    "allowedMethods": {
+        "voyages": {
+            "0164f7b9-53a8-4466-b683-524089630b88": [
+                "v.viewDetails"
+            ]
+        }
+    }
+}

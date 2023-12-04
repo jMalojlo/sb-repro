@@ -1,0 +1,4550 @@
+[
+    {
+        "name": "file-from-di.pdf",
+        "fileInfo": {
+            "fileId": "2b146e0b-442a-4722-a52a-3ba2ee6bd995",
+            "mimeType": "application/pdf",
+            "status": "AVAILABLE",
+            "errorCode": null,
+            "size": 1042157
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "2b146e0b-442a-4722-a52a-3ba2ee6bd995"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-04-14T10:31:44.342Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "diId": "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229",
+            "isDiAttachment": true
+        }
+    },
+    {
+        "name": "fileFromDi.pdf",
+        "fileInfo": {
+            "fileId": "d09f45a9-d501-4445-a30b-2e7b167f8205",
+            "mimeType": "application/pdf",
+            "status": "AVAILABLE",
+            "errorCode": null,
+            "size": 1042157
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "INACTIVE",
+            "comments": [],
+            "documentId": "d09f45a9-d501-4445-a30b-2e7b167f8205"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-04-14T10:31:44.342Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "diId": "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229",
+            "isDiAttachment": true
+        }
+    },
+    {
+        "name": "file-apus-one.pdf",
+        "fileInfo": {
+            "fileId": "9c57ab69-5ba7-4973-bc17-dc79ccc0e9e2",
+            "mimeType": "application/pdf",
+            "status": "AVAILABLE",
+            "errorCode": null,
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "37fadeaf-2e30-4c33-a787-329442f5103c"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "9c57ab69-5ba7-4973-bc17-dc79ccc0e9e2"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-04-14T10:32:13.403Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "diId": "37fadeaf-2e30-4c33-a787-329442f5103c",
+            "isDiAttachment": true
+        }
+    },
+    {
+        "name": "a-con-one.pdf",
+        "fileInfo": {
+            "fileId": "1dceb3d3-3dca-49c8-b771-04620400b272",
+            "mimeType": "application/pdf",
+            "status": "AVAILABLE",
+            "errorCode": null,
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "bbcb89ca-20c8-441b-8610-a041fdd94517"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "1dceb3d3-3dca-49c8-b771-04620400b272"
+        },
+        "sharedWith": [
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-04-14T11:50:09.115Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "diId": "bbcb89ca-20c8-441b-8610-a041fdd94517",
+            "isDiAttachment": true
+        }
+    },
+    {
+        "name": "draft Certificate of origin.pdf",
+        "fileInfo": {
+            "fileId": "ce4e92a0-22cf-4d06-a0ca-0377de36d522",
+            "mimeType": "application/pdf",
+            "status": "AVAILABLE",
+            "errorCode": null,
+            "size": 27507
+        },
+        "createdBy": {
+            "le": 5020,
+            "userName": "Septimiu Chira"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "5fa2b25f-0c9e-4a3c-8a07-b491ed54e408"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "ce4e92a0-22cf-4d06-a0ca-0377de36d522"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5020
+            }
+        ],
+        "sharedDate": "2023-05-30T09:20:37.757Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "diId": "5fa2b25f-0c9e-4a3c-8a07-b491ed54e408",
+            "isDiAttachment": true
+        }
+    },
+    {
+        "name": "zzzzzzzzzzzz(2).txt",
+        "fileInfo": {
+            "fileId": "650710b3-e404-4b93-94aa-0744d982b2e3",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "650710b3-e404-4b93-94aa-0744d982b2e3"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T14:45:44.106Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "zzzzzzzzzzzz(1).txt",
+        "fileInfo": {
+            "fileId": "e81dde61-534d-4be9-9b04-66a143380182",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "e81dde61-534d-4be9-9b04-66a143380182"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T14:43:40.509Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "zzzzzzzzzzzz.txt",
+        "fileInfo": {
+            "fileId": "d9ed822a-b348-4fb5-aea8-d1e0acce9c4e",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "d9ed822a-b348-4fb5-aea8-d1e0acce9c4e"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T14:41:27.876Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "txttestfile(1).txt",
+        "fileInfo": {
+            "fileId": "9dfa9a4b-50a7-4bd2-a8d8-6ba969063c7c",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "9dfa9a4b-50a7-4bd2-a8d8-6ba969063c7c"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T13:44:22.617Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "txttestfile.txt",
+        "fileInfo": {
+            "fileId": "35a92418-a076-44d7-959a-ef426e66604f",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "35a92418-a076-44d7-959a-ef426e66604f"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T13:25:41.263Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "txttestfile88888.txt",
+        "fileInfo": {
+            "fileId": "8d620f7d-c888-4619-91a1-f074c66b3fd5",
+            "mimeType": "text/plain",
+            "status": "UPLOADED",
+            "size": 25
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "8d620f7d-c888-4619-91a1-f074c66b3fd5"
+        },
+        "sharedWith": [],
+        "sharedDate": "2023-05-15T13:01:48.815Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "archivedAt": null,
+            "archivedByUserName": null
+        }
+    },
+    {
+        "name": "file-from-con-three.pdf",
+        "fileInfo": {
+            "fileId": "7719250a-1dda-4396-845c-d927ee42c426",
+            "mimeType": "application/pdf",
+            "uniqueName": "e4b6dee107e14b2882eff61a20f0e160",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 30578,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-05-18T12:43:25.082Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 60907
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "e4b6dee107e14b2882eff61a20f0e160"
+        },
+        "sharedWith": [
+            {
+                "le": 5019
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-04-14T10:35:14.154Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "1a6f2dce-3b7d-5d85-a398-fb4a92735b02",
+            "diId": "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229"
+        }
+    },
+    {
+        "name": "fileFromConTwo.pdf",
+        "fileInfo": {
+            "fileId": "f4061abe-2662-4817-b56e-1d6fefc0cd5a",
+            "mimeType": "application/pdf",
+            "uniqueName": "9028df758c4d4f0d87978c418e4eb0df",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "37fadeaf-2e30-4c33-a787-329442f5103c"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 29228,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-04-14T10:38:41.115Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a1e2c6770068003169",
+                "approverGivenName": "Ana",
+                "approverFamilyName": "Jonesbm",
+                "comment": "aaa",
+                "repliedAt": "2023-04-14T10:38:52.669Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 60910
+            },
+            "diSplits": [],
+            "comments": [],
+            "documentId": "9028df758c4d4f0d87978c418e4eb0df"
+        },
+        "sharedWith": [
+            {
+                "le": 5019
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-04-14T10:34:56.641Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "b0e56f9c-5da8-5560-8b35-b82a2257d6a1",
+            "diId": "37fadeaf-2e30-4c33-a787-329442f5103c"
+        }
+    },
+    {
+        "name": "fileFromConOne.pdf",
+        "fileInfo": {
+            "fileId": "c8a14b0c-e2c3-4387-ac55-e9858635b22d",
+            "mimeType": "application/pdf",
+            "uniqueName": "9187d7a50aeb414cbbaa081e228a342e",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 30515,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-05-17T11:47:00.319Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 60919
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "9187d7a50aeb414cbbaa081e228a342e"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-04-14T10:34:26.677Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "cf01b61a-7eed-5a9c-bfe7-a87774b267ee"
+        }
+    },
+    {
+        "name": "file-from-con-dash-one.pdf",
+        "fileInfo": {
+            "fileId": "068b6bcd-65d4-4bf4-a0b8-dd99177a8c1a",
+            "mimeType": "application/pdf",
+            "uniqueName": "980f86cf8e354121897dad72de805e6a",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Ana Clarkbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 29233,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-04-14T11:10:09.454Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a1e2c6770068003169",
+                "approverGivenName": "Ana",
+                "approverFamilyName": "Jonesbm",
+                "comment": "",
+                "repliedAt": "2023-04-14T11:10:14.778Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 60925
+            },
+            "diSplits": [],
+            "documentStatus": "INACTIVE",
+            "comments": [],
+            "documentId": "980f86cf8e354121897dad72de805e6a"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-04-14T10:34:26.677Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "cf01b61a-7eed-5a9c-bfe7-a87774b267ee"
+        }
+    },
+    {
+        "name": "c-con-one.pdf",
+        "fileInfo": {
+            "fileId": "a9ea4c45-53e3-4c24-b4a3-842d27d4b98d",
+            "mimeType": "application/pdf",
+            "uniqueName": "83d73231c867453b987d531bce105dae",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 35431
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 29232,
+                "requestedByLegalEntityId": 5019,
+                "requestedByUserId": null,
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Clarkbm",
+                "requestedAt": "2023-04-14T10:40:46.710Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a1e2c6770068003169",
+                "approverGivenName": "Ana",
+                "approverFamilyName": "Jonesbm",
+                "comment": "approve",
+                "repliedAt": "2023-04-14T11:49:22.806Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 60923
+            },
+            "diSplits": [],
+            "comments": [],
+            "documentId": "83d73231c867453b987d531bce105dae"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-04-14T10:37:46.401Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "3f83b795-854f-5aef-bc44-e935e1af1808"
+        }
+    },
+    {
+        "name": "DI scenario.txt",
+        "fileInfo": {
+            "fileId": "00d94389-1815-4c9f-af8f-c005fc9586c6",
+            "mimeType": "text/plain",
+            "uniqueName": "8faecb53fa184f10b2849c12cfaf7626",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 1373
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 30140,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-05-09T13:11:00.631Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a1e2c6770068003169",
+                "approverGivenName": "Ana",
+                "approverFamilyName": "Jonesbm",
+                "comment": "",
+                "repliedAt": "2023-05-09T13:11:07.921Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 64291
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "8faecb53fa184f10b2849c12cfaf7626"
+        },
+        "sharedWith": [
+            {
+                "le": 5010
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5019
+            },
+            {
+                "userName": "Vitalii Panko",
+                "npp": "vitalii.panko@covantis.io"
+            }
+        ],
+        "sharedDate": "2023-05-09T11:47:45.643Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "97d6f5c0-a904-51b3-95e2-08e12442849e"
+        }
+    },
+    {
+        "name": "A word.docx",
+        "fileInfo": {
+            "fileId": "152291ea-d920-419b-8a1b-5ff7387da6cf",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "uniqueName": "304ed58dcfe94b42b3afd10f8779a9bc",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 11957
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 30507,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-05-17T11:25:24.565Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5020,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 66223
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "304ed58dcfe94b42b3afd10f8779a9bc"
+        },
+        "sharedWith": [
+            {
+                "le": 5010
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5019
+            },
+            {
+                "userName": "Vitalii Panko",
+                "npp": "vitalii.panko@covantis.io"
+            }
+        ],
+        "sharedDate": "2023-05-09T11:47:45.643Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "97d6f5c0-a904-51b3-95e2-08e12442849e"
+        }
+    },
+    {
+        "name": "DI example.docx",
+        "fileInfo": {
+            "fileId": "ec67a045-a5d9-4ea1-8562-064a26779ae1",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "uniqueName": "48d40e13bd3846ff8ab09253b7b44595",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 30970
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Ana Jonesbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 30511,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a1e2c6770068003169",
+                "requestedByGivenName": "Ana",
+                "requestedByFamilyName": "Jonesbm",
+                "requestedAt": "2023-05-17T11:44:54.602Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 66231
+            },
+            "diSplits": [],
+            "comments": [],
+            "documentId": "48d40e13bd3846ff8ab09253b7b44595"
+        },
+        "sharedWith": [
+            {
+                "le": 5010
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5019
+            },
+            {
+                "userName": "Vitalii Panko",
+                "npp": "vitalii.panko@covantis.io"
+            }
+        ],
+        "sharedDate": "2023-05-09T11:47:45.643Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "97d6f5c0-a904-51b3-95e2-08e12442849e"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "6d7714e8-e2c6-4faf-b2e8-e8609c3b5314",
+            "mimeType": "application/msword",
+            "uniqueName": "229ddb52038c4e51897bec5b471f30ef",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 42765,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-29T12:36:35.605Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-29T12:36:54.537Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 99590
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "5002cbb2-aec0-49fd-831a-975a4e984d14",
+                    "content": "test approve",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-29T12:36:54.536Z"
+                },
+                {
+                    "commentId": "7814c0e4-2511-4927-b4b0-939407d69daf",
+                    "content": "test 3\ntest 2\ntest 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-29T11:46:53.739Z"
+                },
+                {
+                    "commentId": "7e4e4bc8-45c9-4ae1-bd25-184ec44a513c",
+                    "content": "test 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-29T11:19:07.874Z"
+                },
+                {
+                    "commentId": "5864e11c-a261-4a26-bd1a-846c8699064c",
+                    "content": "test 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-29T11:19:07.874Z"
+                },
+                {
+                    "commentId": "6e2919c8-0a48-4a6d-9e38-650fe0e2d3de",
+                    "content": "test 3",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-29T11:19:07.874Z"
+                }
+            ],
+            "documentId": "229ddb52038c4e51897bec5b471f30ef"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-09-19T14:15:25.939Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "aff0b5e3-946a-48d3-828c-261c4e419eb1",
+            "mimeType": "application/pdf",
+            "uniqueName": "4521d34c9ffd4054a09f89cd44c81b63",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 41161,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-15T11:38:47.390Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-15T11:45:03.489Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 96556
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "f828a845-162d-4791-b33b-e174d85f612a",
+                    "content": "1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T11:39:15.578Z"
+                },
+                {
+                    "commentId": "5a204bbf-89e7-4a1c-9a38-f2005fc595c3",
+                    "content": "test3",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T11:45:03.489Z"
+                },
+                {
+                    "commentId": "b04cc261-5bcb-4179-a0c4-8ddec2a2e996",
+                    "content": "test2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T11:44:53.540Z"
+                }
+            ],
+            "documentId": "4521d34c9ffd4054a09f89cd44c81b63"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-09-15T11:38:40.528Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "b6594aae-624a-4c3e-b6e3-f6a0f58b93f0",
+            "mimeType": "application/pdf",
+            "uniqueName": "4bf4e1b7c310464f804c18427d27a5e8",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40863,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T11:04:46.313Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T11:31:04.657Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 94245
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "98a5df54-fb43-4480-a065-594ae6a14c00",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-14T08:28:17.211Z"
+                },
+                {
+                    "commentId": "6383c184-8399-49e3-bf11-f57fff70d2dc",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T10:37:47.206Z"
+                },
+                {
+                    "commentId": "a19e94a7-bbc1-4311-943f-ff470e8837d1",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:31:04.657Z"
+                }
+            ],
+            "documentId": "4bf4e1b7c310464f804c18427d27a5e8"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-09-07T11:04:38.438Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "8a6c03f3-4900-4162-b544-da4f39122e5c",
+            "mimeType": "application/pdf",
+            "uniqueName": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40424,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-04T09:18:02.784Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T08:35:34.850Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 91700
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "c8752573-73cc-4733-87ec-6e218805d43c",
+                    "content": "test 123",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-01T07:11:28.084Z"
+                },
+                {
+                    "commentId": "33ad02d7-c5ff-484a-ba4c-a0c8ef683bc0",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T08:08:57.412Z"
+                },
+                {
+                    "commentId": "8dfd1b12-7f1e-4542-8e4d-2b0642e8a7fe",
+                    "content": "test comments send only",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-05T09:40:22.623Z"
+                },
+                {
+                    "commentId": "23695d3d-d876-4e9a-802a-b3950f022e45",
+                    "content": "53",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-04T10:09:32.498Z"
+                },
+                {
+                    "commentId": "30847018-3503-4f0b-b8d1-b13c6f90bcdc",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-04T10:07:09.209Z"
+                },
+                {
+                    "commentId": "dbda41f3-4b89-4605-8658-f224e15c8316",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-04T10:07:08.398Z"
+                },
+                {
+                    "commentId": "9f5e03ba-e008-439a-9381-2cedc85d66ab",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-04T09:00:14.933Z"
+                },
+                {
+                    "commentId": "abaf617b-efb7-40c1-ba19-257e97843abe",
+                    "content": "test3",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-01T07:40:06.450Z"
+                },
+                {
+                    "commentId": "cf59bd79-5ea0-47a4-a510-16d4b1760da5",
+                    "content": "teast214125",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-01T07:13:40.201Z"
+                }
+            ],
+            "documentId": "0be2d1c6ff8f4f81b4c9f3ea3dc1f39b"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-09-01T06:52:08.323Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "d213a2a3-e8af-4de5-9ef9-6c7fc00829a5",
+            "mimeType": "application/pdf",
+            "uniqueName": "5746f5c12bfd4439b77ee443467c4237",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40808,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T08:36:53.056Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T08:37:17.209Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 88010
+            },
+            "diSplits": [],
+            "comments": [],
+            "documentId": "5746f5c12bfd4439b77ee443467c4237"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-24T11:13:22.550Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "9509a49e-09c9-4543-bb04-5debd4bd630d",
+            "mimeType": "application/pdf",
+            "uniqueName": "3386c9df899d48fa9f2456f8867c1ceb",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40814,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T08:49:15.827Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T09:33:50.696Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 87726
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "e6564032-ef54-4461-8512-9ce8fe5cfb2d",
+                    "content": "test 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T08:49:36.391Z"
+                },
+                {
+                    "commentId": "98810189-577f-48e1-adf6-7c4214fc3670",
+                    "content": "test with approve",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T08:49:36.391Z"
+                }
+            ],
+            "documentId": "3386c9df899d48fa9f2456f8867c1ceb"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-23T14:20:29.641Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "e8e22a8c-015f-45c9-a8c5-494e8461338b",
+            "mimeType": "application/pdf",
+            "uniqueName": "c6d6c93417af4aa5b82515e19ddab325",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40837,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T09:35:41.689Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T09:35:56.984Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 86883
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "c6d6c93417af4aa5b82515e19ddab325"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-22T08:02:35.830Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "abfaf01e-9e04-422f-ad06-2db8026933ed",
+            "mimeType": "application/pdf",
+            "uniqueName": "306d892f40204138ad1e81c738028a52",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40841,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T09:39:55.378Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": "{\"test v2\",\"test approver 1\"}",
+                "repliedAt": "2023-09-07T09:41:17.628Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 86879
+            },
+            "diSplits": [],
+            "comments": [],
+            "documentId": "306d892f40204138ad1e81c738028a52"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-22T08:00:32.718Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "29498759-2d32-4fd4-9bee-292fe986cd9d",
+            "mimeType": "application/pdf",
+            "uniqueName": "966c73326f0c4e53b463aef230e49277",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40845,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T09:42:59.692Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T09:43:14.286Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 86875
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "b7f9fbf4-13e1-4eac-84ea-cff22ccb831f",
+                    "content": "test rejectef ",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T09:43:14.286Z"
+                },
+                {
+                    "commentId": "77f01f4c-10c4-402b-8a76-d65d7c920c50",
+                    "content": "v2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T09:43:14.286Z"
+                }
+            ],
+            "documentId": "966c73326f0c4e53b463aef230e49277"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-22T07:57:04.828Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "1_Y07KF-_laqG2cJ1Squ0Bag.png",
+        "fileInfo": {
+            "fileId": "d2ae2660-b46a-4e7f-83d2-105640c1a081",
+            "mimeType": "image/png",
+            "uniqueName": "43446d53fd2a45c18a5b41ee22b52e12",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 51856
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40849,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T09:45:41.961Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T09:45:56.438Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 86666
+            },
+            "diSplits": [],
+            "comments": [
+                {
+                    "commentId": "8456b93f-bf7e-4b39-a397-af4f3f5b0f7c",
+                    "content": "teast 125",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T09:45:56.438Z"
+                },
+                {
+                    "commentId": "87b83745-9836-4be8-aa30-c5090c7cb268",
+                    "content": "tesrt 123",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T09:45:56.438Z"
+                }
+            ],
+            "documentId": "43446d53fd2a45c18a5b41ee22b52e12"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-08-21T13:34:12.152Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "draft Certificate of origin.pdf",
+        "fileInfo": {
+            "fileId": "2580fcc3-ca52-4d93-935d-3dd2e9956e7a",
+            "mimeType": "application/pdf",
+            "uniqueName": "81f6125ff70a4fc080246ff2eeb6c046",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 27507
+        },
+        "createdBy": {
+            "le": 5020,
+            "userName": "Septimiu Chira"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 31228,
+                "requestedByLegalEntityId": 5020,
+                "requestedByUserId": null,
+                "requestedByGivenName": "Septimiu",
+                "requestedByFamilyName": "Chira",
+                "requestedAt": "2023-05-29T08:39:23.421Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5020,
+                "approverUserId": null,
+                "approverGivenName": "Septimiu",
+                "approverFamilyName": "Chira",
+                "comment": "",
+                "repliedAt": "2023-05-29T08:39:28.082Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 67978
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "81f6125ff70a4fc080246ff2eeb6c046"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-05-29T08:39:16.897Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "draft Certificate of origin.pdf",
+        "fileInfo": {
+            "fileId": "08833f0a-1f3e-4edb-9aa7-575effe9dd9f",
+            "mimeType": "application/pdf",
+            "uniqueName": "22a368be814247c6b2e102aef7e2a2e1",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 27507
+        },
+        "createdBy": {
+            "le": 5020,
+            "userName": "Septimiu Chira"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 31232,
+                "requestedByLegalEntityId": 5020,
+                "requestedByUserId": null,
+                "requestedByGivenName": "Septimiu",
+                "requestedByFamilyName": "Chira",
+                "requestedAt": "2023-05-29T08:41:43.892Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5020,
+                "approverUserId": null,
+                "approverGivenName": "Septimiu",
+                "approverFamilyName": "Chira",
+                "comment": "",
+                "repliedAt": "2023-05-29T08:42:43.734Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 67982
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "22a368be814247c6b2e102aef7e2a2e1"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-05-29T08:41:24.202Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "0c143c06-af66-4767-82b4-2ce573120fa1",
+            "mimeType": "application/pdf",
+            "uniqueName": "3c24c09ba6674df7b8289f5115712138",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5019,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35613,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-18T14:18:58.883Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-18T14:19:06.070Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 75601
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "3c24c09ba6674df7b8289f5115712138"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-05T08:55:25.241Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "70213d40-eb3e-4e88-80c0-71adf0d04123",
+            "mimeType": "application/msword",
+            "uniqueName": "bab52a6acf9a41a795517b13eba70765",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35059,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-11T09:58:00.730Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": "Old comment here",
+                "repliedAt": "2023-07-11T09:58:15.998Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 76435
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "bab52a6acf9a41a795517b13eba70765"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-06T14:22:40.653Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "64e9474b-1226-45ea-a715-7d5b9ceecaf5",
+            "mimeType": "application/pdf",
+            "uniqueName": "d5aefcf2795c4c608268329bd5473bee",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35557,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-17T15:13:06.665Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-18T13:22:58.783Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 76439
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "d5aefcf2795c4c608268329bd5473bee"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-06T14:23:13.939Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "5732ac48-bd64-4086-b91d-7351a75410d5",
+            "mimeType": "application/pdf",
+            "uniqueName": "c4e5a9d5904b4559adf2f9926993f4b2",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35553,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-17T10:22:49.630Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": "",
+                "repliedAt": "2023-07-17T15:13:36.547Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 76441
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "d37459c3-7de2-4f34-a702-df2e8179f935",
+                    "content": "test comment 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-10T16:24:14.488Z"
+                },
+                {
+                    "commentId": "eba5ee8a-3834-4875-87f0-80b90dd285f3",
+                    "content": "test comment 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-10T16:23:23.292Z"
+                },
+                {
+                    "commentId": "5ec65fc5-4af0-4e5e-8bd9-31ae5757ad58",
+                    "content": "test comment 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-10T16:23:23.292Z"
+                },
+                {
+                    "commentId": "d5ed04e8-15e4-4f9e-b3b8-fbd4a3c6b59a",
+                    "content": "test comment 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-13T07:38:38.938Z"
+                },
+                {
+                    "commentId": "8e43d044-ea91-4a13-bc4e-4b9fe516e3eb",
+                    "content": "test comment 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-13T07:38:38.938Z"
+                },
+                {
+                    "commentId": "2c070c46-08d5-4427-b76e-e125ac50db91",
+                    "content": "test comment 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-13T07:38:36.704Z"
+                },
+                {
+                    "commentId": "80abb34d-8220-48ba-8f81-9ee6b3096db1",
+                    "content": "test comment 1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-13T07:38:36.704Z"
+                },
+                {
+                    "commentId": "7e989812-f45b-4d74-82a6-5fdd3457fe24",
+                    "content": "test comment 2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-07-10T16:24:14.488Z"
+                }
+            ],
+            "documentId": "c4e5a9d5904b4559adf2f9926993f4b2"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-06T14:23:13.939Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "b6368af4-9836-4719-b635-ec1ebf14b5fd",
+            "mimeType": "application/msword",
+            "uniqueName": "2808d6fbd299414ba8456ed216ab7001",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 34572,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-06T14:52:45.187Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": "",
+                "repliedAt": "2023-07-17T13:01:06.879Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 76440
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "2808d6fbd299414ba8456ed216ab7001"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-06T14:23:13.939Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "018a4f34-d02a-40fc-9ff1-17373416341d",
+            "mimeType": "application/pdf",
+            "uniqueName": "dd0d752b7c21419db6c0b0552cfe6cc1",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35961,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-21T08:53:40.243Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-21T08:53:46.804Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79394
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "dd0d752b7c21419db6c0b0552cfe6cc1"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T07:43:35.155Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "d492c7d6-e747-46b8-b689-628c5243db0b",
+            "mimeType": "application/msword",
+            "uniqueName": "7e73617429d94017bb59f0b4fb9125a2",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35982,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-21T12:01:21.160Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-21T12:01:30.541Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79412
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "7e73617429d94017bb59f0b4fb9125a2"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:30:04.946Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "ce2781ff-20c9-4289-9844-fc76391f3f5d",
+            "mimeType": "application/pdf",
+            "uniqueName": "0bee83392dff42139a95eb50bf005712",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35974,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-21T10:08:54.392Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-21T10:09:05.851Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79418
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "0bee83392dff42139a95eb50bf005712"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:30:53.301Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "8173c01d-cb5c-4a10-a39a-4166673ffe92",
+            "mimeType": "application/msword",
+            "uniqueName": "cfc47ae965614e2a8503e2713aea3244",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 38288,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-08-18T09:14:46.189Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T11:38:37.408Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79434
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "7dfb1bfe-1c4a-4806-a798-6e90ae54f6ad",
+                    "content": "test 125",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:38:37.408Z"
+                },
+                {
+                    "commentId": "491362b8-cbc8-42c9-aa74-e4adff7d0198",
+                    "content": "teast 1255",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:38:37.408Z"
+                },
+                {
+                    "commentId": "25481bdb-81ec-4d87-84d7-17c8eea07c30",
+                    "content": "teast12 v2",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:38:37.408Z"
+                },
+                {
+                    "commentId": "29f9031b-ecc7-447c-bca3-7f0047d4d5e2",
+                    "content": "teast",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:42:27.397Z"
+                }
+            ],
+            "documentId": "cfc47ae965614e2a8503e2713aea3244"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:43:35.633Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "21eac046-4cef-4796-9d68-a55f23b86b9f",
+            "mimeType": "application/msword",
+            "uniqueName": "30d33f1714c64124a52571012230b024",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "30d33f1714c64124a52571012230b024"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:45:30.494Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "d2b31898-5ab4-4890-a5d7-f68b9882eb84",
+            "mimeType": "application/msword",
+            "uniqueName": "87f6e5575b2e46c2baf035ef2642a933",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40867,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-07T11:50:39.074Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-07T11:50:47.427Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79450
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "a46826b6-b6c8-4f49-a15b-57743c527ff8",
+                    "content": "t1235",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:50:47.427Z"
+                },
+                {
+                    "commentId": "1afaa9e9-44db-4491-afe6-19057cfccf13",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-07T11:50:47.427Z"
+                }
+            ],
+            "documentId": "87f6e5575b2e46c2baf035ef2642a933"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:50:03.939Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "fb04ef0d-9675-4296-bf5b-8ac58e4ed21d",
+            "mimeType": "application/msword",
+            "uniqueName": "9fd3031a87c54ed38eb5870405ecb6b0",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "9fd3031a87c54ed38eb5870405ecb6b0"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:52:23.494Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "560f5670-5832-4d83-9a7b-e95ec2d8af55",
+            "mimeType": "application/msword",
+            "uniqueName": "167e3a0e2b9845fc9bb72c64ca6c4496",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40935,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-11T09:23:25.538Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 79458
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "167e3a0e2b9845fc9bb72c64ca6c4496"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:53:02.395Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "aff0edda-5b1d-42b3-aa76-037133fea1d3",
+            "mimeType": "application/msword",
+            "uniqueName": "d0cd1326b9cb45aca3a820cbbb66fd94",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40931,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-11T09:21:06.054Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-11T09:22:51.785Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79464
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "2b6a4344-8b19-43ee-98d5-95e109d3978d",
+                    "content": "test123",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T09:22:51.785Z"
+                },
+                {
+                    "commentId": "c89a0f60-bf91-40a9-8774-c85f80fbb243",
+                    "content": "test1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T09:21:53.559Z"
+                }
+            ],
+            "documentId": "d0cd1326b9cb45aca3a820cbbb66fd94"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:56:05.949Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "d674cd80-390a-488d-95ae-4301732c9ad1",
+            "mimeType": "application/msword",
+            "uniqueName": "c9dc24b231834d8887240f98d8acbca2",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "c9dc24b231834d8887240f98d8acbca2"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:56:44.419Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "5f208928-2a95-4c73-b863-2a66596ade21",
+            "mimeType": "application/msword",
+            "uniqueName": "c26e32e8b7014043ada29f8f179e9a56",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "c26e32e8b7014043ada29f8f179e9a56"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T08:57:54.238Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "902362de-2ef0-422c-9f93-6500fac23348",
+            "mimeType": "application/msword",
+            "uniqueName": "c03c81d3b2e840b28eaeca5e8b79d3fd",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "c03c81d3b2e840b28eaeca5e8b79d3fd"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:00:51.721Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "85f8c152-cf88-40ed-bba9-3fe0e8b66d23",
+            "mimeType": "application/msword",
+            "uniqueName": "720b60655c104744a85cf3ccb405e6ae",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "720b60655c104744a85cf3ccb405e6ae"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:07:17.500Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "ad586bec-96e2-48b2-b20e-28bff3784001",
+            "mimeType": "application/pdf",
+            "uniqueName": "6b540f1b359945ef9c14c532386a313d",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "6b540f1b359945ef9c14c532386a313d"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:08:02.157Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "59280ae0-4c5a-4cad-8328-0072d3e82712",
+            "mimeType": "application/pdf",
+            "uniqueName": "2df59c4630fd46d58cc5b5e35814e41f",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "2df59c4630fd46d58cc5b5e35814e41f"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:11:39.176Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "76b2ab88-bb0c-480b-b970-de88164a91b8",
+            "mimeType": "application/msword",
+            "uniqueName": "c7974ea5c4ed466b9b3cff0fd2470192",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35715,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T10:00:27.231Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-19T10:00:30.123Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79495
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "c7974ea5c4ed466b9b3cff0fd2470192"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:12:10.224Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "859e9ba8-be11-4152-a95d-e045b967be5e",
+            "mimeType": "application/msword",
+            "uniqueName": "93f134a5042e4fd391c7fb922083834b",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "93f134a5042e4fd391c7fb922083834b"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:36:59.285Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "9ef40c94-40ef-4252-9302-88f9d69375c8",
+            "mimeType": "application/msword",
+            "uniqueName": "d1fda653062b461798131122937573c9",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40997,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-12T11:41:12.795Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 79511
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "d1fda653062b461798131122937573c9"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:38:07.158Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "3ecdbc9b-9caa-4b1a-a54b-1644b2cbd8d6",
+            "mimeType": "application/msword",
+            "uniqueName": "1700a0d70b3e40bb8400f8d64078155a",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 36172,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-26T08:06:51.752Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-08-14T12:06:08.793Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79515
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "1700a0d70b3e40bb8400f8d64078155a"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:43:23.288Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "c5ad2b2d-a45d-4ca4-bca2-3829396a1f56",
+            "mimeType": "application/msword",
+            "uniqueName": "1398d3c719fb4509985ae1ba7d5a966a",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 41097,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-14T08:20:50.136Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 79519
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "84cb4411-fd1b-4303-a01f-b2942a9a4f1d",
+                    "content": "test1",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T11:35:57.048Z"
+                },
+                {
+                    "commentId": "3182d6da-d248-4d6a-adaa-b06e6ae6a682",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T10:27:54.838Z"
+                }
+            ],
+            "documentId": "1398d3c719fb4509985ae1ba7d5a966a"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:44:19.621Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "ff952881-6ef0-4ca5-8e95-acb1548c3ebc",
+            "mimeType": "application/msword",
+            "uniqueName": "ef377707a9504c01b145a07b2c4645e4",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35703,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T09:50:00.698Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-08-07T20:14:34.930Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79523
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "ef377707a9504c01b145a07b2c4645e4"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:45:14.844Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "81e3c66a-4706-4e14-955c-065f31902766",
+            "mimeType": "application/msword",
+            "uniqueName": "078d6466358149d19d5b52b5b95aa5ef",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35699,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T09:49:18.311Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-20T08:15:47.703Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79527
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "078d6466358149d19d5b52b5b95aa5ef"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:47:24.392Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "6cce4f06-a7b3-4398-8d90-5fad2f3c7851",
+            "mimeType": "application/msword",
+            "uniqueName": "cad3c4c107d14fe3b343f84e4ddaa8d1",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35695,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T09:48:28.013Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": "test old comment",
+                "repliedAt": "2023-07-19T10:58:09.565Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79531
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "cad3c4c107d14fe3b343f84e4ddaa8d1"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:48:05.915Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "f58a50bd-10b9-4aad-8080-5f71146d26b0",
+            "mimeType": "application/msword",
+            "uniqueName": "4100001fa3e5491f993594edd45ecb02",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35707,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T09:53:54.124Z",
+                "status": "REJECTED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-19T09:53:59.270Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79535
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "4100001fa3e5491f993594edd45ecb02"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:53:45.220Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "86cc9994-9d5b-4258-bd9b-65418d5976e6",
+            "mimeType": "application/msword",
+            "uniqueName": "586ce2cf399c4a0f9c7cb331cf57f239",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40952,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-11T13:49:12.803Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-11T13:49:21.950Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79539
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "6243e2ad-e8ca-4417-a4dd-d84eeed425bd",
+                    "content": "21315",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T13:49:21.950Z"
+                },
+                {
+                    "commentId": "4e366468-8bf7-4109-a8af-82d11ac44f9e",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T13:49:21.950Z"
+                }
+            ],
+            "documentId": "586ce2cf399c4a0f9c7cb331cf57f239"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:54:41.673Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "964b83c7-2aa4-4f99-a7c1-43941a3a3a41",
+            "mimeType": "application/msword",
+            "uniqueName": "d9cfa10ee004414bba85262566811e71",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35711,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-19T09:59:33.162Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-07-19T09:59:38.375Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79543
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "d9cfa10ee004414bba85262566811e71"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T09:59:19.579Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "186fd3c3-55b1-4c1c-bddc-d5a7fe1da91e",
+            "mimeType": "application/msword",
+            "uniqueName": "410e57cee644455e82ab286f9352f29d",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "dba50431-9f83-461c-8cdc-9e54d7d84197"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 40927,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-09-11T08:21:36.747Z",
+                "status": "APPROVED",
+                "approverLegalEntityId": 5018,
+                "approverUserId": "auth0|60a248a11a55450069baec66",
+                "approverGivenName": "Joni",
+                "approverFamilyName": "Mitchellbm",
+                "comment": null,
+                "repliedAt": "2023-09-11T13:39:10.666Z",
+                "cancelledByLegalEntityId": null,
+                "documentId": 79563
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [
+                {
+                    "commentId": "a3929577-f98e-43aa-81f2-fdbaf3809c2a",
+                    "content": "teast123",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T13:39:10.665Z"
+                },
+                {
+                    "commentId": "04b6b3a6-a9a0-41a4-996b-f269a488c5a8",
+                    "content": "12356",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-11T13:39:10.665Z"
+                },
+                {
+                    "commentId": "7fc15571-7378-4d91-9370-0235f0f653d1",
+                    "content": "test",
+                    "commentedBy": {
+                        "legalEntityId": 5018,
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "givenName": "Joni",
+                        "familyName": "Mitchellbm"
+                    },
+                    "createdAt": "2023-09-15T10:29:44.099Z"
+                }
+            ],
+            "documentId": "410e57cee644455e82ab286f9352f29d"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            },
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            }
+        ],
+        "sharedDate": "2023-07-19T10:57:42.367Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+            "diId": "dba50431-9f83-461c-8cdc-9e54d7d84197"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "f0cdcbc8-187b-4c63-9c34-7dde475da893",
+            "mimeType": "application/msword",
+            "uniqueName": "b2119ea04e4b40e0a393391c08e3df21",
+            "status": "SUCCESS",
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 34229,
+                "requestedByLegalEntityId": 5020,
+                "requestedByUserId": null,
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-05T11:06:31.081Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 75118
+            },
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "b2119ea04e4b40e0a393391c08e3df21"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-03T07:31:31.716Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+            "diId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "6de9a78c-43b2-409a-95b1-2a8e7031d3a9",
+            "mimeType": "application/pdf",
+            "uniqueName": "ed68620d27014a7ca60920923dadb9d2",
+            "status": "SUCCESS",
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 34201,
+                "requestedByLegalEntityId": 5020,
+                "requestedByUserId": null,
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-05T08:50:05.621Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5020,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 75440
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "ed68620d27014a7ca60920923dadb9d2"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-04T08:47:34.667Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+            "diId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+        }
+    },
+    {
+        "name": "pdf.pdf",
+        "fileInfo": {
+            "fileId": "216afa19-1919-4b4b-861b-daeaa086900c",
+            "mimeType": "application/pdf",
+            "uniqueName": "f86e0165130b47f0a57357821c7eb07f",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "f86e0165130b47f0a57357821c7eb07f"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-06T09:33:11.101Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+            "diId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "7bb558c4-1031-4948-bc97-9cf7666a470a",
+            "mimeType": "application/msword",
+            "uniqueName": "66187c953486457f88f8a9b51c704fb3",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+            ],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "documentStatus": "ORIGINAL",
+            "comments": [],
+            "documentId": "66187c953486457f88f8a9b51c704fb3"
+        },
+        "sharedWith": [
+            {
+                "le": 5020
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-06T13:53:52.273Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+            "diId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "d47b5f25-7b57-4e9f-aa8b-f2cede4a073e",
+            "mimeType": "application/pdf",
+            "uniqueName": "ac00f321227f4c7db09e79a22b14157c",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "ac00f321227f4c7db09e79a22b14157c"
+        },
+        "sharedWith": [
+            {
+                "le": 5019
+            },
+            {
+                "le": 5010
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-21T08:47:58.532Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "a3da81f5-05cf-5547-afdf-c8e7f80671e1"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "1e7043f6-24a7-4837-922d-f275e9ad83ef",
+            "mimeType": "application/msword",
+            "uniqueName": "f658a496725a4be5a11551239d65f7c1",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [],
+            "productIds": [
+                2
+            ],
+            "diSplits": [],
+            "comments": [],
+            "documentId": "f658a496725a4be5a11551239d65f7c1"
+        },
+        "sharedWith": [
+            {
+                "le": 5019
+            },
+            {
+                "le": 5010
+            },
+            {
+                "le": 5018
+            }
+        ],
+        "sharedDate": "2023-07-21T08:47:58.532Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "a3da81f5-05cf-5547-afdf-c8e7f80671e1"
+        }
+    },
+    {
+        "name": "samplePDF.pdf",
+        "fileInfo": {
+            "fileId": "adc0663b-e05b-4628-80aa-74916693d34a",
+            "mimeType": "application/pdf",
+            "uniqueName": "be025a1fc4684b59bcdeeb72d3f00acb",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 3028
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35987,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-21T12:02:54.780Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 80324
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "be025a1fc4684b59bcdeeb72d3f00acb"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-07-21T08:49:12.878Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "dae890c1-1f92-5a52-b7c9-2d0ac99e8368",
+            "diId": "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca"
+        }
+    },
+    {
+        "name": "test.doc",
+        "fileInfo": {
+            "fileId": "f7458129-5410-4273-9e80-bc6ddda2bd8e",
+            "mimeType": "application/msword",
+            "uniqueName": "84dc0162e43b455bab9b6dfe6a5e39cc",
+            "status": "SUCCESS",
+            "errorCode": {},
+            "size": 19456
+        },
+        "createdBy": {
+            "le": 5018,
+            "userName": "Joni Mitchellbm"
+        },
+        "documentInfo": {
+            "isArchived": false,
+            "relatedDiIds": [
+                "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca"
+            ],
+            "productIds": [
+                2
+            ],
+            "approvalRequest": {
+                "id": 35986,
+                "requestedByLegalEntityId": 5018,
+                "requestedByUserId": "auth0|60a248a11a55450069baec66",
+                "requestedByGivenName": "Joni",
+                "requestedByFamilyName": "Mitchellbm",
+                "requestedAt": "2023-07-21T12:02:54.777Z",
+                "status": "PENDING",
+                "approverLegalEntityId": 5018,
+                "approverUserId": null,
+                "approverGivenName": null,
+                "approverFamilyName": null,
+                "comment": null,
+                "repliedAt": null,
+                "cancelledByLegalEntityId": null,
+                "documentId": 80325
+            },
+            "diSplits": [],
+            "documentStatus": "DRAFT",
+            "comments": [],
+            "documentId": "84dc0162e43b455bab9b6dfe6a5e39cc"
+        },
+        "sharedWith": [
+            {
+                "le": 5018
+            },
+            {
+                "le": 5010
+            },
+            {
+                "le": 5020
+            },
+            {
+                "le": 5019
+            }
+        ],
+        "sharedDate": "2023-07-21T08:49:12.878Z",
+        "context": {
+            "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+            "conversationId": "dae890c1-1f92-5a52-b7c9-2d0ac99e8368",
+            "diId": "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca"
+        }
+    }
+]

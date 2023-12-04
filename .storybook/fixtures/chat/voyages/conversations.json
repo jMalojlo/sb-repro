@@ -1,0 +1,2986 @@
+[
+    {
+        "id": "8583d23a-8691-5821-b7f4-878e050e286a",
+        "conversationId": "8583d23a-8691-5821-b7f4-878e050e286a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": null,
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-06T08:15:51.344Z",
+        "createdAtTimestamp": 1686039351344,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test bypass//edit",
+        "referenceId": "2f37676a-dd85-41ad-9518-e5da0a749bed",
+        "referenceEntity": "BYPASS",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "5b4b3771-4b7d-505d-9d7f-a7ffe6956d0a",
+        "conversationId": "5b4b3771-4b7d-505d-9d7f-a7ffe6956d0a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": null,
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-09T10:02:01.575Z",
+        "createdAtTimestamp": 1683626521575,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "q",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+        "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5019",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 2,
+        "lastMessage": {
+            "id": "90a63ed7-93a2-4945-8436-6516cb0336ee",
+            "createdBy": {},
+            "timestamp": 1695991014826,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "test.doc",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "comment": null,
+                            "documentId": "229ddb52038c4e51897bec5b471f30ef",
+                            "approvedById": 5018,
+                            "requestedById": 5018,
+                            "conversationId": "5b753d12-6007-5229-a85d-47e6f41a00f3"
+                        },
+                        "eventType": "DocumentApproved",
+                        "timestamp": "2023-09-29T12:36:54.547Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-28T11:29:25.193Z",
+        "createdAt": "2023-05-19T09:00:22.681Z",
+        "createdAtTimestamp": 1684486822681,
+        "latestSeenTimestamp": 1695900565193,
+        "topic": "did",
+        "referenceId": "dba50431-9f83-461c-8cdc-9e54d7d84197",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "56d4c104-c0db-519f-9aa9-1c8f121efbe1",
+        "conversationId": "56d4c104-c0db-519f-9aa9-1c8f121efbe1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "550594a2-1937-4bba-90c7-bcd4f1a00e9a",
+            "createdBy": {},
+            "timestamp": 1691764809830,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "testOldDi for Kate",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "status": "FINAL",
+                            "senderId": 5018,
+                            "businessId": "581344f3-9a9c-4997-9462-d5ec0c87b2e2",
+                            "recipientIds": [
+                                5010,
+                                5020
+                            ],
+                            "nppRecipients": [
+                                {
+                                    "email": "mihailo.tomic.ext@covantis.io",
+                                    "userName": ""
+                                }
+                            ]
+                        },
+                        "eventType": "DocumentInstructionEdited",
+                        "timestamp": "2023-08-11T14:40:09.283Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-21T12:19:12.624Z",
+        "createdAt": "2023-05-16T08:14:38.595Z",
+        "createdAtTimestamp": 1684224878595,
+        "latestSeenTimestamp": 1695298752624,
+        "topic": "testOldDi for Kate",
+        "referenceId": "581344f3-9a9c-4997-9462-d5ec0c87b2e2",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "mihailo.tomic.ext@covantis.io",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-08-11T14:40:09.657Z"
+    },
+    {
+        "id": "6bc9e791-dc9d-5c21-9af3-9172c26bc6b8",
+        "conversationId": "6bc9e791-dc9d-5c21-9af3-9172c26bc6b8",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "1b501e1b-0952-40ea-972b-3e651dcabeda",
+            "createdBy": {},
+            "timestamp": 1691751067965,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "incident oldDI",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "status": "FINAL",
+                            "senderId": 5018,
+                            "businessId": "6866fa16-02ef-4711-a168-2ea83557660d",
+                            "vesselName": "file test",
+                            "recipientIds": [
+                                5020,
+                                5010
+                            ],
+                            "nppRecipients": []
+                        },
+                        "eventType": "DocumentInstructionCreated",
+                        "timestamp": "2023-08-11T10:51:06.705Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-08-11T10:51:07.844Z",
+        "createdAtTimestamp": 1691751067844,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "incident oldDI",
+        "referenceId": "6866fa16-02ef-4711-a168-2ea83557660d",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "771987af-a535-5afa-948f-ba8a92f3eb5b",
+        "conversationId": "771987af-a535-5afa-948f-ba8a92f3eb5b",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6c8f6f7c-64b7-4118-9984-ec9560566a99",
+            "createdBy": {},
+            "timestamp": 1691745875467,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "test di 24121212525",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "status": "FINAL",
+                            "senderId": 5018,
+                            "businessId": "f51ee66d-539a-47ac-a300-0017f1888c88",
+                            "vesselName": "file test",
+                            "recipientIds": [
+                                5010,
+                                5020
+                            ],
+                            "nppRecipients": []
+                        },
+                        "eventType": "DocumentInstructionCreated",
+                        "timestamp": "2023-08-11T09:24:34.789Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-08-11T09:24:35.162Z",
+        "createdAtTimestamp": 1691745875162,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test di 24121212525",
+        "referenceId": "f51ee66d-539a-47ac-a300-0017f1888c88",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "c79311ad-f7f4-5c13-b905-08286f781ed9",
+        "conversationId": "c79311ad-f7f4-5c13-b905-08286f781ed9",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "be8a78bf-a4ec-40f9-84ff-db52228f340b",
+            "createdBy": {},
+            "timestamp": 1691745341896,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "test indcident 222 test",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "status": "FINAL",
+                            "senderId": 5018,
+                            "businessId": "0227c0f2-18a5-429f-93d0-0ecaa1786334",
+                            "recipientIds": [
+                                5010,
+                                5020
+                            ],
+                            "nppRecipients": []
+                        },
+                        "eventType": "DocumentInstructionEdited",
+                        "timestamp": "2023-08-11T09:15:41.098Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-08-11T06:45:35.668Z",
+        "createdAtTimestamp": 1691736335668,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test indcident 222 test",
+        "referenceId": "0227c0f2-18a5-429f-93d0-0ecaa1786334",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "77ae7fdf-f7ac-5f87-8b6b-52ca022fea51",
+        "conversationId": "77ae7fdf-f7ac-5f87-8b6b-52ca022fea51",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "539d0799-2032-43d5-9597-f6a0637a16be",
+            "createdBy": {},
+            "timestamp": 1691740648248,
+            "text": null,
+            "attachments": [],
+            "type": "feed",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "feedMessages": [
+                    {
+                        "userId": "auth0|60a248a11a55450069baec66",
+                        "eventData": {
+                            "name": "Just splits incident",
+                            "user": {
+                                "userId": "auth0|60a248a11a55450069baec66",
+                                "fullName": "",
+                                "givenName": "Joni",
+                                "familyName": "Mitchellbm"
+                            },
+                            "status": "FINAL",
+                            "senderId": 5018,
+                            "businessId": "08551cdf-64f5-48a8-a312-bd1fa5692b39",
+                            "recipientIds": [
+                                5019
+                            ],
+                            "nppRecipients": []
+                        },
+                        "eventType": "DocumentInstructionEdited",
+                        "timestamp": "2023-08-11T07:57:26.827Z",
+                        "voyageIds": [
+                            "0164f7b9-53a8-4466-b683-524089630b88"
+                        ]
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-14T10:36:59.246Z",
+        "createdAtTimestamp": 1681468619246,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "Just splits incident",
+        "referenceId": "08551cdf-64f5-48a8-a312-bd1fa5692b39",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "dae890c1-1f92-5a52-b7c9-2d0ac99e8368",
+        "conversationId": "dae890c1-1f92-5a52-b7c9-2d0ac99e8368",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5019",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "e6b807d3-41c1-4941-8f3e-5651822caefe",
+            "createdBy": {
+                "id": "auth0|62458e1684c2880069e3a389",
+                "isNPP": false,
+                "tenantId": "5020",
+                "userName": "Septimiu Chira"
+            },
+            "timestamp": 1689931412283,
+            "text": "neata buna",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-07-21T08:48:50.255Z",
+        "createdAtTimestamp": 1689929330255,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "Test1",
+        "referenceId": "5ffd76a9-7c5e-4054-ac2a-d6fe465997ca",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "a3da81f5-05cf-5547-afdf-c8e7f80671e1",
+        "conversationId": "a3da81f5-05cf-5547-afdf-c8e7f80671e1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "e8219c0a-0b1f-46f3-85da-b8cc0cb89b46",
+            "createdBy": {
+                "id": "auth0|60a248a11a55450069baec66",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Joni Mitchellbm"
+            },
+            "timestamp": 1689929278540,
+            "text": "test1",
+            "attachments": [
+                {
+                    "size": 3028,
+                    "type": "application/pdf",
+                    "error": {},
+                    "status": "SUCCESS",
+                    "entityId": "a3da81f5-05cf-5547-afdf-c8e7f80671e1",
+                    "container": "a3da81f505cf5547afdfc8e7f80671e1",
+                    "timestamp": 1689929268186,
+                    "metaDataId": "d47b5f25-7b57-4e9f-aa8b-f2cede4a073e",
+                    "uniqueName": "ac00f321227f4c7db09e79a22b14157c",
+                    "originalName": "samplePDF.pdf",
+                    "deliveryStatus": "delivered"
+                },
+                {
+                    "size": 19456,
+                    "type": "application/msword",
+                    "error": {},
+                    "status": "SUCCESS",
+                    "entityId": "a3da81f5-05cf-5547-afdf-c8e7f80671e1",
+                    "container": "a3da81f505cf5547afdfc8e7f80671e1",
+                    "timestamp": 1689929268189,
+                    "metaDataId": "1e7043f6-24a7-4837-922d-f275e9ad83ef",
+                    "uniqueName": "f658a496725a4be5a11551239d65f7c1",
+                    "originalName": "test.doc",
+                    "deliveryStatus": "delivered"
+                }
+            ],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-07-21T08:47:36.099Z",
+        "createdAtTimestamp": 1689929256099,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "Test123",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "d5bcad79-c646-5fd3-8f60-ec6f8017e775",
+        "conversationId": "d5bcad79-c646-5fd3-8f60-ec6f8017e775",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6d7e6f0e-76ac-4ea4-b6db-0a05d5a93a2b",
+            "createdBy": {},
+            "timestamp": 1688732147063,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": " test. Corn Argentina",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-07-07T12:01:42.333Z"
+                        },
+                        "createdAt": "2023-07-07T12:15:46.634Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "0de4497d-62a5-432a-a05e-0af00dd635be",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-07-07T12:01:42.962Z",
+        "createdAtTimestamp": 1688731302962,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": " test. Corn Argentina",
+        "referenceId": "0de4497d-62a5-432a-a05e-0af00dd635be",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+        "conversationId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "3dcf3f48-51fa-4599-b339-19915e617898",
+            "createdBy": {
+                "id": "auth0|60a248a11a55450069baec66",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Joni Mitchellbm"
+            },
+            "timestamp": 1688651632290,
+            "text": "",
+            "attachments": [
+                {
+                    "size": 19456,
+                    "type": "application/msword",
+                    "error": {},
+                    "status": "SUCCESS",
+                    "entityId": "6e896a2b-5e0d-5475-8eef-cd1c83806b86",
+                    "container": "6e896a2b5e0d54758eefcd1c83806b86",
+                    "timestamp": 1688651620162,
+                    "metaDataId": "7bb558c4-1031-4948-bc97-9cf7666a470a",
+                    "uniqueName": "66187c953486457f88f8a9b51c704fb3",
+                    "originalName": "test.doc",
+                    "deliveryStatus": "delivered"
+                }
+            ],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-27T18:40:42.133Z",
+        "createdAtTimestamp": 1687891242133,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test empty di 234",
+        "referenceId": "9fe98220-6eb6-4282-b9d3-4752a3c4b008",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "632d2490-56f0-58aa-90c4-546f08f5c67a",
+        "conversationId": "632d2490-56f0-58aa-90c4-546f08f5c67a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "c6fa85d0-b6af-4ec3-845f-dbaaaf13f04e",
+            "createdBy": {},
+            "timestamp": 1687516638132,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "testing125",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-23T10:36:57.313Z"
+                        },
+                        "createdAt": "2023-06-23T10:37:17.392Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "9d1b526d-0957-48ed-88e4-8872be254f83",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-23T10:36:58.524Z",
+        "createdAtTimestamp": 1687516618524,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "testing125",
+        "referenceId": "9d1b526d-0957-48ed-88e4-8872be254f83",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "dcac7899-14eb-5672-b242-0a74b008e9a6",
+        "conversationId": "dcac7899-14eb-5672-b242-0a74b008e9a6",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "1280f6ac-ed3d-4155-af67-addd06d8c9a6",
+            "createdBy": {},
+            "timestamp": 1687514701509,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test pre 123 load/goods/discharge",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-06-23T10:05:00.545Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "e7646db7-5756-476a-85c3-04bb0159ed74",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-23T10:05:01.267Z",
+        "createdAtTimestamp": 1687514701267,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test pre 123 load/goods/discharge",
+        "referenceId": "e7646db7-5756-476a-85c3-04bb0159ed74",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "4a0ab181-8b5b-5ca6-9f92-e1bc4c3f5418",
+        "conversationId": "4a0ab181-8b5b-5ca6-9f92-e1bc4c3f5418",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "ca389101-c3b1-4bb5-9fc5-45f0296d5a1f",
+            "createdBy": {},
+            "timestamp": 1687347126945,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test fix loading/discharge",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-06-21T11:32:06.526Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "77fef4a5-50e9-482a-a302-52d66d23bcc5",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-21T11:32:06.840Z",
+        "createdAtTimestamp": 1687347126840,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test fix loading/discharge",
+        "referenceId": "77fef4a5-50e9-482a-a302-52d66d23bcc5",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "63ea97ee-a150-5cd5-b38d-1b9236e81dce",
+        "conversationId": "63ea97ee-a150-5cd5-b38d-1b9236e81dce",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "b1850e65-279a-4247-a74b-991d9471a066",
+            "createdBy": {},
+            "timestamp": 1687344358472,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "empty DI",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-06-21T10:45:57.251Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "7998ea6f-4f83-4aa1-8deb-07f6eedec445",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-21T10:45:58.388Z",
+        "createdAtTimestamp": 1687344358388,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "empty DI",
+        "referenceId": "7998ea6f-4f83-4aa1-8deb-07f6eedec445",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "13daa0c0-9d7d-5ffb-9d95-f268b6743299",
+        "conversationId": "13daa0c0-9d7d-5ffb-9d95-f268b6743299",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "0b796602-66e1-44be-9f32-78e20c47e7f6",
+            "createdBy": {},
+            "timestamp": 1687160669749,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test loading 5",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-06-19T07:44:28.572Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "e4135f60-877f-4d77-821c-21e125e0fca9",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-19T07:44:29.654Z",
+        "createdAtTimestamp": 1687160669654,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test loading 5",
+        "referenceId": "e4135f60-877f-4d77-821c-21e125e0fca9",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "65976962-fe3b-5d3e-8825-79e64de6b98e",
+        "conversationId": "65976962-fe3b-5d3e-8825-79e64de6b98e",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "eac27df2-cf73-4e36-8144-80661f770c4c",
+            "createdBy": {},
+            "timestamp": 1686900026461,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test loading 2",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-15T14:23:59.706Z"
+                        },
+                        "createdAt": "2023-06-16T07:20:25.978Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "394d1813-a9de-48fe-8fd5-d802db03f364",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-15T14:10:25.351Z",
+        "createdAtTimestamp": 1686838225351,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test loading 2",
+        "referenceId": "394d1813-a9de-48fe-8fd5-d802db03f364",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "7d323b97-0740-564a-abcb-ba1a0ac5636a",
+        "conversationId": "7d323b97-0740-564a-abcb-ba1a0ac5636a",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "8ef895f6-3dfa-46e0-a4e7-485468bbbd2b",
+            "createdBy": {},
+            "timestamp": 1686837695523,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test loading",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-15T12:20:55.529Z"
+                        },
+                        "createdAt": "2023-06-15T14:01:34.936Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "5b8fe67f-ef2a-4f09-b565-b4100933b3e1",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-15T12:16:14.653Z",
+        "createdAtTimestamp": 1686831374653,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test loading",
+        "referenceId": "5b8fe67f-ef2a-4f09-b565-b4100933b3e1",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "aec3be0a-9de5-5328-a7ff-e8e06ab3259c",
+        "conversationId": "aec3be0a-9de5-5328-a7ff-e8e06ab3259c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "4ce03d18-ec15-4d93-842d-11830d1fb1c8",
+            "createdBy": {},
+            "timestamp": 1686081451456,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "new di fff",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-06T19:49:32.398Z"
+                        },
+                        "createdAt": "2023-06-06T19:57:30.933Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "541529b4-5a77-4018-9862-55353a9a583d",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-06T18:27:56.400Z",
+        "createdAtTimestamp": 1686076076400,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "new di fff",
+        "referenceId": "541529b4-5a77-4018-9862-55353a9a583d",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-06T19:57:31.329Z"
+    },
+    {
+        "id": "5a49bc3a-7bec-5d96-b185-203fdb74a371",
+        "conversationId": "5a49bc3a-7bec-5d96-b185-203fdb74a371",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6f091d71-6490-4b5e-bb6b-73b03554b620",
+            "createdBy": {},
+            "timestamp": 1686049332828,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "end test email",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-06T11:01:51.707Z"
+                        },
+                        "createdAt": "2023-06-06T11:02:12.285Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "557ff3ad-0219-477c-9dbb-7842b93bb4f4",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-06T07:33:56.677Z",
+        "createdAtTimestamp": 1686036836677,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "end test email",
+        "referenceId": "557ff3ad-0219-477c-9dbb-7842b93bb4f4",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-06T11:02:12.756Z"
+    },
+    {
+        "id": "4ad8afa6-6dd4-5c28-8e8b-4be2c4c1e9a6",
+        "conversationId": "4ad8afa6-6dd4-5c28-8e8b-4be2c4c1e9a6",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "b69c86d4-b53d-42cb-8410-e40a76ed0f7d",
+            "createdBy": {},
+            "timestamp": 1686036205452,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test em npp",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-06T07:22:19.466Z"
+                        },
+                        "createdAt": "2023-06-06T07:23:24.558Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "a3c9dc20-baea-49a1-835c-5399214daf98",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-06T07:17:34.970Z",
+        "createdAtTimestamp": 1686035854970,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test em npp",
+        "referenceId": "a3c9dc20-baea-49a1-835c-5399214daf98",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-06T07:23:25.336Z"
+    },
+    {
+        "id": "c27f5330-ff17-5bd1-a6a4-d28b0de56507",
+        "conversationId": "c27f5330-ff17-5bd1-a6a4-d28b0de56507",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "132d3e8a-ca02-4663-b04a-4921baa0fc98",
+            "createdBy": {},
+            "timestamp": 1685992917295,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "novo23",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-05T14:54:32.294Z"
+                        },
+                        "createdAt": "2023-06-05T19:21:56.471Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "8152fcf6-78fd-4894-8897-e58927f6bff1",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-05T12:30:22.273Z",
+        "createdAtTimestamp": 1685968222273,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "novo23",
+        "referenceId": "8152fcf6-78fd-4894-8897-e58927f6bff1",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T14:54:33.394Z"
+    },
+    {
+        "id": "5e1868eb-4928-589c-a911-6696f84d2dd6",
+        "conversationId": "5e1868eb-4928-589c-a911-6696f84d2dd6",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "d592b891-1431-4988-aa44-966d9046e331",
+            "createdBy": {},
+            "timestamp": 1685969431213,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "novo",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-05T12:29:00.148Z"
+                        },
+                        "createdAt": "2023-06-05T12:50:30.766Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "43612406-f47c-4d0c-bc5d-8d671a420f3a",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-05T12:06:23.268Z",
+        "createdAtTimestamp": 1685966783268,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "novo",
+        "referenceId": "43612406-f47c-4d0c-bc5d-8d671a420f3a",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T12:50:31.147Z"
+    },
+    {
+        "id": "7bd1779e-0baf-5737-82f5-670e7ed674c4",
+        "conversationId": "7bd1779e-0baf-5737-82f5-670e7ed674c4",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "d49ee211-69a0-4e78-8dc5-933c92ab9466",
+            "createdBy": {},
+            "timestamp": 1685968189113,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "sel",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-05T12:28:21.227Z"
+                        },
+                        "createdAt": "2023-06-05T12:29:48.705Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "a9c3f3ea-2dca-4864-8414-b8a49c1935b0",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-05T11:17:40.231Z",
+        "createdAtTimestamp": 1685963860231,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "sel",
+        "referenceId": "a9c3f3ea-2dca-4864-8414-b8a49c1935b0",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T12:27:40.213Z"
+    },
+    {
+        "id": "5778429e-2a58-5119-bcbe-8ca7616810ec",
+        "conversationId": "5778429e-2a58-5119-bcbe-8ca7616810ec",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5020",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "61ac7e67-b22b-4327-8a3c-a85101ad2438",
+            "createdBy": {},
+            "timestamp": 1685961411502,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "sss",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-05T10:36:20.832Z"
+                        },
+                        "createdAt": "2023-06-05T10:36:50.749Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "7209c5ca-0c3d-4d1c-8408-85912491ae52",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-05T10:32:42.628Z",
+        "createdAtTimestamp": 1685961162628,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "sss",
+        "referenceId": "7209c5ca-0c3d-4d1c-8408-85912491ae52",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T10:36:51.409Z"
+    },
+    {
+        "id": "b85838d5-dba4-525b-9cc3-df933324b9f9",
+        "conversationId": "b85838d5-dba4-525b-9cc3-df933324b9f9",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "08879c49-566c-4f3c-a7c6-ebb6b00b7734",
+            "createdBy": {},
+            "timestamp": 1685958363502,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "awdawssss",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-05T09:41:21.736Z"
+                        },
+                        "createdAt": "2023-06-05T09:46:03.208Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "8ae61ab3-5eda-4b32-8eb1-a60366df4a62",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-05T09:03:18.731Z",
+        "createdAtTimestamp": 1685955798731,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "awdawssss",
+        "referenceId": "8ae61ab3-5eda-4b32-8eb1-a60366df4a62",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T09:46:03.391Z"
+    },
+    {
+        "id": "5464665d-a602-51f5-9dfe-18efd9153c5f",
+        "conversationId": "5464665d-a602-51f5-9dfe-18efd9153c5f",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "3f033663-677f-4d6e-a565-3989a5a3c8fc",
+            "createdBy": {},
+            "timestamp": 1685955630450,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "aaaa",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-02T07:35:35.517Z"
+                        },
+                        "createdAt": "2023-06-05T09:00:29.945Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "e5291c95-ba6b-4267-8a5e-58aea212c050",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-02T07:20:40.642Z",
+        "createdAtTimestamp": 1685690440642,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "aaaa",
+        "referenceId": "e5291c95-ba6b-4267-8a5e-58aea212c050",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-05T09:00:30.298Z"
+    },
+    {
+        "id": "709d6824-a808-59d0-accd-82be502612ef",
+        "conversationId": "709d6824-a808-59d0-accd-82be502612ef",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "1ef4f782-27a7-4b85-b069-d2a58f17c557",
+            "createdBy": {},
+            "timestamp": 1685690346262,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "aa",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-06-02T07:16:41.732Z"
+                        },
+                        "createdAt": "2023-06-02T07:19:05.564Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "34bb3e0b-d0b3-4075-b53b-949d6d21611c",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-02T06:54:03.372Z",
+        "createdAtTimestamp": 1685688843372,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "aa",
+        "referenceId": "34bb3e0b-d0b3-4075-b53b-949d6d21611c",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "mirza.music.ext@covantis.io",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-06-02T07:16:41.908Z"
+    },
+    {
+        "id": "5b6e26b5-07c6-5598-8e66-5b02f9c7fe5b",
+        "conversationId": "5b6e26b5-07c6-5598-8e66-5b02f9c7fe5b",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "4f2a8963-51ba-43fb-9d3c-a023f8d9f563",
+            "createdBy": {},
+            "timestamp": 1685616887370,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "newDiWithGoodsFixed",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-06-01T10:54:44.723Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "0dd12b90-6f8a-4368-980d-e56ea551efc1",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-06-01T10:54:47.244Z",
+        "createdAtTimestamp": 1685616887244,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "newDiWithGoodsFixed",
+        "referenceId": "0dd12b90-6f8a-4368-980d-e56ea551efc1",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "adrian.bradjan.ext@covantis.io",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "e2c7447e-26a3-5365-9d29-05ee7f877cd4",
+        "conversationId": "e2c7447e-26a3-5365-9d29-05ee7f877cd4",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "c4d3c44e-8360-4320-9526-a60ffda4c923",
+            "createdBy": {},
+            "timestamp": 1685438439541,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test pp",
+                            "senderId": 5020
+                        },
+                        "createdAt": "2023-05-30T09:20:37.757Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "5fa2b25f-0c9e-4a3c-8a07-b491ed54e408",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-30T09:20:39.386Z",
+        "createdAtTimestamp": 1685438439386,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test pp",
+        "referenceId": "5fa2b25f-0c9e-4a3c-8a07-b491ed54e408",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "805b8329-847f-505f-ac0b-2fcafade978e",
+        "conversationId": "805b8329-847f-505f-ac0b-2fcafade978e",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "5c3c716e-1302-4053-a182-460a82c5e71c",
+            "createdBy": {},
+            "timestamp": 1685369520975,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test pp",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-29T14:12:00.591Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "d8140d00-987d-4b97-927e-a14959f0641a",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T14:12:00.847Z",
+        "createdAtTimestamp": 1685369520847,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test pp",
+        "referenceId": "d8140d00-987d-4b97-927e-a14959f0641a",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "63bab12f-927f-5be4-98c9-3d7665319fc1",
+        "conversationId": "63bab12f-927f-5be4-98c9-3d7665319fc1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "3c4071a7-0dbf-4879-b5a7-dd7b12c92b02",
+            "createdBy": {},
+            "timestamp": 1685369201256,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "tettt",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-29T14:06:39.610Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "7cf761d3-ff4d-4cd9-b82f-eb2ac42e5ae5",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T14:06:41.187Z",
+        "createdAtTimestamp": 1685369201187,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "tettt",
+        "referenceId": "7cf761d3-ff4d-4cd9-b82f-eb2ac42e5ae5",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "f5676d06-9ac2-5f5e-9c62-94cf695899af",
+        "conversationId": "f5676d06-9ac2-5f5e-9c62-94cf695899af",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "0238d660-a2ac-409c-b169-356bcf0b57a3",
+            "createdBy": {},
+            "timestamp": 1685369149470,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "aaasaaaaaaaa",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-29T14:05:47.507Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "7d4b0a28-bf16-4be5-81b8-205a65c3d0ff",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T14:05:49.374Z",
+        "createdAtTimestamp": 1685369149374,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "aaasaaaaaaaa",
+        "referenceId": "7d4b0a28-bf16-4be5-81b8-205a65c3d0ff",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "f1bc2d22-2032-54b8-840c-d66198fcc0c2",
+        "conversationId": "f1bc2d22-2032-54b8-840c-d66198fcc0c2",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6e8ccc51-3b8e-4986-a2ff-4602145f5f14",
+            "createdBy": {},
+            "timestamp": 1685369110119,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "sss",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-29T14:05:08.512Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "34770af0-bd05-4f22-98e3-e7aa48d127f8",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T14:05:09.901Z",
+        "createdAtTimestamp": 1685369109901,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "sss",
+        "referenceId": "34770af0-bd05-4f22-98e3-e7aa48d127f8",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "71b4da4d-105e-5dc6-918c-31fe0e56eecf",
+        "conversationId": "71b4da4d-105e-5dc6-918c-31fe0e56eecf",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "86fa3da9-c9cd-4d37-9f7a-e814169e4190",
+            "createdBy": {},
+            "timestamp": 1685367528570,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "YM",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-05-29T13:38:10.507Z"
+                        },
+                        "createdAt": "2023-05-29T13:38:46.425Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "eb28509c-b30f-4989-afbc-ccad71c85d69",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T11:02:53.814Z",
+        "createdAtTimestamp": 1685358173814,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "YM",
+        "referenceId": "eb28509c-b30f-4989-afbc-ccad71c85d69",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "asasasa@asassss.as",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-05-29T13:38:48.483Z"
+    },
+    {
+        "id": "945196f1-d560-5b70-b879-7ff421d35810",
+        "conversationId": "945196f1-d560-5b70-b879-7ff421d35810",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "880c7a78-5cd2-4197-bf81-8739d5b4139e",
+            "createdBy": {},
+            "timestamp": 1685367376664,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "testGoodsFOrm",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-05-29T13:15:45.026Z"
+                        },
+                        "createdAt": "2023-05-29T13:36:16.160Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "cfc57ad8-e7f8-4bb8-b8d2-c497a3e5505c",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T13:10:40.113Z",
+        "createdAtTimestamp": 1685365840113,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "testGoodsFOrm",
+        "referenceId": "cfc57ad8-e7f8-4bb8-b8d2-c497a3e5505c",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "ad0052a4-fecf-5b52-babf-a7ade957989c",
+        "conversationId": "ad0052a4-fecf-5b52-babf-a7ade957989c",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5019",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "337d25ae-fb8c-4908-9cfb-23461eb82e80",
+            "createdBy": {},
+            "timestamp": 1685347024227,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "NPP draft/temp",
+                            "senderId": 5020
+                        },
+                        "createdAt": "2023-05-29T07:57:03.402Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "20889486-bded-429b-9d08-ccc95ceae0d9",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-29T07:57:04.093Z",
+        "createdAtTimestamp": 1685347024093,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "NPP draft/temp",
+        "referenceId": "20889486-bded-429b-9d08-ccc95ceae0d9",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "979556b7-4456-566a-9412-ae3b3b57d149",
+        "conversationId": "979556b7-4456-566a-9412-ae3b3b57d149",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "e3e46c57-e455-4a7b-95e2-a59c43569fdd",
+            "createdBy": {},
+            "timestamp": 1685098951728,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "eDox integration",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-05-26T10:54:39.922Z"
+                        },
+                        "createdAt": "2023-05-26T11:02:30.764Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "e49965ca-710d-47f4-bbcf-725224ef46f2",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-09T07:07:54.942Z",
+        "createdAtTimestamp": 1683616074942,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "eDox integration",
+        "referenceId": "e49965ca-710d-47f4-bbcf-725224ef46f2",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [
+            {
+                "email": "email@random.com",
+                "userName": null
+            },
+            {
+                "email": "random@email.com",
+                "userName": null
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": "2023-05-26T11:02:31.577Z"
+    },
+    {
+        "id": "b683234d-5070-5768-ab07-afdc76ee1ecb",
+        "conversationId": "b683234d-5070-5768-ab07-afdc76ee1ecb",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "b1cdadd5-2f3e-4ba8-95e1-b574c13609b6",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684853346969,
+            "text": "ss",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "sssss@ddddd.ccdsf",
+                    "userName": "",
+                    "deliveryStatus": "sent"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T14:48:58.833Z",
+        "createdAtTimestamp": 1684853338833,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "not ok",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "sssss@ddddd.ccdsf",
+                "email": "sssss@ddddd.ccdsf",
+                "userName": ""
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "fb956a3e-0e0d-5d7b-bd95-a5d4b032865e",
+        "conversationId": "fb956a3e-0e0d-5d7b-bd95-a5d4b032865e",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6693c9b5-adcd-48a1-90f6-0572bea613b2",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684853172664,
+            "text": "ok",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "mirza.music.ext@covantis.io",
+                    "userName": "mirza.music.ext@covantis.io",
+                    "deliveryStatus": "delivered"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T14:46:05.615Z",
+        "createdAtTimestamp": 1684853165615,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "ssssmmm",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "1b35ff16-3513-45c6-bfe4-d185096d261e",
+                "email": "mirza.music.ext@covantis.io",
+                "userName": "mirza.music.ext@covantis.io"
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "90d0a356-4360-5e29-8f8d-e1310d3eb8fd",
+        "conversationId": "90d0a356-4360-5e29-8f8d-e1310d3eb8fd",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "76c1a813-5d91-424f-b624-a8c24aa1964e",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684852226723,
+            "text": "d",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "sdgsdg@asfdgasfdg.aerg",
+                    "userName": "sdgsdg@asfdgasfdg.aerg",
+                    "deliveryStatus": "sent"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T14:26:16.275Z",
+        "createdAtTimestamp": 1684851976275,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "no email",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "a3d47977-7a1d-4187-abe0-8dc14a3252d1",
+                "email": "asasasa@asassss.as",
+                "userName": ""
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "633c5ccd-2936-5f91-944d-44f7158cdc06",
+        "conversationId": "633c5ccd-2936-5f91-944d-44f7158cdc06",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "1cd57d92-ee3c-4b80-97f9-92532a022519",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684851821959,
+            "text": "ok",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "mirza.music.ext@covantis.io",
+                    "userName": "mirza.music.ext@covantis.io",
+                    "deliveryStatus": "delivered"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T14:23:22.128Z",
+        "createdAtTimestamp": 1684851802128,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "ok email",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "1b35ff16-3513-45c6-bfe4-d185096d261e",
+                "email": "mirza.music.ext@covantis.io",
+                "userName": "mirza.music.ext@covantis.io"
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "913fc34e-9d4a-531a-86a9-20ac49794c35",
+        "conversationId": "913fc34e-9d4a-531a-86a9-20ac49794c35",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "71c66133-8b5c-4e25-976b-0d1c85bbc8e6",
+            "createdBy": {},
+            "timestamp": 1684850903313,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "awd nn email",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-23T14:08:21.195Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "9fa641d0-41a9-4c8c-82e6-f0531bc2dcc6",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T14:08:23.229Z",
+        "createdAtTimestamp": 1684850903229,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "awd nn email",
+        "referenceId": "9fa641d0-41a9-4c8c-82e6-f0531bc2dcc6",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "c12f8d42-6d99-56d0-aebc-a0f42c768e63",
+        "conversationId": "c12f8d42-6d99-56d0-aebc-a0f42c768e63",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "516e1779-1120-41f5-bb98-df75e2cb0bb3",
+            "createdBy": {},
+            "timestamp": 1684850862052,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "new di with npp",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-05-23T13:53:15.483Z"
+                        },
+                        "createdAt": "2023-05-23T14:07:40.171Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "6a7f9713-3753-444a-88ba-af4abe8ab070",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T13:53:16.966Z",
+        "createdAtTimestamp": 1684849996966,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "new di with npp",
+        "referenceId": "6a7f9713-3753-444a-88ba-af4abe8ab070",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "04275374-d5b2-5417-9af5-5b0d713d3dfe",
+        "conversationId": "04275374-d5b2-5417-9af5-5b0d713d3dfe",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "0c77128a-2305-4c34-b44b-598a23af61b9",
+            "createdBy": {},
+            "timestamp": 1684849801310,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-23T13:49:58.743Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "c1347b1c-72df-4aa3-900b-b7f0c74f207b",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T13:50:01.212Z",
+        "createdAtTimestamp": 1684849801212,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test",
+        "referenceId": "c1347b1c-72df-4aa3-900b-b7f0c74f207b",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "74ae708f-b1a5-593d-81c1-e97afc9a5c2d",
+        "conversationId": "74ae708f-b1a5-593d-81c1-e97afc9a5c2d",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5020",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "6ce0e00b-b305-4569-a077-76b82a677624",
+            "createdBy": {},
+            "timestamp": 1684847433134,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "testEdoxDi",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-05-18T12:31:41.857Z"
+                        },
+                        "createdAt": "2023-05-23T13:10:32.573Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "ed9a6c62-4cbd-4a77-ba45-abdeb2821c0d",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-15T12:19:10.298Z",
+        "createdAtTimestamp": 1684153150298,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "testEdoxDi",
+        "referenceId": "ed9a6c62-4cbd-4a77-ba45-abdeb2821c0d",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "bb6098f7-2c1c-5b28-bc11-c9f1b43375db",
+        "conversationId": "bb6098f7-2c1c-5b28-bc11-c9f1b43375db",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "5e02b11a-0b2f-4253-a56d-6848316beade",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684829572204,
+            "text": "ok email",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "mirza.music.ext@covantis.io",
+                    "userName": "mirza.music.ext@covantis.io",
+                    "deliveryStatus": "delivered"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T07:55:44.115Z",
+        "createdAtTimestamp": 1684828544115,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "ddd",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "4eab121e-a97f-4c6c-a2ce-74d9228c4a1d",
+                "email": "zzzz@zzzzz.cosm",
+                "userName": ""
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "e8311211-736b-5ace-9fc5-ffb29dde0dc8",
+        "conversationId": "e8311211-736b-5ace-9fc5-ffb29dde0dc8",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5019",
+            "5018",
+            "5010"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "7d372257-4f0c-4d7f-9630-b7682307a6b0",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684827693471,
+            "text": "sss",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-23T07:30:35.902Z",
+        "createdAtTimestamp": 1684827035902,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test mail",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "zzzz@zzzzz.cosm",
+                "email": "zzzz@zzzzz.cosm",
+                "userName": ""
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "4067c4f5-8584-5eb9-9a9b-1761b506d9ee",
+        "conversationId": "4067c4f5-8584-5eb9-9a9b-1761b506d9ee",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "8e956a31-1c07-45b6-99a8-74350dc08a9e",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684826986984,
+            "text": "ssdfsdf",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-22T13:35:10.083Z",
+        "createdAtTimestamp": 1684762510083,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "new di email",
+        "referenceId": "ffc6865f-d972-4169-bb77-cf4eb964952c",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "9a78c192-07a3-5630-b12b-5489c9375f11",
+        "conversationId": "9a78c192-07a3-5630-b12b-5489c9375f11",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "c96c7c73-91fd-4c70-8b0b-beced9161b51",
+            "createdBy": {},
+            "timestamp": 1684761318906,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "email",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-22T13:15:18.092Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "159c0d75-a847-425d-932b-e7f82817db6a",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-22T13:15:18.745Z",
+        "createdAtTimestamp": 1684761318745,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "email",
+        "referenceId": "159c0d75-a847-425d-932b-e7f82817db6a",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "89466984-37ab-50c7-8208-37a97864ca60",
+        "conversationId": "89466984-37ab-50c7-8208-37a97864ca60",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5010",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "f8d763ef-39d5-4050-b7fd-198b650fb003",
+            "createdBy": {},
+            "timestamp": 1684760366222,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "sdf",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-22T12:59:24.965Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "2f4e1231-1c78-4a85-8a7c-28296caba08f",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-22T12:59:26.057Z",
+        "createdAtTimestamp": 1684760366057,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "sdf",
+        "referenceId": "2f4e1231-1c78-4a85-8a7c-28296caba08f",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "123720e9-0962-5909-81dd-b7775030d010",
+        "conversationId": "123720e9-0962-5909-81dd-b7775030d010",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "5a79392a-abf2-4a4c-a25c-50996d302709",
+            "createdBy": {
+                "id": "auth0|60a248a1e2c6770068003169",
+                "isNPP": false,
+                "tenantId": "5018",
+                "userName": "Ana Jonesbm"
+            },
+            "timestamp": 1684759867121,
+            "text": "testemail",
+            "attachments": [],
+            "type": "manually",
+            "nonPlatformParticipants": [
+                {
+                    "email": "oki@doki.coms",
+                    "userName": "",
+                    "deliveryStatus": "sent"
+                }
+            ],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-22T12:49:56.268Z",
+        "createdAtTimestamp": 1684759796268,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "aaaaa",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "oki@doki.coms",
+                "email": "oki@doki.coms",
+                "userName": ""
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "e4073b30-12ac-59af-bd9c-210cff1e74e3",
+        "conversationId": "e4073b30-12ac-59af-bd9c-210cff1e74e3",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "b1447ce5-1c74-4b21-8c02-771d225d8dec",
+            "createdBy": {},
+            "timestamp": 1684758762568,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "awd",
+                            "senderId": 5018
+                        },
+                        "createdAt": "2023-05-22T12:32:41.464Z",
+                        "legalEntity": "5018",
+                        "messageType": "created",
+                        "referenceId": "1027fb57-11bc-4ee1-9368-6cf181963000",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-22T12:32:42.381Z",
+        "createdAtTimestamp": 1684758762381,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "awd",
+        "referenceId": "1027fb57-11bc-4ee1-9368-6cf181963000",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "3ba14ffd-f767-535c-acf8-f2238b98b673",
+        "conversationId": "3ba14ffd-f767-535c-acf8-f2238b98b673",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5019",
+            "5010",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "50d1c8d2-8424-4f6f-b157-240db9d9fa52",
+            "createdBy": {},
+            "timestamp": 1683714856390,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "subject": "test di  edit",
+                            "senderId": 5018,
+                            "previousVersionTimestamp": "2023-04-25T10:13:10.943Z"
+                        },
+                        "createdAt": "2023-05-10T10:34:15.747Z",
+                        "legalEntity": "5018",
+                        "messageType": "updated",
+                        "referenceId": "faca87d0-2895-46a5-a326-a7f79c0bcf51",
+                        "referenceEntity": "DI"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-25T10:12:39.369Z",
+        "createdAtTimestamp": 1682417559369,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "test di  edit",
+        "referenceId": "faca87d0-2895-46a5-a326-a7f79c0bcf51",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "97d6f5c0-a904-51b3-95e2-08e12442849e",
+        "conversationId": "97d6f5c0-a904-51b3-95e2-08e12442849e",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018",
+            "5010",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "e49a6a57-4cd4-4a05-8d99-29fff1b385b3",
+            "createdBy": {},
+            "timestamp": 1683637868768,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "status": "REJECTED",
+                            "comment": "",
+                            "senderId": 5018,
+                            "originalFileName": "DI scenario.txt"
+                        },
+                        "createdAt": "2023-05-09T13:11:07.921Z",
+                        "legalEntity": "5018",
+                        "messageType": "doc_review_completed",
+                        "referenceId": "8faecb53fa184f10b2849c12cfaf7626",
+                        "referenceEntity": "DOCUMENT"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-05-02T10:40:50.625Z",
+        "createdAtTimestamp": 1683024050625,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "31539",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [
+            {
+                "id": "76d306b9-ab51-42ab-b4d6-e963867d7800",
+                "email": "vitalii.panko@covantis.io",
+                "userName": "Vitalii Panko"
+            }
+        ],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "3f83b795-854f-5aef-bc44-e935e1af1808",
+        "conversationId": "3f83b795-854f-5aef-bc44-e935e1af1808",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5018",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "fe6146c5-bb35-4f59-94f1-3559a229e4e6",
+            "createdBy": {},
+            "timestamp": 1681472963688,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "status": "APPROVED",
+                            "comment": "approve",
+                            "senderId": 5018,
+                            "originalFileName": "c-con-one.pdf"
+                        },
+                        "createdAt": "2023-04-14T11:49:22.806Z",
+                        "legalEntity": "5018",
+                        "messageType": "doc_review_completed",
+                        "referenceId": "83d73231c867453b987d531bce105dae",
+                        "referenceEntity": "DOCUMENT"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-14T10:37:35.977Z",
+        "createdAtTimestamp": 1681468655977,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "c con",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "cf01b61a-7eed-5a9c-bfe7-a87774b267ee",
+        "conversationId": "cf01b61a-7eed-5a9c-bfe7-a87774b267ee",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5019",
+            "5018",
+            "5020"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "ddc7c6f6-a66e-4a61-aaab-95ec69b298ea",
+            "createdBy": {},
+            "timestamp": 1681470615474,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "status": "REJECTED",
+                            "comment": "",
+                            "senderId": 5018,
+                            "originalFileName": "file-from-con-dash-one.pdf"
+                        },
+                        "createdAt": "2023-04-14T11:10:14.778Z",
+                        "legalEntity": "5018",
+                        "messageType": "doc_review_completed",
+                        "referenceId": "980f86cf8e354121897dad72de805e6a",
+                        "referenceEntity": "DOCUMENT"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-14T10:33:36.481Z",
+        "createdAtTimestamp": 1681468416481,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "a con",
+        "referenceId": null,
+        "referenceEntity": null,
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "b0e56f9c-5da8-5560-8b35-b82a2257d6a1",
+        "conversationId": "b0e56f9c-5da8-5560-8b35-b82a2257d6a1",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5018",
+            "5019"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "38727260-cde5-4a03-94c1-0f4d33912d4c",
+            "createdBy": {},
+            "timestamp": 1681468733508,
+            "text": null,
+            "attachments": [],
+            "type": "system-message",
+            "nonPlatformParticipants": [],
+            "metadata": {
+                "systemMessages": [
+                    {
+                        "metadata": {
+                            "status": "APPROVED",
+                            "comment": "aaa",
+                            "senderId": 5018,
+                            "originalFileName": "fileFromConTwo.pdf"
+                        },
+                        "createdAt": "2023-04-14T10:38:52.669Z",
+                        "legalEntity": "5018",
+                        "messageType": "doc_review_completed",
+                        "referenceId": "9028df758c4d4f0d87978c418e4eb0df",
+                        "referenceEntity": "DOCUMENT"
+                    }
+                ]
+            }
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-14T10:32:13.773Z",
+        "createdAtTimestamp": 1681468333773,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "b di",
+        "referenceId": "37fadeaf-2e30-4c33-a787-329442f5103c",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    },
+    {
+        "id": "1a6f2dce-3b7d-5d85-a398-fb4a92735b02",
+        "conversationId": "1a6f2dce-3b7d-5d85-a398-fb4a92735b02",
+        "voyageId": "0164f7b9-53a8-4466-b683-524089630b88",
+        "vesselName": "file test",
+        "participants": [
+            "5020",
+            "5019",
+            "5018"
+        ],
+        "unreadMessages": 0,
+        "lastMessage": {
+            "id": "ab506c88-0f7e-4033-ae14-37ab72a2d06a",
+            "createdBy": {
+                "id": "auth0|60a248cfc00c900069191e10",
+                "isNPP": false,
+                "tenantId": "5019",
+                "userName": "Ana Clarkbm"
+            },
+            "timestamp": 1681468514185,
+            "text": "",
+            "attachments": [
+                {
+                    "size": 35431,
+                    "type": "application/pdf",
+                    "error": {},
+                    "status": "SUCCESS",
+                    "entityId": "1a6f2dce-3b7d-5d85-a398-fb4a92735b02",
+                    "container": "1a6f2dce3b7d5d85a398fb4a92735b02",
+                    "timestamp": 1681468512388,
+                    "metaDataId": "7719250a-1dda-4396-845c-d927ee42c426",
+                    "uniqueName": "e4b6dee107e14b2882eff61a20f0e160",
+                    "originalName": "file-from-con-three.pdf",
+                    "deliveryStatus": "sent"
+                }
+            ],
+            "type": "manually",
+            "nonPlatformParticipants": [],
+            "metadata": {}
+        },
+        "unseen": false,
+        "seen": "2023-09-15T10:37:20.764Z",
+        "createdAt": "2023-04-14T10:31:45.355Z",
+        "createdAtTimestamp": 1681468305355,
+        "latestSeenTimestamp": 1694774240764,
+        "topic": "a di",
+        "referenceId": "0c7fdf6c-a90f-4a22-baa5-fdc4eb9dc229",
+        "referenceEntity": "DI",
+        "nonPlatformParticipants": [],
+        "pinned": false,
+        "pinnedAt": null,
+        "nppUpdatedTimestamp": null
+    }
+]

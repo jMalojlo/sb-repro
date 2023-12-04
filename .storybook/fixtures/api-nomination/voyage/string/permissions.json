@@ -1,0 +1,96 @@
+{
+    "contextualRoles": {
+        "nominations": {
+            "74fae78f-cd6e-4585-8f6c-82afe3216199": [
+                "creator"
+            ],
+            "31d0f49c-4915-42d6-bcdd-6ebb3e4731a6": [
+                "creator"
+            ],
+            "97257f74-1ada-4952-8ccf-3f92117ad843": [
+                "stringMember"
+            ],
+            "d3414ca3-e169-478b-abd2-abd3dd5e8129": [
+                "stringMember"
+            ],
+            "a627a45b-530d-4010-83c7-6d4b0e936dc4": [
+                "shipper"
+            ],
+            "34c3ef82-7d82-4417-be58-2185d493c2aa": [
+                "stringMember"
+            ],
+            "f4989e8f-7b30-41a5-abb9-5c9407714911": [
+                "creator"
+            ],
+            "e002d8cb-3364-4003-a279-5a577e85da1d": [
+                "recipient"
+            ]
+        },
+        "charteringAdvices": {}
+    },
+    "allowedMethods": {
+        "nominations": {
+            "74fae78f-cd6e-4585-8f6c-82afe3216199": [
+                "n.viewDetails",
+                "n.withdraw",
+                "n.updateCreatorContractRef",
+                "n.putOnHoldPending",
+                "n.putOnHold",
+                "n.fullySubstitute",
+                "n.partiallySubstitute",
+                "n.keepOnVoyage",
+                "n.fullyForwardSubstitution",
+                "n.partiallyForwardSubstitution",
+                "n.updateObligationDate",
+                "n.editNomination"
+            ],
+            "31d0f49c-4915-42d6-bcdd-6ebb3e4731a6": [
+                "n.viewDetails",
+                "n.withdraw",
+                "n.updateCreatorContractRef",
+                "n.putOnHoldPending",
+                "n.putOnHold",
+                "n.fullySubstitute",
+                "n.partiallySubstitute",
+                "n.keepOnVoyage",
+                "n.fullyForwardSubstitution",
+                "n.partiallyForwardSubstitution",
+                "n.updateObligationDate",
+                "n.editNomination"
+            ],
+            "97257f74-1ada-4952-8ccf-3f92117ad843": [],
+            "d3414ca3-e169-478b-abd2-abd3dd5e8129": [
+                "n.viewPartialDetails"
+            ],
+            "a627a45b-530d-4010-83c7-6d4b0e936dc4": [
+                "n.withdraw",
+                "n.updateIntendedShipmentQuantity",
+                "n.declareLoadedQuantity",
+                "n.updateLoadedQuantity",
+                "n.withdrawLoadedQuantity"
+            ],
+            "34c3ef82-7d82-4417-be58-2185d493c2aa": [],
+            "f4989e8f-7b30-41a5-abb9-5c9407714911": [
+                "n.viewDetails",
+                "n.withdraw",
+                "n.updateCreatorContractRef",
+                "n.putOnHoldPending",
+                "n.putOnHold",
+                "n.fullySubstitute",
+                "n.partiallySubstitute",
+                "n.keepOnVoyage",
+                "n.fullyForwardSubstitution",
+                "n.partiallyForwardSubstitution",
+                "n.updateObligationDate",
+                "n.editNomination"
+            ],
+            "e002d8cb-3364-4003-a279-5a577e85da1d": [
+                "n.viewDetails",
+                "n.declareShipmentIntention",
+                "n.forward",
+                "n.updateRecipientContractRef"
+            ]
+        },
+        "charteringAdvices": {}
+    }
+}

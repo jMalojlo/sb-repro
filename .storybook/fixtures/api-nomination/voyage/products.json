@@ -1,0 +1,19 @@
+[
+    {
+        "id": 2,
+        "incoterm": "FOB",
+        "totalNominatedQuantityInTons": 7,
+        "ports": [
+            {
+                "name": "",
+                "type": "load",
+                "countryId": 78
+            },
+            {
+                "name": "",
+                "type": "destination",
+                "countryId": 171
+            }
+        ]
+    }
+]

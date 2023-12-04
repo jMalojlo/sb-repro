@@ -1,0 +1,1010 @@
+[
+    {
+        "id": 5002,
+        "title": "test-02-22",
+        "url": "test-02-22.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TE02",
+        "active": true
+    },
+    {
+        "id": 5003,
+        "title": "test-03",
+        "url": "test-03.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TE03",
+        "active": true
+    },
+    {
+        "id": 5004,
+        "title": "test-04",
+        "url": "test-04.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TE04",
+        "active": true
+    },
+    {
+        "id": 5123,
+        "title": "Leo AutoV2",
+        "url": "alpha-leo-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "LEON",
+        "active": true
+    },
+    {
+        "id": 5001,
+        "title": "test-01-11",
+        "url": "test-01-11.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TE01",
+        "active": true
+    },
+    {
+        "id": 5005,
+        "title": "test-05",
+        "url": "test-05.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TE05",
+        "active": true
+    },
+    {
+        "id": 5006,
+        "title": "Aquarius",
+        "url": "alpha-aquarius.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AQUA",
+        "active": true
+    },
+    {
+        "id": 5007,
+        "title": "Ara",
+        "url": "alpha-ara.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ARA",
+        "active": true
+    },
+    {
+        "id": 5008,
+        "title": "Aries",
+        "url": "alpha-aries.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ARIE",
+        "active": true
+    },
+    {
+        "id": 5013,
+        "title": "qa-test-le-ft-on-1-2",
+        "url": "qa-test-le-ft-on-1-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA02",
+        "active": true
+    },
+    {
+        "id": 5009,
+        "title": "Alpha-1",
+        "url": "alpha-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AL01",
+        "active": true
+    },
+    {
+        "id": 5010,
+        "title": "Alpha-2",
+        "url": "alpha-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AL02",
+        "active": true
+    },
+    {
+        "id": 5011,
+        "title": "Alpha-3",
+        "url": "alpha-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AL03",
+        "active": true
+    },
+    {
+        "id": 5012,
+        "title": "qa-test-le-ft-on-1-1",
+        "url": "qa-test-le-ft-on-1-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA01",
+        "active": true
+    },
+    {
+        "id": 5110,
+        "title": "BetaAuto PictorV2",
+        "url": "beta-auto-gamma-pictor-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PIXN",
+        "active": true
+    },
+    {
+        "id": 5111,
+        "title": "BetaAuto PerseusV2",
+        "url": "beta-auto-gamma-perseus-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEYN",
+        "active": true
+    },
+    {
+        "id": 5014,
+        "title": "qa-test-le-ft-off-1-1",
+        "url": "qa-test-le-ft-off-1-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA03",
+        "active": true
+    },
+    {
+        "id": 5017,
+        "title": "qa-test-le-ft-off-1-3",
+        "url": "qa-test-le-ft-off-1-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA14",
+        "active": true
+    },
+    {
+        "id": 5021,
+        "title": "BetaMan Auriga",
+        "url": "beta-man-alpha-auriga.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AURM",
+        "active": true
+    },
+    {
+        "id": 5015,
+        "title": "qa-test-le-ft-off-1-2",
+        "url": "qa-test-le-ft-off-1-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA04",
+        "active": true
+    },
+    {
+        "id": 5016,
+        "title": "qa-test-le-ft-on-1-3",
+        "url": "qa-test-le-ft-on-1-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "QA13",
+        "active": true
+    },
+    {
+        "id": 5018,
+        "title": "BetaMan Antlia",
+        "url": "beta-man-alpha-antilia.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANTM",
+        "active": true
+    },
+    {
+        "id": 5019,
+        "title": "BetaMan Apus",
+        "url": "beta-man-alpha-apus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "APUM",
+        "active": true
+    },
+    {
+        "id": 5118,
+        "title": "AquariusV2",
+        "url": "alpha-aquarius-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AQUN",
+        "active": true
+    },
+    {
+        "id": 5115,
+        "title": "BetaAuto CraterV2",
+        "url": "beta-auto-delta-crater-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CRXN",
+        "active": true
+    },
+    {
+        "id": 5022,
+        "title": "BetaAuto Antlia",
+        "url": "beta-auto-alpha-antlia.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANTA",
+        "active": true
+    },
+    {
+        "id": 5023,
+        "title": "BetaAuto Apus",
+        "url": "beta-auto-alpha-apus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "APUA",
+        "active": true
+    },
+    {
+        "id": 5024,
+        "title": "BetaAuto Andromeda",
+        "url": "beta-auto-alpha-andromeda.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANDA",
+        "active": true
+    },
+    {
+        "id": 5025,
+        "title": "BetaAuto Auriga",
+        "url": "beta-auto-alpha-auriga.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AURA",
+        "active": true
+    },
+    {
+        "id": 5116,
+        "title": "BetaAuto ColumbaV2",
+        "url": "beta-auto-delta-columba-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "COXN",
+        "active": true
+    },
+    {
+        "id": 5117,
+        "title": "AriesV2",
+        "url": "alpha-aries-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ARIN",
+        "active": true
+    },
+    {
+        "id": 5026,
+        "title": "Antlia Auto",
+        "url": "alpha-antlia-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANTC",
+        "active": true
+    },
+    {
+        "id": 5027,
+        "title": "Apus Auto",
+        "url": "alpha-apus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "APUC",
+        "active": true
+    },
+    {
+        "id": 5028,
+        "title": "Andromeda Auto",
+        "url": "alpha-andromeda-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANDC",
+        "active": true
+    },
+    {
+        "id": 5029,
+        "title": "Auriga Auto",
+        "url": "alpha-auriga-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AURC",
+        "active": true
+    },
+    {
+        "id": 5119,
+        "title": "AraV2",
+        "url": "alpha-ara-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ARAN",
+        "active": true
+    },
+    {
+        "id": 5121,
+        "title": "Dorado AutoV2",
+        "url": "alpha-dorado-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DORN",
+        "active": true
+    },
+    {
+        "id": 5030,
+        "title": "Delphinus Auto",
+        "url": "alpha-delphinus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DELC",
+        "active": true
+    },
+    {
+        "id": 5031,
+        "title": "Dorado Auto",
+        "url": "alpha-dorado-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DORC",
+        "active": true
+    },
+    {
+        "id": 5032,
+        "title": "Draco Auto",
+        "url": "alpha-draco-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DRAC",
+        "active": true
+    },
+    {
+        "id": 5033,
+        "title": "Capri",
+        "url": "delta-capri.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CAP",
+        "active": true
+    },
+    {
+        "id": 5120,
+        "title": "Delphinus AutoV2",
+        "url": "alpha-delphinus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DELN",
+        "active": true
+    },
+    {
+        "id": 5034,
+        "title": "Carina",
+        "url": "delta-carina.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CAR",
+        "active": true
+    },
+    {
+        "id": 5035,
+        "title": "Centaurus",
+        "url": "delta-centaurus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEN",
+        "active": true
+    },
+    {
+        "id": 5036,
+        "title": "delta-1",
+        "url": "delta-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "DE1",
+        "active": true
+    },
+    {
+        "id": 5037,
+        "title": "qa-test-le-ft-on-2-1",
+        "url": "qa-test-le-ft-on-2-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA05",
+        "active": true
+    },
+    {
+        "id": 5122,
+        "title": "Draco AutoV2",
+        "url": "alpha-draco-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "DRAN",
+        "active": true
+    },
+    {
+        "id": 5038,
+        "title": "qa-test-le-ft-on-2-2",
+        "url": "qa-test-le-ft-on-2-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA06",
+        "active": true
+    },
+    {
+        "id": 5039,
+        "title": "qa-test-le-ft-off-2-1",
+        "url": "qa-test-le-ft-off-2-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA07",
+        "active": true
+    },
+    {
+        "id": 5040,
+        "title": "qa-test-le-ft-off-2-2",
+        "url": "qa-test-le-ft-off-2-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA08",
+        "active": true
+    },
+    {
+        "id": 5041,
+        "title": "qa-test-le-ft-on-2-3",
+        "url": "qa-test-le-ft-on-2-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA15",
+        "active": true
+    },
+    {
+        "id": 5095,
+        "title": "Antlia AutoV2",
+        "url": "alpha-antlia-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANTN",
+        "active": true
+    },
+    {
+        "id": 5109,
+        "title": "BetaAuto PegasusV2",
+        "url": "beta-auto-gamma-pegasus-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEXN",
+        "active": true
+    },
+    {
+        "id": 5042,
+        "title": "qa-test-le-ft-off-2-3",
+        "url": "qa-test-le-ft-off-2-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "QA16",
+        "active": true
+    },
+    {
+        "id": 5046,
+        "title": "BetaMan Columba",
+        "url": "beta-man-delta-columba.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "COLM",
+        "active": true
+    },
+    {
+        "id": 5048,
+        "title": "BetaAuto Cepheus",
+        "url": "beta-auto-delta-cepheus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEPA",
+        "active": true
+    },
+    {
+        "id": 5050,
+        "title": "BetaAuto Columba",
+        "url": "beta-auto-delta-columba.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "COLA",
+        "active": true
+    },
+    {
+        "id": 5043,
+        "title": "BetaMan Cassiopeia",
+        "url": "beta-man-delta-cassiopeia.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CASM",
+        "active": true
+    },
+    {
+        "id": 5044,
+        "title": "BetaMan Cepheus",
+        "url": "beta-man-delta-cepheus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEPM",
+        "active": true
+    },
+    {
+        "id": 5045,
+        "title": "BetaMan Crater",
+        "url": "beta-man-delta-crater.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CRAM",
+        "active": true
+    },
+    {
+        "id": 5047,
+        "title": "BetaAuto Cassiopeia",
+        "url": "beta-auto-delta-cassiopeia.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CASA",
+        "active": true
+    },
+    {
+        "id": 5114,
+        "title": "BetaAuto CepheusV2",
+        "url": "beta-auto-delta-cepheus-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEXN",
+        "active": true
+    },
+    {
+        "id": 5049,
+        "title": "BetaAuto Crater",
+        "url": "beta-auto-delta-crater.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CRAA",
+        "active": true
+    },
+    {
+        "id": 5051,
+        "title": "Cassiopeia Auto",
+        "url": "delta-cassiopeia-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CASC",
+        "active": true
+    },
+    {
+        "id": 5052,
+        "title": "Cepheus Auto",
+        "url": "delta-cepheus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEPC",
+        "active": true
+    },
+    {
+        "id": 5053,
+        "title": "Crater Auto",
+        "url": "delta-crater-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CRAC",
+        "active": true
+    },
+    {
+        "id": 5054,
+        "title": "Columba Auto",
+        "url": "delta-columba-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "COLC",
+        "active": true
+    },
+    {
+        "id": 5055,
+        "title": "Orion",
+        "url": "gamma-orion.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "ORIO",
+        "active": true
+    },
+    {
+        "id": 5056,
+        "title": "Phoenix",
+        "url": "gamma-phoenix.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PHOE",
+        "active": true
+    },
+    {
+        "id": 5057,
+        "title": "kappa",
+        "url": "kappa-phoenix.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "KAPP",
+        "active": true
+    },
+    {
+        "id": 5058,
+        "title": "Pixis",
+        "url": "gamma-pixis.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PIXI",
+        "active": true
+    },
+    {
+        "id": 5059,
+        "title": "gamma-111",
+        "url": "gamma-111.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "GA11",
+        "active": true
+    },
+    {
+        "id": 5060,
+        "title": "gamma-22222",
+        "url": "gamma-22222.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "GA22",
+        "active": true
+    },
+    {
+        "id": 5061,
+        "title": "Gamma-44",
+        "url": "gamma-44.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "GA44",
+        "active": true
+    },
+    {
+        "id": 5062,
+        "title": "Gamma-3",
+        "url": "gamma-3.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "GA03",
+        "active": true
+    },
+    {
+        "id": 5063,
+        "title": "A&C (USA) Inc. /A",
+        "url": "testing-alex.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "ACUS",
+        "active": true
+    },
+    {
+        "id": 5064,
+        "title": "qa-test-le-ft-on-3-1",
+        "url": "qa-test-le-ft-on-3-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "QA09",
+        "active": true
+    },
+    {
+        "id": 5065,
+        "title": "qa-test-le-ft-on-3-2",
+        "url": "qa-test-le-ft-on-3-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "QA10",
+        "active": true
+    },
+    {
+        "id": 5066,
+        "title": "qa-test-le-ft-off-3-1",
+        "url": "qa-test-le-ft-off-3-1.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "QA11",
+        "active": true
+    },
+    {
+        "id": 5067,
+        "title": "qa-test-le-ft-off-3-2",
+        "url": "qa-test-le-ft-off-3-2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "QA12",
+        "active": true
+    },
+    {
+        "id": 5068,
+        "title": "BetaMan Pegasus",
+        "url": "beta-man-gamma-pegasus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEGM",
+        "active": true
+    },
+    {
+        "id": 5069,
+        "title": "BetaMan Pictor",
+        "url": "beta-man-gamma-pictor.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PICM",
+        "active": true
+    },
+    {
+        "id": 5070,
+        "title": "BetaMan Perseus",
+        "url": "beta-man-gamma-perseus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PERM",
+        "active": true
+    },
+    {
+        "id": 5071,
+        "title": "BetaMan Taurus",
+        "url": "beta-man-gamma-taurus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "TAUM",
+        "active": true
+    },
+    {
+        "id": 5072,
+        "title": "BetaAuto Pegasus",
+        "url": "beta-auto-gamma-pegasus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEGA",
+        "active": true
+    },
+    {
+        "id": 5073,
+        "title": "BetaAuto Pictor",
+        "url": "beta-auto-gamma-pictor.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PICA",
+        "active": true
+    },
+    {
+        "id": 5074,
+        "title": "BetaAuto Perseus",
+        "url": "beta-auto-gamma-perseus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PERA",
+        "active": true
+    },
+    {
+        "id": 5075,
+        "title": "BetaAuto Taurus",
+        "url": "beta-auto-gamma-taurus.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "TAUA",
+        "active": true
+    },
+    {
+        "id": 5076,
+        "title": "Pegasus Auto",
+        "url": "gamma-pegasus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEGC",
+        "active": true
+    },
+    {
+        "id": 5077,
+        "title": "Pictor Auto",
+        "url": "gamma-pictor-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PICC",
+        "active": true
+    },
+    {
+        "id": 5078,
+        "title": "Perseus Auto",
+        "url": "gamma-perseus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PERC",
+        "active": true
+    },
+    {
+        "id": 5079,
+        "title": "Taurus Auto",
+        "url": "gamma-taurus-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "TAUC",
+        "active": true
+    },
+    {
+        "id": 5020,
+        "title": "BetaMan Andromeda",
+        "url": "beta-man-alpha-andromeda.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANDM",
+        "active": true
+    },
+    {
+        "id": 5098,
+        "title": "Auriga AutoV2",
+        "url": "alpha-auriga-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AURN",
+        "active": true
+    },
+    {
+        "id": 5099,
+        "title": "Pegasus AutoV2",
+        "url": "gamma-pegasus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PEGN",
+        "active": true
+    },
+    {
+        "id": 5086,
+        "title": "test-shane1",
+        "url": "delta-test-shane.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "EIRE",
+        "active": true
+    },
+    {
+        "id": 5092,
+        "title": "test-ievgen",
+        "url": "delta-test-ievgen.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "TIEV",
+        "active": true
+    },
+    {
+        "id": 5093,
+        "title": "Leo Auto",
+        "url": "alpha-leo-auto.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "LEO",
+        "active": true
+    },
+    {
+        "id": 5094,
+        "title": "Non-Platform Participant",
+        "url": "npp.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "NPP",
+        "active": true
+    },
+    {
+        "id": 5096,
+        "title": "Apus AutoV2",
+        "url": "alpha-apus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "APUN",
+        "active": true
+    },
+    {
+        "id": 5097,
+        "title": "Andromeda AutoV2",
+        "url": "alpha-andromeda-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANDN",
+        "active": true
+    },
+    {
+        "id": 5100,
+        "title": "Pictor AutoV2",
+        "url": "gamma-pictor-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PICN",
+        "active": true
+    },
+    {
+        "id": 5101,
+        "title": "Perseus AutoV2",
+        "url": "gamma-perseus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "PERN",
+        "active": true
+    },
+    {
+        "id": 5102,
+        "title": "Taurus AutoV2",
+        "url": "gamma-taurus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "TAUN",
+        "active": true
+    },
+    {
+        "id": 5103,
+        "title": "Cassiopeia AutoV2",
+        "url": "delta-cassiopeia-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CASN",
+        "active": true
+    },
+    {
+        "id": 5104,
+        "title": "Cepheus AutoV2",
+        "url": "delta-cepheus-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CEPN",
+        "active": true
+    },
+    {
+        "id": 5105,
+        "title": "Crater AutoV2",
+        "url": "delta-crater-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CRAN",
+        "active": true
+    },
+    {
+        "id": 5106,
+        "title": "Columba AutoV2",
+        "url": "delta-columba-auto-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "COLN",
+        "active": true
+    },
+    {
+        "id": 5107,
+        "title": "BetaAuto AndromedaV2",
+        "url": "beta-auto-alpha-andromeda-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "ANXN",
+        "active": true
+    },
+    {
+        "id": 5108,
+        "title": "BetaAuto AurigaV2",
+        "url": "beta-auto-alpha-auriga-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/alpha-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "alpha",
+        "acronym": "AUXN",
+        "active": true
+    },
+    {
+        "id": 5112,
+        "title": "BetaAuto TaurusV2",
+        "url": "beta-auto-gamma-taurus-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/gamma-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "gamma",
+        "acronym": "TAXN",
+        "active": true
+    },
+    {
+        "id": 5113,
+        "title": "BetaAuto CassiopeiaV2",
+        "url": "beta-auto-delta-cassiopeia-v2.dev.covantis.ch",
+        "logoUrl": "https://stgcovdevwelogos.blob.core.windows.net/logos-onboard/delta-logo.png?sv=2017-07-29&ss=b&srt=sco&sp=r&se=2999-12-31&st=2020-01-01&spr=https&sig=v4NIasfcB8HSu%2Bx2nKHLq6amA60Mf6hcLaOZw97r2uw%3D",
+        "channel": "delta",
+        "acronym": "CAXN",
+        "active": true
+    }
+]

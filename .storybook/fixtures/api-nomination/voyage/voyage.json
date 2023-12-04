@@ -1,0 +1,53 @@
+{
+    "data": {
+        "id": "0164f7b9-53a8-4466-b683-524089630b88",
+        "status": "ACTIVE",
+        "updatedAt": "2023-04-14T10:30:19.314Z",
+        "createdAt": "2023-04-14T10:30:18.176Z",
+        "receivedAt": "2023-04-14T10:30:18.291Z",
+        "charterPartyDate": null,
+        "internalVoyageStatus": null,
+        "internalVoyageStatusComment": null,
+        "lastBlDate": null,
+        "ports": [],
+        "commodities": [
+            {
+                "id": 2,
+                "totalNominatedQuantityInTons": 7,
+                "incoterm": "FOB"
+            }
+        ],
+        "vessel": {
+            "id": 1059234,
+            "status": "PENDING",
+            "imoNumber": 1257378,
+            "vesselName": "file test",
+            "vesselType": "BULK CARRIER",
+            "flag": null,
+            "deadweightTonnage": null,
+            "beam": null,
+            "loa": null,
+            "yearBuilt": null,
+            "draft": null,
+            "owner": null,
+            "additionalVesselDetails": null,
+            "createdAt": "2023-04-14T10:30:18.176Z",
+            "updatedAt": "2023-04-14T10:30:18.176Z"
+        },
+        "type": "FOB-CFR"
+    },
+    "allowedMethods": {
+        "voyages": {
+            "0164f7b9-53a8-4466-b683-524089630b88": [
+                "v.viewDetails"
+            ]
+        }
+    },
+    "contextualRoles": {
+        "voyages": {
+            "0164f7b9-53a8-4466-b683-524089630b88": [
+                "participant"
+            ]
+        }
+    }
+}

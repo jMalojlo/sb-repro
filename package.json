@@ -1,0 +1,83 @@
+{
+  "name": "@abc2d/frontend-application",
+  "version": "1.578.1",
+  "private": true,
+  "jestSonar": {
+    "reportPath": "coverage",
+    "reportFile": "test-reporter.xml",
+    "indent": 4
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "test-storybook": "test-storybook --coverage && npm run generate-storybook-coverage && open ./coverage/storybook/lcov-report/index.html",
+    "generate-storybook-coverage": "nyc report --reporter=lcov -t coverage/storybook --report-dir coverage/storybook",
+    "chromatic": "chromatic --auto-accept-changes"
+  },
+  "dependencies": {
+    "react": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/eslint-parser": "7.16.5",
+    "@babel/helper-get-function-arity": "^7.16.7",
+    "@babel/plugin-proposal-decorators": "7.10.3",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-proposal-unicode-property-regex": "7.18.6",
+    "@babel/plugin-syntax-jsx": "^7.22.5",
+    "@babel/preset-env": "7.22.10",
+    "@babel/preset-react": "7.22.5",
+    "@side/jest-runtime": "1.1.0",
+    "@svgr/webpack": "^8.1.0",
+    "babel-jest": "^29.7.0",
+    "babel-loader": "^9.1.3",
+    "babel-plugin-istanbul": "^6.1.1",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "babel-plugin-named-asset-import": "^0.3.8",
+    "babel-plugin-named-exports-order": "0.0.2",
+    "babel-preset-react-app": "^10.0.1",
+    "webpack": "^5.88.1",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-manifest-plugin": "^5.0.0",
+    "workbox-webpack-plugin": "^7.0.0",
+    "@storybook/addon-coverage": "1.0.0",
+    "@storybook/addon-essentials": "7.6.2",
+    "@storybook/addon-interactions": "7.6.2",
+    "@storybook/addon-links": "7.6.2",
+    "@storybook/addon-onboarding": "1.0.8",
+    "@storybook/blocks": "7.6.2",
+    "@storybook/jest": "0.2.3",
+    "@storybook/react": "7.6.2",
+    "@storybook/react-webpack5": "7.6.2",
+    "@storybook/test-runner": "0.16.0",
+    "@storybook/testing-library": "0.2.2",
+    "storybook": "7.6.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie >= 11",
+      "Chrome >= 72",
+      "Edge >= 41"
+    ],
+    "development": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie >= 11",
+      "Chrome >= 72",
+      "Edge >= 41"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "plugin:storybook/recommended"
+    ]
+  },
+  "msw": {
+    "workerDirectory": "public"
+  }
+}
