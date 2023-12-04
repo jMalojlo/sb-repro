@@ -1,0 +1,1 @@
+{"v":3,"stories":{"newfeature--click-a-button":{"id":"newfeature--click-a-button","name":"Click A Button","title":"NewFeature","importPath":"./src/NewFeature/NewFeature.stories.js","tags":["play-fn","story"],"kind":"NewFeature","story":"Click A Button","parameters":{"__id":"newfeature--click-a-button","docsOnly":false,"fileName":"./src/NewFeature/NewFeature.stories.js"}}}}

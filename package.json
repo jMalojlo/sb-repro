@@ -10,12 +10,14 @@
   "scripts": {
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "test-storybook": "test-storybook --coverage && npm run generate-storybook-coverage && open ./coverage/storybook/lcov-report/index.html",
+    "test-storybook": "test-storybook --coverage && npm run generate-storybook-coverage && npm run serve-coverage",
+    "serve-coverage": "npx serve coverage/storybook/lcov-report",
     "generate-storybook-coverage": "nyc report --reporter=lcov -t coverage/storybook --report-dir coverage/storybook",
     "chromatic": "chromatic --auto-accept-changes"
   },
   "dependencies": {
-    "react": "17.0.2"
+    "react": "17.0.2",
+    "serve": "^14.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.23.3",
@@ -28,18 +30,6 @@
     "@babel/preset-env": "7.22.10",
     "@babel/preset-react": "7.22.5",
     "@side/jest-runtime": "1.1.0",
-    "@svgr/webpack": "^8.1.0",
-    "babel-jest": "^29.7.0",
-    "babel-loader": "^9.1.3",
-    "babel-plugin-istanbul": "^6.1.1",
-    "babel-plugin-module-resolver": "^5.0.0",
-    "babel-plugin-named-asset-import": "^0.3.8",
-    "babel-plugin-named-exports-order": "0.0.2",
-    "babel-preset-react-app": "^10.0.1",
-    "webpack": "^5.88.1",
-    "webpack-dev-server": "^4.15.1",
-    "webpack-manifest-plugin": "^5.0.0",
-    "workbox-webpack-plugin": "^7.0.0",
     "@storybook/addon-coverage": "1.0.0",
     "@storybook/addon-essentials": "7.6.2",
     "@storybook/addon-interactions": "7.6.2",
@@ -51,7 +41,19 @@
     "@storybook/react-webpack5": "7.6.2",
     "@storybook/test-runner": "0.16.0",
     "@storybook/testing-library": "0.2.2",
-    "storybook": "7.6.2"
+    "@svgr/webpack": "^8.1.0",
+    "babel-jest": "^29.7.0",
+    "babel-loader": "^9.1.3",
+    "babel-plugin-istanbul": "^6.1.1",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "babel-plugin-named-asset-import": "^0.3.8",
+    "babel-plugin-named-exports-order": "0.0.2",
+    "babel-preset-react-app": "^10.0.1",
+    "storybook": "7.6.2",
+    "webpack": "^5.88.1",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-manifest-plugin": "^5.0.0",
+    "workbox-webpack-plugin": "^7.0.0"
   },
   "browserslist": {
     "production": [

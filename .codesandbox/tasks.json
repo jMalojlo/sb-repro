@@ -16,27 +16,25 @@
     "storybook": {
       "name": "storybook",
       "command": "npm run storybook",
-      "runAtStart": true
+      "preview": {
+        "port": 6006
+      }
     },
     "build-storybook": {
       "name": "build-storybook",
-      "command": "npm run build-storybook",
-      "runAtStart": false
+      "command": "npm run build-storybook"
     },
     "test-storybook": {
       "name": "test-storybook",
-      "command": "npm run test-storybook",
-      "runAtStart": false
+      "command": "npm run test-storybook"
     },
     "generate-storybook-coverage": {
       "name": "generate-storybook-coverage",
-      "command": "npm run generate-storybook-coverage",
-      "runAtStart": false
+      "command": "npm run generate-storybook-coverage"
     },
     "chromatic": {
       "name": "chromatic",
-      "command": "npm run chromatic",
-      "runAtStart": false
+      "command": "npm run chromatic"
     }
   }
 }
