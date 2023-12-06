@@ -5,8 +5,8 @@ import "./woops-jsx";
 
 export const NewFeature = () => {
   const [state, setState] = useState("yellow");
-  const handler = (a) => {
-    if (a) {
+  const handler = () => {
+    if (state === "yellow") {
       setState("hello");
     } else {
       setState("yellow");
@@ -16,7 +16,7 @@ export const NewFeature = () => {
   return (
     <div>
       <h1>i am a new feature</h1>
-      <button onClick={() => handler(true)}>{state}</button>
+      <button onClick={handler}>{state}</button>
     </div>
   );
 };

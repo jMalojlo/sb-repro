@@ -14,5 +14,10 @@ export const ClickAButton = {
       userEvent.click(button);
       await waitFor(() => expect(button).toHaveTextContent("hello"));
     });
+
+    await step("Click the button again", async () => {
+      userEvent.click(button);
+      await waitFor(() => expect(button).toHaveTextContent("yellow"));
+    });
   },
 };
